@@ -1,17 +1,17 @@
 
-# **Education One-Word Domain Names**: Daily Updated List of Available Domains
+# **education One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Education one-word domains.
+This regularly updated dataset includes the latest available education one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/education-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Education one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **education one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Education domains.
+- **Domain Name**: High-quality, single-word education domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Education one-word 
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain          | status    | attractiveness | demand | length | created          | expires          | registrar                  | sectors                               |
-| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | -------------------------- | ------------------------------------- |
-| correct.so      | available | 140            | 72     | 7      |                  |                  |                            | Business,Education,Technology         |
-| correct.us      | resell    | 140            | 72     | 7      | 24/04/2002 14:53 | 23/04/2026 23:59 | Tucows Domains Inc.        | Business,Education,Technology         |
-| period.xyz      | resell    | 128            | 88     | 6      | 02/06/2014 16:33 | 02/06/2026 23:59 | Go Daddy, LLC              | Education,General,Healthcare,Media    |
-| easy.xyz        | expiring  | 128            | 84     | 4      | 28/07/2020 07:59 | 28/07/2025 23:59 | Squarespace Domains II LLC | Business,Education,Technology         |
-| something.space | available | 126            | 96     | 9      |                  |                  |                            | Education,General,Media               |
-| something.dev   | expiring  | 126            | 96     | 9      | 30/07/2021 17:55 | 30/07/2025 17:55 | Namecheap Inc.             | Education,General,Media               |
-| brief.gg        | available | 124            | 52     | 5      |                  |                  |                            | Business,Education,General,Law        |
-| present.ninja   | available | 122            | 88     | 7      |                  |                  |                            | Business,Education,Media              |
-| score.it        | resell    | 120            | 84     | 5      | 21/05/2010 02:47 | 01/06/2026 00:00 |                            | Business,Education,Sports             |
-| score.space     | available | 120            | 84     | 5      |                  |                  |                            | Business,Education,Sports             |
-| skill.it        | expiring  | 120            | 84     | 5      | 30/11/1998 00:00 | 13/07/2025 00:00 |                            | Business,Education,Media              |
-| score.pro       | resell    | 120            | 84     | 5      | 30/07/2007 00:00 | 30/07/2026 00:00 | Porkbun LLC                | Business,Education,Sports             |
-| bully.expert    | available | 118            | 84     | 5      |                  |                  |                            | Education                             |
-| why.ai          | resell    | 118            | 84     | 3      | 16/12/2017 02:35 | 15/09/2025 02:35 | Zenaida.cate.ai            | Education,Humanities,Media            |
-| try.store       | available | 116            | 96     | 3      |                  |                  |                            | Business,Education,Sports             |
-| primary.app     | expired   | 116            | 84     | 7      | 08/05/2018 16:00 | 08/05/2025 16:00 | Gandi SAS                  | Business,Education,Media              |
-| enough.tech     | available | 114            | 84     | 6      |                  |                  |                            | Business,Education,General,Retail     |
-| course.dev      | available | 114            | 88     | 6      |                  |                  |                            | Business,Education,Media              |
-| class.co        | resell    | 114            | 88     | 5      | 21/07/2010 21:38 | 20/07/2026 23:59 | NameCheap, Inc.            | Business,Education,Media              |
-| course.cloud    | available | 114            | 88     | 6      |                  |                  |                            | Business,Education,Media              |
-| lead.store      | available | 112            | 92     | 4      |                  |                  |                            | Business,Education,Technology         |
-| affirmative.dev | expiring  | 112            | 84     | 11     | 17/07/2023 13:55 | 17/07/2025 13:55 | GoDaddy.com, LLC           | Education,General,Humanities,Media    |
-| Microsoft.ninja | expired   | 112            | 100    | 9      | 22/04/2014 13:49 | 22/04/2025 13:49 | Nom-iq Ltd. dba COM LAUDE  | Business,Education,Technology         |
-| term.ai         | expiring  | 112            | 92     | 4      | 15/12/2017 22:29 | 26/07/2025 22:29 | Key-Systems GmbH           | Business,Education,Technology         |
-| give.it         | resell    | 112            | 84     | 4      | 13/06/2016 16:00 | 13/06/2026 00:00 |                            | Business,Education,General,Humanities |
-| Microsoft.dev   | available | 112            | 100    | 9      |                  |                  |                            | Business,Education,Technology         |
-| term.zone       | available | 112            | 92     | 4      |                  |                  |                            | Business,Education,Technology         |
-| affirmative.so  | available | 112            | 84     | 11     |                  |                  |                            | Education,General,Humanities,Media    |
-| profound.io     | resell    | 111            | 84     | 8      | 22/09/2018 10:51 | 22/09/2025 10:51 | GoDaddy.com, LLC           | Education,Humanities,Media            |
-| preach.me       | resell    | 110            | 76     | 6      | 30/09/2011 02:35 | 30/09/2025 02:35 | Dynadot Inc                | Education,Humanities,Religion         |
+| domain               | status    | attractiveness | demand | length | created          | expires          | registrar                                                 | sectors                           |
+| -------------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------------------------------------------- | --------------------------------- |
+| tenth.education      | available | 116            | 7      | 5      |                  |                  |                                                           | Mathematics                       |
+| zero.education       | resell    | 112            | 49     | 4      | 05/08/2022 19:41 | 05/08/2027 19:41 | GoDaddy.com, LLC                                          | Mathematics                       |
+| twentieth.education  | available | 92             | 3      | 9      |                  |                  |                                                           | Mathematics                       |
+| nought.education     | available | 92             | 4      | 6      |                  |                  |                                                           | Mathematics                       |
+| leash.education      | available | 90             | 7      | 5      |                  |                  |                                                           | General,Health and Fitness,Retail |
+| sixteen.education    | available | 88             | 11     | 7      |                  |                  |                                                           | Mathematics                       |
+| fifteen.education    | available | 88             | 13     | 7      |                  |                  |                                                           | Mathematics                       |
+| ace.education        | resell    | 88             | 34     | 3      | 17/06/2021 00:50 | 17/06/2026 00:50 | Global Domains International, Inc. DBA DomainCostClub.com | Sports                            |
+| twelve.education     | available | 88             | 18     | 6      |                  |                  |                                                           | General,Mathematics               |
+| xiv.education        | available | 86             | 12     | 3      |                  |                  |                                                           | Mathematics                       |
+| cipher.education     | available | 86             | 29     | 6      |                  |                  |                                                           | Mathematics                       |
+| xix.education        | available | 86             | 11     | 3      |                  |                  |                                                           | Mathematics                       |
+| nineteen.education   | available | 84             | 8      | 8      |                  |                  |                                                           | Mathematics                       |
+| twentyone.education  | available | 84             | 13     | 10     |                  |                  |                                                           | Mathematics                       |
+| thirteen.education   | available | 84             | 10     | 8      |                  |                  |                                                           | Mathematics                       |
+| seventeen.education  | available | 84             | 7      | 9      |                  |                  |                                                           | Mathematics                       |
+| twentytwo.education  | available | 84             | 11     | 10     |                  |                  |                                                           | Mathematics                       |
+| grand.education      | available | 84             | 25     | 5      |                  |                  |                                                           | Finance,General                   |
+| fourteen.education   | available | 84             | 8      | 8      |                  |                  |                                                           | Mathematics                       |
+| thousand.education   | available | 84             | 8      | 8      |                  |                  |                                                           | Mathematics                       |
+| decade.education     | available | 82             | 10     | 6      |                  |                  |                                                           | Mathematics                       |
+| dozen.education      | available | 82             | 10     | 5      |                  |                  |                                                           | Mathematics                       |
+| two.education        | available | 80             | 24     | 3      |                  |                  |                                                           | Mathematics                       |
+| twenty.education     | available | 80             | 12     | 6      |                  |                  |                                                           | Mathematics                       |
+| yard.education       | available | 80             | 26     | 4      |                  |                  |                                                           | Construction,General              |
+| twentysix.education  | available | 78             | 8      | 10     |                  |                  |                                                           | Mathematics                       |
+| fifteenth.education  | available | 76             | 2      | 9      |                  |                  |                                                           | Mathematics                       |
+| eighteen.education   | available | 76             | 7      | 8      |                  |                  |                                                           | Mathematics                       |
+| hundredth.education  | available | 76             | 1      | 9      |                  |                  |                                                           | Mathematics                       |
+| thirteenth.education | available | 76             | 4      | 10     |                  |                  |                                                           | Mathematics                       |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/education-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/education-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
