@@ -1,17 +1,17 @@
 
-# **Education One-Word Domain Names**: Daily Updated List of Available Domains
+# **education One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Education one-word domains.
+This regularly updated dataset includes the latest available education one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/education-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Education one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **education one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Education domains.
+- **Domain Name**: High-quality, single-word education domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Education one-word 
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain            | status    | attractiveness | demand | length | created          | expires          | registrar           | sectors                        |
-| ----------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------- | ------------------------------ |
-| bad.organic       | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.review        | expiring  | 142            | 39     | 3      | 20/09/2016 11:44 | 19/09/2025 23:59 | Safenames Ltd       | Education,General              |
-| bad.voyage        | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.photo         | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.attorney      | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.supply        | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.condos        | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.yachts        | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.clinic        | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.tickets       | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.com           | resell    | 142            | 39     | 3      | 20/11/1998 05:00 | 19/11/2025 05:00 | Tucows Domains Inc. | Education,General              |
-| bad.hockey        | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| bad.adult         | available | 142            | 39     | 3      |                  |                  |                     | Education,General              |
-| correct.so        | available | 140            | 72     | 7      |                  |                  |                     | Business,Education,Technology  |
-| correct.us        | resell    | 140            | 72     | 7      | 24/04/2002 14:53 | 23/04/2026 23:59 | Tucows Domains Inc. | Business,Education,Technology  |
-| something.space   | available | 126            | 96     | 9      |                  |                  |                     | Education,General,Media        |
-| brief.football    | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.soy         | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.hiv         | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.graphics    | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.tv          | resell    | 124            | 20     | 5      | 03/08/2007 08:37 | 03/08/2026 08:37 | GoDaddy.com, LLC    | Business,Education,General,Law |
-| brief.gg          | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.download    | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.esq         | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.gripe       | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.protection  | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.enterprises | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| brief.tax         | available | 124            | 20     | 5      |                  |                  |                     | Business,Education,General,Law |
-| score.it          | resell    | 120            | 84     | 5      | 21/05/2010 02:47 | 01/06/2026 00:00 |                     | Business,Education,Sports      |
-| score.space       | available | 120            | 84     | 5      |                  |                  |                     | Business,Education,Sports      |
+| domain             | status    | attractiveness | demand | length | created          | expires          | registrar                                   | sectors                               |
+| ------------------ | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------- | ------------------------------------- |
+| bad.education      | available | 142            | 39     | 3      |                  |                  |                                             | Education,General                     |
+| damn.education     | available | 140            | 20     | 4      |                  |                  |                                             | Entertainment,Sports                  |
+| off.education      | available | 128            | 22     | 3      |                  |                  |                                             | Business,General                      |
+| heavy.education    | available | 122            | 22     | 5      |                  |                  |                                             | Business,Media,Technology             |
+| tough.education    | available | 122            | 13     | 5      |                  |                  |                                             | Health and Fitness,Sports             |
+| tender.education   | available | 120            | 22     | 6      |                  |                  |                                             | Hospitality,Retail                    |
+| tenth.education    | available | 116            | 7      | 5      |                  |                  |                                             | Mathematics                           |
+| fond.education     | available | 116            | 11     | 4      |                  |                  |                                             | General,Hospitality,Retail            |
+| whatever.education | expiring  | 116            | 25     | 8      | 30/08/2020 10:21 | 30/08/2025 10:21 | NameCheap, Inc.                             | Business,Entertainment,Media          |
+| tonic.education    | available | 114            | 22     | 5      |                  |                  |                                             | Health and Fitness,Medicine,Science   |
+| flush.education    | available | 114            | 12     | 5      |                  |                  |                                             | Business,Finance,Media                |
+| zero.education     | resell    | 112            | 49     | 4      | 05/08/2022 19:41 | 05/08/2027 19:41 | GoDaddy.com, LLC                            | Mathematics                           |
+| average.education  | available | 112            | 12     | 7      |                  |                  |                                             | Mathematics                           |
+| acute.education    | available | 112            | 9      | 5      |                  |                  |                                             | Mathematics,Medicine,Science          |
+| audible.education  | available | 112            | 29     | 7      |                  |                  |                                             | Entertainment,Technology              |
+| warm.education     | available | 112            | 16     | 4      |                  |                  |                                             | Hospitality,Retail                    |
+| bloody.education   | available | 110            | 11     | 6      |                  |                  |                                             | Entertainment,Law,Media               |
+| joint.education    | available | 108            | 19     | 5      |                  |                  |                                             | Construction,Healthcare,Manufacturing |
+| live.education     | expiring  | 108            | 37     | 4      | 24/09/2015 18:41 | 24/09/2025 18:41 | GoDaddy Online Services Cayman Islands Ltd. | Entertainment,Sports                  |
+| abstract.education | available | 108            | 28     | 8      |                  |                  |                                             | Arts,Humanities,Science               |
+| trick.education    | available | 106            | 14     | 5      |                  |                  |                                             | Entertainment                         |
+| abiding.education  | available | 106            | 5      | 7      |                  |                  |                                             | General,Religion                      |
+| alright.education  | available | 106            | 10     | 7      |                  |                  |                                             | Business,Retail                       |
+| prank.education    | available | 106            | 11     | 5      |                  |                  |                                             | Entertainment                         |
+| open.education     | resell    | 106            | 50     | 4      | 16/12/2023 15:15 | 16/12/2025 15:15 | Sav.com, LLC - 36                           | Religion                              |
+| whole.education    | resell    | 104            | 17     | 5      | 27/01/2020 14:38 | 27/01/2026 14:38 | GoDaddy.com, LLC                            | Business,Real Estate                  |
+| teen.education     | expired   | 104            | 16     | 4      | 15/07/2015 16:00 | 15/07/2025 16:00 | Nom-iq Ltd. dba COM LAUDE                   | Education,Entertainment,Healthcare    |
+| expert.education   | resell    | 104            | 27     | 6      | 28/11/2024 17:02 | 28/11/2025 17:02 | Porkbun LLC                                 | Business,Education,Technology         |
+| active.education   | resell    | 104            | 26     | 6      | 09/11/2017 08:36 | 09/11/2025 08:36 | Sav.com, LLC                                | Health and Fitness,Sports,Travel      |
+| option.education   | available | 104            | 18     | 6      |                  |                  |                                             | Finance,General                       |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/education-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/education-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
