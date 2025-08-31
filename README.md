@@ -1,62 +1,62 @@
 
-# List of .EDUCATION One Word Domain Names (3,209)
+# List of Education One Word Domain Names (5,351)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/education-oneword-domains.svg?style=flat)]() [![3,209 .EDUCATION one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C209-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Education-oneword-domains.svg?style=flat)]() [![5,351 Education one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-5%2C351-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .EDUCATION one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Education one-word domains still available to buy.
 
-This dataset contains 3,319 .EDUCATION one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Education one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.EDUCATION one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.top) (3,209) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Education one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.top) (5,351) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/education-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/education-oneword-domains/blob/main/education.csv"><b>⬇️ CSV (3.32K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/education-oneword-domains/blob/main/education.json"><b>⬇️ JSON (3.32K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.21K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Education-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Education-oneword-domains/blob/main/Education.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Education-oneword-domains/blob/main/Education.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.35K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain               | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| -------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.education  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.education      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.education  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.education    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.education     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.education   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.education     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.education    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.education   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.education  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.education  | available | 82       | 2%     | 9      |           |         |         |
-| abdominous.education | available | 56       | 1%     | 10     |           |         |         |
-| abducens.education   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.education   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.education  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.education    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.education | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.education   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.education    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.education  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.education    | available | 106      | 5%     | 7      |           |         |         |
-| abient.education     | available | 54       | 1%     | 6      |           |         |         |
-| abject.education     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.education     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.education  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.education     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.education  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.education    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.education   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.education     | available | 72       | 6%     | 6      |           |         |         |
+| Domain           | Status    | Attract. | Demand | Length | Registrar                                             | Created          | Expires          |
+| ---------------- | --------- | -------- | ------ | ------ | ----------------------------------------------------- | ---------------- | ---------------- |
+| education.at     | sold      | 82       | 80%    | 9      | InterNetX GmbH ( https://nic.at/registrar/80 )        |                  |                  |
+| education.cloud  | resell    | 82       | 80%    | 9      | Tucows Domains Inc.                                   | 12/02/2020 14:39 | 13/02/2026 14:17 |
+| education.co     | resell    | 82       | 80%    | 9      | Hello Internet Corp.                                  | 25/02/2010 00:15 | 24/02/2026 23:59 |
+| education.expert | premium   | 82       | 80%    | 9      |                                                       |                  |                  |
+| education.it     | resell    | 82       | 80%    | 9      |                                                       | 14/02/2024 09:00 | 10/02/2026 00:00 |
+| education.me     | premium   | 82       | 80%    | 9      |                                                       |                  |                  |
+| education.net    | resell    | 82       | 80%    | 9      | Domain.com, LLC                                       | 02/08/1995 04:00 | 01/08/2028 04:00 |
+| education.ninja  | resell    | 82       | 80%    | 9      | Sav.com, LLC                                          | 04/08/2024 17:08 | 04/08/2025 17:08 |
+| education.online | premium   | 82       | 80%    | 9      |                                                       |                  |                  |
+| education.site   | premium   | 82       | 80%    | 9      |                                                       |                  |                  |
+| education.so     | resell    | 82       | 80%    | 9      | SOSTEC TECHNOLOGIES_LR                                | 23/09/2024 05:01 | 23/09/2025 05:01 |
+| education.space  | premium   | 82       | 80%    | 9      |                                                       |                  |                  |
+| education.store  | premium   | 82       | 80%    | 9      |                                                       |                  |                  |
+| education.tech   | premium   | 82       | 80%    | 9      |                                                       |                  |                  |
+| education.xyz    | premium   | 82       | 80%    | 9      |                                                       |                  |                  |
+| learning.ai      | resell    | 76       | 84%    | 8      | Porkbun LLC                                           | 16/12/2017 00:46 | 19/01/2027 00:46 |
+| learning.at      | sold      | 76       | 84%    | 8      | DAY Investments GmbH ( https://nic.at/registrar/485 ) |                  |                  |
+| learning.cloud   | available | 76       | 84%    | 8      |                                                       |                  |                  |
+| learning.gg      | resell    | 76       | 84%    | 8      | West263 International Limited (http://www.west263.hk) |                  |                  |
+| learning.me      | premium   | 76       | 84%    | 8      |                                                       |                  |                  |
+| learning.online  | premium   | 76       | 84%    | 8      |                                                       |                  |                  |
+| learning.pro     | expiring  | 76       | 84%    | 8      | NameSilo, LLC                                         | 09/07/2013 01:39 | 09/07/2025 01:39 |
+| learning.site    | premium   | 76       | 84%    | 8      |                                                       |                  |                  |
+| learning.so      | resell    | 76       | 84%    | 8      | NameCheap                                             | 19/08/2020 05:01 | 19/08/2025 05:01 |
+| learning.store   | premium   | 76       | 84%    | 8      |                                                       |                  |                  |
+| learning.tech    | premium   | 76       | 84%    | 8      |                                                       |                  |                  |
+| learning.xyz     | premium   | 76       | 84%    | 8      |                                                       |                  |                  |
+| instruction.ai   | resell    | 56       | 80%    | 11     | Ewire                                                 | 16/12/2017 01:01 | 07/12/2025 01:01 |
+| instruction.app  | premium   | 56       | 80%    | 11     |                                                       |                  |                  |
+| instruction.at   | premium   | 56       | 80%    | 11     |                                                       |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/education-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/education-oneword-domains/blob/main/education.csv"><b>⬇️ CSV (3.32K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/education-oneword-domains/blob/main/education.json"><b>⬇️ JSON (3.32K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.21K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Education-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Education-oneword-domains/blob/main/Education.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Education-oneword-domains/blob/main/Education.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.35K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -643,11 +643,11 @@ If you want to search & filters the complete database of [.EDUCATION one word do
 | Travel             | 6,155        | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 4,672        | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/education-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Education-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.image)
         
