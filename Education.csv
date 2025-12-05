@@ -16,7 +16,7 @@ c0fb551f-ab07-4cb3-a427-979c79e781c4,education.store,premium,82,80,9,,,
 20110735-3c79-49e9-898e-6ebfed6ba4e6,education.xyz,premium,82,80,9,,,
 e428dbea-41f1-4f87-b5cd-e1151434e96b,learning.ai,resell,76,84,8,Porkbun LLC,16/12/2017 00:46,19/01/2027 00:46
 92980c71-2ab8-45cc-a099-fdca1b6d9348,learning.at,sold,76,84,8,DAY Investments GmbH ( https://nic.at/registrar/485 ),,
-79323d74-dfac-4206-ad5c-99fc7e1426f3,learning.cloud,available,76,84,8,,,
+79323d74-dfac-4206-ad5c-99fc7e1426f3,learning.cloud,premium,76,84,8,,,
 4cb119fb-c8e5-46d7-9ab5-80b89e4eff6b,learning.gg,resell,76,84,8,West263 International Limited (http://www.west263.hk),,
 37c53a72-0847-442f-9590-6cf9aa040277,learning.me,premium,76,84,8,,,
 8e9c86b5-3ff0-4f01-ae05-8d69ce01017e,learning.online,premium,76,84,8,,,
@@ -53,7 +53,7 @@ eb7fee7e-142b-40b6-93fc-23f2425fb109,training.online,premium,70,88,8,,,
 760afe27-3b6d-4338-8a25-810a7c7794aa,training.site,premium,70,88,8,,,
 5c59e59e-bfc0-45e3-af89-b4db938d67bc,training.so,resell,70,88,8,SOSTEC TECHNOLOGIES_LR,19/06/2024 05:42,19/06/2026 05:42
 fad07601-443b-46bc-b6e3-2f0cd412c2f4,training.space,premium,70,88,8,,,
-9e0b49c6-34a9-4e12-93bc-2e0b8d8dec02,training.store,available,70,88,8,,,
+9e0b49c6-34a9-4e12-93bc-2e0b8d8dec02,training.store,premium,70,88,8,,,
 18904504-415a-4914-be80-bb6b17e784fe,training.tech,premium,70,88,8,,,
 de4792cd-2f78-448d-808e-6cd9489997df,teaching.at,premium,66,84,8,,,
 2d44114e-0f92-40d3-8bb1-723851e8d50b,teaching.cloud,premium,66,84,8,,,
@@ -131,18 +131,18 @@ d3e2721a-65d3-4c23-93e3-c26a7112314f,curriculum.so,available,60,84,10,,,
 124f788d-3d71-48f8-bdab-55d29b8e31ab,curriculum.zone,available,60,84,10,,,
 954a0ab0-e0d3-4e1e-8e90-88c19309610c,classes.ai,resell,40,36,7,"NameCheap, Inc.",03/08/2018 04:09,03/08/2026 04:09
 73054a23-0cfb-4722-8d36-449e5a630510,classes.at,resell,40,36,7,EWBCD GmbH ( https://nic.at/registrar/750 ),,
-0411489c-f7b6-4d71-a594-60ed719777ad,classes.cloud,available,40,36,7,,,
+0411489c-f7b6-4d71-a594-60ed719777ad,classes.cloud,premium,40,36,7,,,
 dc9c2fcb-88bb-44bd-82cf-daaa2748f2f0,classes.com,resell,40,36,7,Dynadot Inc,11/05/1995 04:00,01/03/2033 17:26
-cf4461af-dc3c-4e7b-869d-16b8c6516a1a,classes.dev,available,40,36,7,,,
+cf4461af-dc3c-4e7b-869d-16b8c6516a1a,classes.dev,premium,40,36,7,,,
 b32321e5-0485-4183-b900-e7510cdce071,classes.expert,available,40,36,7,,,
 18411468-696f-4201-98f0-82003bfd0005,classes.gg,available,40,36,7,,,
 e9f600ae-cb7b-4ee6-ae37-40b49f5566d6,classes.it,resell,40,36,7,,21/05/2010 16:48,01/06/2026 00:00
 6ea748ca-ad48-4a5f-923d-b18505bfacea,classes.ninja,available,40,36,7,,,
-dcf0348c-5b74-4ffa-a80e-9f9f4b5c3716,classes.online,available,40,36,7,,,
+dcf0348c-5b74-4ffa-a80e-9f9f4b5c3716,classes.online,premium,40,36,7,,,
 c91d4d3a-f538-4a13-a286-2f64a9d9ceb7,classes.pro,expiring,40,36,7,"Sav.com, LLC - 42",20/07/2024 17:00,20/07/2025 17:00
 2679bc2c-1bc7-4da7-a8d7-9120b309ce1e,classes.site,available,40,36,7,,,
-32a58a8e-4e17-4f91-ac50-262c42ffe6a2,classes.space,available,40,36,7,,,
-3c5bbae9-741e-4a93-8309-5a806bf59b0b,classes.store,available,40,36,7,,,
+32a58a8e-4e17-4f91-ac50-262c42ffe6a2,classes.space,premium,40,36,7,,,
+3c5bbae9-741e-4a93-8309-5a806bf59b0b,classes.store,premium,40,36,7,,,
 5c63d976-ea59-4088-80ab-31016c7b966a,classes.tech,resell,40,36,7,"Go Daddy, LLC",09/11/2024 17:57,09/11/2025 23:59
 9efc8b1a-e587-497e-ad44-95833e33c39b,classes.zone,available,40,36,7,,,
 0e906c98-c176-42b9-9a81-6de1fe332782,courses.app,expired,82,88,7,"Wild West Domains, LLC",05/05/2018 16:00,05/05/2025 16:00
@@ -826,17 +826,17 @@ ea602b83-7986-48b5-acf8-6f8ad46924df,student.tech,available,78,96,7,,,
 13b745d4-a44c-4dd4-9095-72fd6d9b8228,student.us,resell,78,96,7,Porkbun,24/04/2002 14:02,23/04/2026 23:59
 a92acab2-2221-4472-9b10-614691b30b1b,student.xyz,resell,78,96,7,DNC Holdings INC,20/05/2014 12:08,20/05/2026 23:59
 deb9ec89-4da7-4dac-a046-37ed938cace3,student.zone,available,78,96,7,,,
-f91ef25b-55f5-4356-83eb-ad3b2b377b65,professor.space,available,74,80,9,,,
-3f6fa6d4-e377-49a5-92c0-9f6317d14029,professor.store,available,74,80,9,,,
-5e003425-ca4a-43d8-8706-d8f4036b8774,professor.tech,available,74,80,9,,,
-4057ffa8-47ba-434c-a2ca-94c806f226c6,professor.us,resell,74,80,9,"GoDaddy.com, LLC",24/04/2002 14:14,23/04/2026 23:59
-f0aa641f-24bb-4a6d-86ad-9ee3dba28042,professor.xyz,expiring,74,80,9,Dynadot LLC,20/07/2015 15:27,20/07/2025 23:59
 41a9330c-96fd-43eb-87f1-8bdd9ac98893,professor.at,available,74,80,9,,,
 6ed0e2ca-e58f-4800-ade3-13265af87dfa,professor.co,expiring,74,80,9,"GoDaddy.com, LLC",20/07/2010 18:05,19/07/2025 23:59
 4e4262dd-de4b-4c83-a864-5849e24e0784,professor.me,available,74,80,9,,,
 572cf82c-0e12-4a6d-9962-0acb2b267b1a,professor.online,available,74,80,9,,,
 02ebe532-fee1-4019-871b-a38ee7c86c13,professor.site,available,74,80,9,,,
 d6b171d8-0b9e-4cdb-a179-bc656e20d448,professor.so,available,74,80,9,,,
+f91ef25b-55f5-4356-83eb-ad3b2b377b65,professor.space,available,74,80,9,,,
+3f6fa6d4-e377-49a5-92c0-9f6317d14029,professor.store,available,74,80,9,,,
+5e003425-ca4a-43d8-8706-d8f4036b8774,professor.tech,available,74,80,9,,,
+4057ffa8-47ba-434c-a2ca-94c806f226c6,professor.us,resell,74,80,9,"GoDaddy.com, LLC",24/04/2002 14:14,23/04/2026 23:59
+f0aa641f-24bb-4a6d-86ad-9ee3dba28042,professor.xyz,expiring,74,80,9,Dynadot LLC,20/07/2015 15:27,20/07/2025 23:59
 a997020b-2854-4b0d-839f-7c9ac6f62c39,instructor.at,available,70,80,10,,,
 9b7c5ca7-8f00-48b9-b0f6-6e0c3ea6e7bf,instructor.co,resell,70,80,10,Dynadot Inc,20/07/2010 18:06,19/07/2026 23:59
 7f5ee990-3e09-40fe-a0dc-a44484610072,instructor.dev,available,70,80,10,,,
