@@ -1,62 +1,62 @@
 
-# List of Education One Word Domain Names (13,715)
+# List of .EDUCATION One Word Domain Names (5,060)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Education-oneword-domains.svg?style=flat)]() [![13,715 Education one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-13%2C715-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/education-oneword-domains.svg?style=flat)]() [![5,060 .EDUCATION one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-5%2C060-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential Education one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential .EDUCATION one-word domains still available to buy.
 
-This dataset contains 1,000 Education one word domains with availability, attractiveness and demand scores.
+This dataset contains 6,075 .EDUCATION one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [Education one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.top) (13,715) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.EDUCATION one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.top) (5,060) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Education-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Education-oneword-domains/blob/main/Education.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Education-oneword-domains/blob/main/Education.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (13.72K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/education-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/education-oneword-domains/blob/main/education.csv"><b>⬇️ CSV (6.08K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/education-oneword-domains/blob/main/education.json"><b>⬇️ JSON (6.08K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain                | Status    | Attract. | Demand | Length | Registrar                                      | Created          | Expires          |
-| --------------------- | --------- | -------- | ------ | ------ | ---------------------------------------------- | ---------------- | ---------------- |
-| education.accountant  | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.accountants | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.actor       | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.adult       | resell    | 82       | 28%    | 9      | Name.com, Inc.                                 | 09/06/2017 14:30 | 09/06/2026 14:30 |
-| education.airforce    | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.apartments  | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.archi       | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.army        | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.art         | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.at          | sold      | 82       | 28%    | 9      | InterNetX GmbH ( https://nic.at/registrar/80 ) |                  |                  |
-| education.attorney    | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.auction     | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.auto        | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.autos       | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.baby        | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.band        | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.bar         | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.bargains    | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.bayern      | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.beauty      | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.berlin      | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.bid         | resell    | 82       | 28%    | 9      | Porkbun                                        | 26/07/2019 14:50 | 26/07/2026 14:50 |
-| education.bike        | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.bingo       | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.bio         | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.black       | resell    | 82       | 28%    | 9      | Xiamen ChinaSource Internet Service Co., Ltd   | 14/10/2025 15:15 | 14/10/2026 15:15 |
-| education.blackfriday | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.blog        | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.boats       | available | 82       | 28%    | 9      |                                                |                  |                  |
-| education.boo         | available | 82       | 28%    | 9      |                                                |                  |                  |
+| Domain               | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| -------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| abactinal.education  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.education      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.education  | available | 58       | 7%     | 9      |           |         |         |
+| abashed.education    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.education     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.education   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.education     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.education    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.education   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.education  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.education  | available | 82       | 5%     | 9      |           |         |         |
+| abdominous.education | available | 56       | 1%     | 10     |           |         |         |
+| abducens.education   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.education   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.education  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.education    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.education | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.education   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.education    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.education  | available | 54       | 3%     | 9      |           |         |         |
+| abiding.education    | available | 106      | 5%     | 7      |           |         |         |
+| abient.education     | available | 54       | 1%     | 6      |           |         |         |
+| abit.education       | available | 66       | 12%    | 5      |           |         |         |
+| abject.education     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.education     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.education  | available | 78       | 1%     | 9      |           |         |         |
+| abkhaz.education     | available | 82       | 2%     | 6      |           |         |         |
+| abkhazian.education  | available | 78       | 1%     | 9      |           |         |         |
+| ablated.education    | available | 52       | 2%     | 7      |           |         |         |
+| ablative.education   | available | 68       | 3%     | 8      |           |         |         |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Education-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Education-oneword-domains/blob/main/Education.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Education-oneword-domains/blob/main/Education.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (13.72K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/education-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/education-oneword-domains/blob/main/education.csv"><b>⬇️ CSV (6.08K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/education-oneword-domains/blob/main/education.json"><b>⬇️ JSON (6.08K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -89,8 +89,8 @@ If you want to search & filters the complete database of [Education one word dom
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 27,088       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 56,418       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expiring | 59,909       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 4,461,757    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [Education one word dom
 | Travel             | 20,075       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 15,956       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Education-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/education-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=description.image)
         
