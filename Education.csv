@@ -350,6 +350,20 @@ e7a752f4-8459-4568-a223-c114978bc5b0,education.yachts,premium,82,28,9,,,
 7140538f-637f-4793-b97e-23dad869563b,education.yoga,premium,82,28,9,,,
 074e6c27-94f7-4b81-b995-32fb66ed6aee,education.you,premium,82,28,9,,,
 5aafe2bd-2dbb-4115-a42c-02fdd7d7e6c1,education.zip,premium,82,28,9,,,
+7477ded3-e636-4816-b6b3-8da76bc88dd5,learning.shopping,available,76,32,8,,,
+9dc960f6-8c4c-4e99-96ff-41f0c8c1a077,learning.show,resell,76,32,8,"DNSPod, Inc.",13/05/2018 02:07,13/05/2026 02:07
+543cabfd-418b-4688-8090-5ae27a9e5a55,learning.singles,available,76,32,8,,,
+330fcb2b-eb98-4c27-9a10-a59e7afda0e3,learning.site,premium,76,32,8,,,
+f355b221-eaee-4c25-8cec-ba04848c0f1b,learning.ski,premium,76,32,8,,,
+777e3309-99be-475d-8844-8bce6b7c9210,learning.skin,resell,76,32,8,"Sav.com, LLC - 19",05/05/2025 08:43,05/05/2026 23:59
+2cf31850-f3d5-4183-a667-e30a4d54a1ab,learning.so,resell,76,32,8,NameCheap,19/08/2020 05:01,19/08/2025 05:01
+7b736964-1608-4813-86e0-6b07b93fd34f,learning.soccer,available,76,32,8,,,
+f2ef61ba-a50e-44d4-ac42-d17c12d008d7,learning.social,resell,76,32,8,"Sav.com, LLC - 23",17/02/2025 15:15,17/02/2026 15:15
+bb751206-a5b6-42a8-84af-3bec1c1db1d6,learning.software,premium,76,32,8,,,
+5b0262bb-ee48-4135-8742-7fb73ccc30e3,learning.solar,resell,76,32,8,"GoDaddy.com, LLC",26/02/2023 17:33,26/02/2026 17:33
+b4fc1deb-aa83-4538-a6f9-3a3305743c60,learning.soy,premium,76,32,8,,,
+9704c586-9388-4b5a-8b0d-65c34de898aa,learning.space,resell,76,32,8,Epik LLC,18/11/2016 08:14,18/11/2026 23:59
+0053cbd0-fcc5-472a-8750-7f830be6494f,learning.srl,available,76,32,8,,,
 8381fe7d-2066-4c5a-84fd-6503d74b370a,learning.storage,available,76,32,8,,,
 e29fcd6d-806c-4739-aafa-37822a286ab7,learning.store,premium,76,32,8,,,
 352715be-2d0b-49fa-8d23-c683f5f63dd0,learning.stream,premium,76,32,8,,,
@@ -670,20 +684,6 @@ af5370ae-4f21-4961-8ce6-250350de52d4,learning.security,available,76,32,8,,,
 a1a41485-489f-4008-b412-7b7643db07e6,learning.sexy,available,76,32,8,,,
 84df3a90-a8cb-4b11-9498-9bbd410da9e9,learning.shiksha,premium,76,32,8,,,
 8e0a17a4-0110-4885-b712-1336ab2da35b,learning.shoes,available,76,32,8,,,
-7477ded3-e636-4816-b6b3-8da76bc88dd5,learning.shopping,available,76,32,8,,,
-9dc960f6-8c4c-4e99-96ff-41f0c8c1a077,learning.show,resell,76,32,8,"DNSPod, Inc.",13/05/2018 02:07,13/05/2026 02:07
-543cabfd-418b-4688-8090-5ae27a9e5a55,learning.singles,available,76,32,8,,,
-330fcb2b-eb98-4c27-9a10-a59e7afda0e3,learning.site,premium,76,32,8,,,
-f355b221-eaee-4c25-8cec-ba04848c0f1b,learning.ski,premium,76,32,8,,,
-777e3309-99be-475d-8844-8bce6b7c9210,learning.skin,resell,76,32,8,"Sav.com, LLC - 19",05/05/2025 08:43,05/05/2026 23:59
-2cf31850-f3d5-4183-a667-e30a4d54a1ab,learning.so,resell,76,32,8,NameCheap,19/08/2020 05:01,19/08/2025 05:01
-7b736964-1608-4813-86e0-6b07b93fd34f,learning.soccer,available,76,32,8,,,
-f2ef61ba-a50e-44d4-ac42-d17c12d008d7,learning.social,resell,76,32,8,"Sav.com, LLC - 23",17/02/2025 15:15,17/02/2026 15:15
-bb751206-a5b6-42a8-84af-3bec1c1db1d6,learning.software,premium,76,32,8,,,
-5b0262bb-ee48-4135-8742-7fb73ccc30e3,learning.solar,resell,76,32,8,"GoDaddy.com, LLC",26/02/2023 17:33,26/02/2026 17:33
-b4fc1deb-aa83-4538-a6f9-3a3305743c60,learning.soy,premium,76,32,8,,,
-9704c586-9388-4b5a-8b0d-65c34de898aa,learning.space,resell,76,32,8,Epik LLC,18/11/2016 08:14,18/11/2026 23:59
-0053cbd0-fcc5-472a-8750-7f830be6494f,learning.srl,available,76,32,8,,,
 54fcf5cb-771e-41c7-840a-806dc222dff8,instruction.ai,resell,56,80,11,Ewire,16/12/2017 01:01,07/12/2025 01:01
 bc2479c8-2e1b-4da2-8972-24376d8dd5aa,instruction.app,premium,56,80,11,,,
 1679493d-4344-4921-966c-d652a4e423d6,instruction.at,premium,56,80,11,,,
@@ -744,17 +744,17 @@ cc81e251-e584-4eec-bf0d-972b80ef3b91,schooling.so,available,54,76,9,,,
 b9d92724-3ab6-44e7-90fd-09d8e2cdfc5d,schooling.space,premium,54,76,9,,,
 6ac9da3f-5743-428b-811c-8990d4822358,schooling.zone,available,54,76,9,,,
 395981af-3807-4121-a09c-2c0ab19d062f,tutoring.app,resell,,80,8,Dynadot LLC.,06/05/2018 07:13,06/05/2026 07:13
-f161c5e2-1f1d-4fd5-9632-0208b1187208,tutoring.cloud,premium,,80,8,,,
 a79f5e76-51ac-41a8-bb7a-dfa42a08f5be,tutoring.at,available,,80,8,,,
-28bd1d34-e829-424d-a578-07c385bd575f,tutoring.tech,premium,,80,8,,,
-bc729311-b49a-4495-884b-f51551e2d07d,tutoring.store,premium,,80,8,,,
-60851fb2-52f6-430c-a661-aa310e2a81a3,tutoring.space,premium,,80,8,,,
-595afe56-00cf-48dd-8e66-bfa237b880cd,tutoring.so,available,,80,8,,,
-1508cfb7-d93d-44d1-b40b-8195c74dca8d,tutoring.site,premium,,80,8,,,
-8f0d0dae-bb76-49fe-bb0c-72cc0a03707c,tutoring.online,premium,,80,8,,,
-1f4d58e2-e670-4259-8dec-301bf2e5ca4a,tutoring.me,resell,,80,8,Dynadot Inc,17/07/2008 17:40,17/07/2026 17:40
-26bb311f-a1d8-4c37-87e4-1d96f5372757,tutoring.gg,available,,80,8,,,
+f161c5e2-1f1d-4fd5-9632-0208b1187208,tutoring.cloud,premium,,80,8,,,
 6f63a6b8-a797-4a90-8a36-0c9282127c45,tutoring.co,expiring,,80,8,"GoDaddy.com, LLC",21/07/2010 20:17,20/07/2025 23:59
+26bb311f-a1d8-4c37-87e4-1d96f5372757,tutoring.gg,available,,80,8,,,
+1f4d58e2-e670-4259-8dec-301bf2e5ca4a,tutoring.me,resell,,80,8,Dynadot Inc,17/07/2008 17:40,17/07/2026 17:40
+8f0d0dae-bb76-49fe-bb0c-72cc0a03707c,tutoring.online,premium,,80,8,,,
+1508cfb7-d93d-44d1-b40b-8195c74dca8d,tutoring.site,premium,,80,8,,,
+595afe56-00cf-48dd-8e66-bfa237b880cd,tutoring.so,available,,80,8,,,
+60851fb2-52f6-430c-a661-aa310e2a81a3,tutoring.space,premium,,80,8,,,
+bc729311-b49a-4495-884b-f51551e2d07d,tutoring.store,premium,,80,8,,,
+28bd1d34-e829-424d-a578-07c385bd575f,tutoring.tech,premium,,80,8,,,
 94b268b3-231a-4785-aa02-36e3987c6424,coaching.at,available,64,84,8,,,
 b4adbf15-759a-4d30-97f2-210e8420f477,coaching.cloud,premium,64,84,8,,,
 abc4eb53-2847-41c0-bd62-b0fc88feb931,coaching.gg,resell,64,84,8,Chang Wen Ling t/a private.tw (http://www.private.tw),,
@@ -816,19 +816,6 @@ a60397d0-4812-41a0-a733-cbf47ab953d9,courses.ninja,premium,82,88,7,,,
 29f272db-bd3f-463e-87e0-66a727889c1d,courses.tech,premium,82,88,7,,,
 b4c60fde-40a0-417a-a79f-0376235c323d,courses.xyz,premium,82,88,7,,,
 b1fb3d94-6db7-47b0-b038-9e39d4d95ee1,courses.zone,expiring,82,88,7,"GoDaddy.com, LLC",15/07/2023 20:32,15/07/2025 20:32
-829646a3-28b8-4657-bd53-29aef1b33b18,seminars.cloud,premium,,48,8,,,
-48bc63da-5614-4f67-9b84-707bb44b8128,seminars.dev,premium,,48,8,,,
-676b7987-8322-441d-a4ad-47569548d5ad,seminars.gg,available,,48,8,,,
-6724fac0-9da2-484e-b5bf-ed62381ed79d,seminars.it,resell,,48,8,,28/01/2010 13:12,14/02/2026 00:00
-998f47cc-ffb0-46d1-aa44-3aee9d0dda63,seminars.me,expiring,,48,8,"GoDaddy.com, LLC",17/07/2008 17:30,17/07/2025 17:30
-5f596998-8ca9-4279-8bdd-0fbc8f98990d,seminars.ninja,available,,48,8,,,
-41d94a88-625b-4bd5-8fe1-9124ad95fceb,seminars.online,premium,,48,8,,,
-880cb9fe-5b9f-4173-8e2d-3bdf06752b9b,seminars.pro,resell,,48,8,"Sav.com, LLC - 14",24/11/2024 15:15,24/11/2025 15:15
-4e5ace9f-3a28-496b-8e4e-5766600397fd,seminars.site,premium,,48,8,,,
-152e8b47-37ff-4875-9615-ed5baea85122,seminars.so,available,,48,8,,,
-01b540b6-c664-4d92-bc78-3b668239750b,seminars.space,premium,,48,8,,,
-b49d66d1-4b74-48c0-88fe-f0e2cfbd77ec,seminars.tech,premium,,48,8,,,
-2c3cb921-a482-4e1a-9b8c-9401d057b9c3,seminars.zone,available,,48,8,,,
 ade15fc3-3f24-4029-a589-8a069aab20e4,study.accountant,premium,102,30,5,,,
 c1de5e31-eca1-4150-bb16-9889abe02650,study.accountants,available,102,30,5,,,
 4cec79a6-4059-4508-98ae-bc2cff14facf,study.actor,available,102,30,5,,,
@@ -999,3 +986,16 @@ d8e4f60b-656e-4fc6-a2a8-1a1fd7c2d2cf,study.jewelry,available,102,30,5,,,
 59817c56-58e1-4813-8b2e-0c0218c26e0b,study.juegos,available,102,30,5,,,
 86245daf-51ef-4a7a-8290-b724e64559f5,study.kaufen,available,102,30,5,,,
 04b397d0-ce25-4748-8cdd-7edc501f18c2,study.kids,premium,102,30,5,,,
+18650319-4428-425a-ab41-19caf682ce30,study.kitchen,available,102,30,5,,,
+85aef022-0e53-46b5-839b-0387e9192abb,study.la,resell,102,30,5,West263 International Limited,08/03/2016 01:28,08/03/2026 23:59
+17b2416b-ec67-46dd-b30d-788119bcc926,study.lawyer,available,102,30,5,,,
+82d6831d-3784-4284-9a14-cb280728362f,study.lease,available,102,30,5,,,
+bc728334-1969-4b8c-8388-0ea9b0c7070e,study.legal,available,102,30,5,,,
+80aa7752-431b-465b-aa81-0490e0c0c23c,study.lgbt,available,102,30,5,,,
+6e252de4-f6cb-4a28-999e-80f30fed1110,study.lifestyle,available,102,30,5,,,
+d585c0fe-1a61-4870-9314-1d8624ae210e,study.limited,available,102,30,5,,,
+5260da98-83ab-4502-97ca-aa57ce200ece,study.limo,available,102,30,5,,,
+04a37821-6c11-4200-ab08-88d14211987e,study.link,available,102,30,5,,,
+3aa4abf6-66d0-4284-acce-6b49e9675ae4,study.live,available,102,30,5,,,
+401ad28a-0819-4a67-9008-e4918db01cec,study.living,available,102,30,5,,,
+dd591619-41b9-4ce8-b281-7a9ccd96256f,study.llc,available,102,30,5,,,
