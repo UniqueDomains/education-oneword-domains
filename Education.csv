@@ -64,7 +64,7 @@ f646843e-64eb-45ed-966c-4451560aeb36,education.computer,resell,82,28,9,"Sav.com,
 9e20c0b5-49cc-46fb-8934-2e2da1a936b8,education.condos,premium,82,28,9,,,
 66988056-d08c-4c33-8a9d-a8d015e517fb,education.construction,available,82,28,9,,,
 babe3873-77ed-4a4b-b530-e82f715de7af,education.consulting,premium,82,28,9,,,
-28285d1f-424c-4113-b17d-3cdf01a45100,education.contact,expiring,82,28,9,"Key-Systems, LLC",11/12/2020 15:30,11/12/2025 15:30
+28285d1f-424c-4113-b17d-3cdf01a45100,education.contact,sold,82,28,9,"Key-Systems, LLC",11/12/2020 15:30,11/12/2026 15:30
 28519b88-f982-465b-ae01-3fe185a06df1,education.contractors,premium,82,28,9,,,
 42efe6f0-3ca1-4fbf-bef2-945ccc1746b4,education.cooking,premium,82,28,9,,,
 1e946f33-fb84-41b3-ad45-820107840776,education.country,available,82,28,9,,,
@@ -87,7 +87,7 @@ e382f7c5-c8e6-427a-a39e-087f6007f292,education.deals,available,82,28,9,,,
 e24a52cd-cfc9-47b6-a798-3473861dec86,education.design,premium,82,28,9,,,
 d2510ff9-274a-4d69-906b-0907886e3873,education.diamonds,available,82,28,9,,,
 efd8d4e1-a0de-4fb7-818a-ddbb0ce2b8aa,education.diet,available,82,28,9,,,
-4f3b6c8b-ee41-4b35-a225-de6db7f56431,education.digital,resell,82,28,9,"GoDaddy.com, LLC",10/01/2018 16:18,10/01/2026 16:18
+4f3b6c8b-ee41-4b35-a225-de6db7f56431,education.digital,expiring,82,28,9,"GoDaddy.com, LLC",10/01/2018 16:18,10/01/2026 16:18
 b583c1ea-7992-4aa8-9080-460641fef012,education.discount,premium,82,28,9,,,
 dad47cb9-3430-44ef-af5d-3de8f712f1ca,education.diy,premium,82,28,9,,,
 bcdf53ba-adfb-443b-9751-9dbc8deb5a99,education.dog,resell,82,28,9,Infomaniak Network SA,19/08/2015 16:34,19/08/2026 16:34
@@ -199,7 +199,7 @@ f666bb22-9720-4db8-aecd-dbffd89cbf62,education.ltda,premium,82,28,9,,,
 8ed6c52c-a5da-4e3c-b6f6-6b20fcef4d90,education.maison,available,82,28,9,,,
 21aaa6bd-34aa-442d-b12e-3b1a25e473ea,education.makeup,premium,82,28,9,,,
 e5e14f29-bce4-4c61-a6b8-0b3f83a2484d,education.market,premium,82,28,9,,,
-4b1c6173-3f4d-4f23-bbe0-f3fe351dc43e,education.marketing,premium,82,28,9,,,
+4b1c6173-3f4d-4f23-bbe0-f3fe351dc43e,education.marketing,sold,82,28,9,"Sav.com, LLC",14/12/2025 08:42,14/12/2026 08:42
 2bc25f16-c30d-415b-a1f8-22358444989d,education.mba,expiring,82,28,9,"Chengdu West Dimension Digital Technology Co., Ltd.",18/12/2020 04:08,18/12/2025 04:08
 6bcb0af7-8455-4058-b936-6b843008312f,education.me,premium,82,28,9,,,
 9233040f-3a99-4c07-9595-8d67696d078c,education.melbourne,premium,82,28,9,,,
@@ -237,7 +237,7 @@ f2a1b0b1-7c7c-4fda-bd10-538ddc6979d3,education.osaka,premium,82,28,9,,,
 1ffb0346-58b4-46a4-8e90-55f344db1c5f,education.phd,premium,82,28,9,,,
 6acfe7d5-65fa-4c3a-b9d3-d3e80f978981,education.photo,premium,82,28,9,,,
 382de3fe-d8ea-4552-a666-880953f54984,education.pics,resell,82,28,9,"Spaceship, Inc.",24/10/2025 09:44,24/10/2026 23:59
-23982763-b5f5-436c-af1c-6a286e2810e1,education.pictures,expiring,82,28,9,"Global Domains International, Inc. DBA DomainCostClub.com",15/12/2022 04:43,15/12/2025 04:43
+23982763-b5f5-436c-af1c-6a286e2810e1,education.pictures,sold,82,28,9,"Global Domains International, Inc. DBA DomainCostClub.com",15/12/2022 04:43,15/12/2026 04:43
 37490249-ba4c-4b01-978c-51cba15c2de2,education.pink,premium,82,28,9,,,
 3f9a66fb-3a1f-402a-b94d-8b0b98305839,education.plumbing,available,82,28,9,,,
 e44c04a3-b56b-44aa-b30c-cb9420d976dc,education.plus,resell,82,28,9,Porkbun LLC,09/07/2015 04:17,09/07/2026 04:17
@@ -279,6 +279,7 @@ affb85c3-138f-480e-a642-4342d68b9be2,education.sbs,premium,82,28,9,,,
 fa8a564e-21ff-4775-90d9-14434996f15d,education.security,available,82,28,9,,,
 df067677-d0b5-4fe5-bb94-e6f548b92e46,education.services,resell,82,28,9,"Spaceship, Inc.",25/06/2015 08:27,25/06/2026 08:27
 bc1f95d0-fd00-4a6f-8061-8e0e776d858c,education.sexy,available,82,28,9,,,
+357b5d38-076c-4126-9eeb-0ede08d53d9c,education.shoes,premium,82,28,9,,,
 1c95b2b8-a1e5-4d81-a4dc-6ba7d6a6695f,education.shopping,premium,82,28,9,,,
 d153c7da-b27d-415c-bde7-03fcf56d707d,education.show,resell,82,28,9,"Chengdu West Dimension Digital Technology Co., Ltd.",22/02/2019 23:23,22/02/2026 23:23
 8b98d1de-040d-4db2-915f-5beaf24260cd,education.singles,available,82,28,9,,,
@@ -350,340 +351,346 @@ e7a752f4-8459-4568-a223-c114978bc5b0,education.yachts,premium,82,28,9,,,
 7140538f-637f-4793-b97e-23dad869563b,education.yoga,premium,82,28,9,,,
 074e6c27-94f7-4b81-b995-32fb66ed6aee,education.you,premium,82,28,9,,,
 5aafe2bd-2dbb-4115-a42c-02fdd7d7e6c1,education.zip,premium,82,28,9,,,
-4fe27164-0aae-4941-8a68-f090176002c3,learning.news,expired,76,32,8,"Sav.com, LLC - 7",10/10/2024 17:00,10/10/2025 17:00
-ae60daeb-2175-4304-9d5d-4e8e7415609a,learning.nexus,premium,76,32,8,,,
-b7e1eea7-11a5-49a2-80dc-87253bcaeaf7,learning.ngo,premium,76,32,8,,,
-b5f6bd3d-ad95-4732-99a5-a80a3220e425,learning.nyc,premium,76,32,8,,,
-8e22560b-4ecf-482f-8b29-93d0690155ab,learning.observer,premium,76,32,8,,,
-28908992-d401-4dde-93bc-4f546167aa22,learning.one,premium,76,32,8,,,
-4c48b688-0165-401a-94f8-de6f16a3eaa6,learning.ong,premium,76,32,8,,,
-8e9c86b5-3ff0-4f01-ae05-8d69ce01017e,learning.online,premium,76,32,8,,,
-8e34914b-8763-4886-a624-24ba2a096599,learning.ooo,available,76,32,8,,,
-527d81b7-615c-444e-8339-810a50f5e8da,learning.organic,available,76,32,8,,,
-1592abb0-bcc2-4a49-adcd-f48186bdd9f5,learning.osaka,available,76,32,8,,,
-f785ba64-7870-4438-abbd-3b1cc43d9031,learning.page,premium,76,32,8,,,
-7b9dff4c-9a0c-4315-803f-450470755b68,learning.partners,resell,76,32,8,"Sav.com, LLC",11/09/2025 10:37,11/09/2026 10:37
-d2b42b08-a579-43d5-a58d-dbd13a01900f,learning.parts,available,76,32,8,,,
-689ceecd-369d-45e2-bfea-387209407a1d,learning.pet,premium,76,32,8,,,
-b514b638-0d9d-4a07-a760-4a5ead9823dc,learning.phd,premium,76,32,8,,,
-4460536b-ebe9-46f1-a1ee-01ae56c429bb,learning.photo,premium,76,32,8,,,
-7f7a3926-7191-4946-b436-f454aa884584,learning.pics,expiring,76,32,8,"Spaceship, Inc.",24/12/2024 16:19,24/12/2025 23:59
-5ad76a7d-2538-49ee-9f6b-d1d435a8e61e,learning.pictures,available,76,32,8,,,
-272a5f3d-1e54-4cbb-a1be-d1735877b725,learning.pink,premium,76,32,8,,,
-64547f4e-0c62-45bd-a26b-08c648efff38,learning.pizza,available,76,32,8,,,
-eec1a331-51a0-49cc-ae64-650e65370ca4,learning.place,expired,76,32,8,"GoDaddy.com, LLC",30/10/2017 00:52,30/10/2025 00:52
-de3b2aa0-e4cd-46ed-9147-763ea041a39a,learning.plumbing,available,76,32,8,,,
-aac96fac-41cd-4cf5-9b2b-fbc9d0dfce7d,learning.plus,expiring,76,32,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/01/2020 07:29,08/01/2026 07:29
-522462ed-f34c-4216-9f31-61c8cd9de3aa,learning.poker,resell,76,32,8,1API GmbH,21/04/2015 19:31,21/04/2026 19:31
-e91696ad-5d4e-4f92-8f84-3f99607f0c78,learning.porn,available,76,32,8,,,
-0076dc4f-ff90-4c0f-8604-d13533d1a550,learning.press,premium,76,32,8,,,
-b9dfd59e-2f50-4580-a634-b31bda110b12,learning.pro,expiring,76,32,8,"NameSilo, LLC",09/07/2013 01:39,09/07/2025 01:39
-c885be2e-ea46-47ad-813d-6c45f3ef656d,learning.prof,premium,76,32,8,,,
-6a05e99e-03a8-41bf-9a5f-d0245813714f,learning.promo,available,76,32,8,,,
-d55411c1-24c3-427a-bf7c-d9f2e047f42b,learning.properties,available,76,32,8,,,
-200a7e9f-51b9-406c-9b10-c66040565c4a,learning.property,premium,76,32,8,,,
-5b72c814-c8bb-4e30-be92-e4306fe0f77c,learning.protection,available,76,32,8,,,
-e201189d-eed7-48d1-b8d7-fca4f179789d,learning.pw,resell,76,32,8,"Xiamen ChinaSource Internet Service Co., Ltd",16/11/2023 00:48,16/11/2026 23:59
-a538e83d-cb21-412b-85a7-767053745533,learning.qpon,available,76,32,8,,,
-3ec00d97-35ae-4d65-a006-5394193dbe24,learning.quest,resell,76,32,8,"Spaceship, Inc.",02/03/2021 14:15,02/03/2026 23:59
-9fb7e702-894b-4f0e-8593-68b41498ef77,learning.racing,premium,76,32,8,,,
-2b0bbe1b-f19d-43a1-8d73-de11ab8543b0,learning.realty,available,76,32,8,,,
-b923e6e2-3fcd-46f5-ab74-3ab7d006239e,learning.recipes,resell,76,32,8,Dynadot Inc,24/06/2025 00:07,24/06/2026 00:07
-cbcdc06a-40df-445b-b445-6fefeec6b6e1,learning.red,resell,76,32,8,"Spaceship, Inc.",20/11/2023 17:00,20/11/2026 17:00
-51f54f6e-3bf9-44d7-83e9-b8118be1b66e,learning.rehab,available,76,32,8,,,
-1a6c287c-f4ab-468b-88db-288f38f23d64,learning.reise,available,76,32,8,,,
-ac23ba99-ce94-4f7e-ab30-3b541d11d49a,learning.reisen,available,76,32,8,,,
-d6581954-b26c-4376-bec7-33f9e3ba5b8e,learning.rent,available,76,32,8,,,
-45d6300b-f564-488a-8171-bcc047683d32,learning.rentals,available,76,32,8,,,
-615ad345-6fa5-481c-9d01-3ac5965eb55e,learning.repair,available,76,32,8,,,
-4aadde66-4d2d-49d7-b98a-8a012f81d3fe,learning.republican,available,76,32,8,,,
-54b4692c-d717-4c95-aef9-635fc2f3b7dc,learning.restaurant,available,76,32,8,,,
-ce9ff3d3-68a9-4451-9124-7ffbc2f43135,learning.review,premium,76,32,8,,,
-251503ab-105f-4fd7-8a3b-272f7382956b,learning.rich,available,76,32,8,,,
-232af965-1316-42d7-86fe-028297b73fd8,learning.rip,available,76,32,8,,,
-ed1327d1-85cb-4317-b6b4-4d3b4b72bb1a,learning.rodeo,available,76,32,8,,,
-cdf2c0ae-ab20-40ec-813a-c95b723ededc,learning.rsvp,premium,76,32,8,,,
-4480fc65-7423-4750-8c8a-c4c4832c75ea,learning.run,resell,76,32,8,Xin Net Technology Corporation,04/03/2024 15:15,04/03/2026 15:15
-c69cf44b-ece8-42c8-8f0c-7cfc6ce91d2d,learning.sale,resell,76,32,8,"Sav.com, LLC - 10",17/03/2025 15:15,17/03/2026 15:15
-ba93903d-16fc-4b7c-8890-3be3b314ca2d,learning.sarl,available,76,32,8,,,
-9123f0c6-9164-403b-85e9-3e701a4d7763,learning.schule,available,76,32,8,,,
-af5370ae-4f21-4961-8ce6-250350de52d4,learning.security,available,76,32,8,,,
-a1a41485-489f-4008-b412-7b7643db07e6,learning.sexy,available,76,32,8,,,
-84df3a90-a8cb-4b11-9498-9bbd410da9e9,learning.shiksha,premium,76,32,8,,,
-8e0a17a4-0110-4885-b712-1336ab2da35b,learning.shoes,available,76,32,8,,,
-7477ded3-e636-4816-b6b3-8da76bc88dd5,learning.shopping,available,76,32,8,,,
-9dc960f6-8c4c-4e99-96ff-41f0c8c1a077,learning.show,resell,76,32,8,"DNSPod, Inc.",13/05/2018 02:07,13/05/2026 02:07
-543cabfd-418b-4688-8090-5ae27a9e5a55,learning.singles,available,76,32,8,,,
-330fcb2b-eb98-4c27-9a10-a59e7afda0e3,learning.site,premium,76,32,8,,,
-f355b221-eaee-4c25-8cec-ba04848c0f1b,learning.ski,premium,76,32,8,,,
-777e3309-99be-475d-8844-8bce6b7c9210,learning.skin,resell,76,32,8,"Sav.com, LLC - 19",05/05/2025 08:43,05/05/2026 23:59
-2cf31850-f3d5-4183-a667-e30a4d54a1ab,learning.so,resell,76,32,8,NameCheap,19/08/2020 05:01,19/08/2025 05:01
-7b736964-1608-4813-86e0-6b07b93fd34f,learning.soccer,available,76,32,8,,,
-f2ef61ba-a50e-44d4-ac42-d17c12d008d7,learning.social,resell,76,32,8,"Sav.com, LLC - 23",17/02/2025 15:15,17/02/2026 15:15
-bb751206-a5b6-42a8-84af-3bec1c1db1d6,learning.software,premium,76,32,8,,,
-5b0262bb-ee48-4135-8742-7fb73ccc30e3,learning.solar,resell,76,32,8,"GoDaddy.com, LLC",26/02/2023 17:33,26/02/2026 17:33
-b4fc1deb-aa83-4538-a6f9-3a3305743c60,learning.soy,premium,76,32,8,,,
-9704c586-9388-4b5a-8b0d-65c34de898aa,learning.space,resell,76,32,8,Epik LLC,18/11/2016 08:14,18/11/2026 23:59
-0053cbd0-fcc5-472a-8750-7f830be6494f,learning.srl,available,76,32,8,,,
-8381fe7d-2066-4c5a-84fd-6503d74b370a,learning.storage,available,76,32,8,,,
-e29fcd6d-806c-4739-aafa-37822a286ab7,learning.store,premium,76,32,8,,,
-352715be-2d0b-49fa-8d23-c683f5f63dd0,learning.stream,premium,76,32,8,,,
-440ba207-a5ea-4c45-8736-d3e38f74bf00,learning.study,premium,76,32,8,,,
-efc68749-652d-4234-99e9-cc3217f2c26e,learning.sucks,premium,76,32,8,,,
-b9dd7f6e-9037-447a-b037-5d57e365c8a1,learning.supplies,available,76,32,8,,,
-ff6703cd-1358-44a8-b18e-73ab202582bb,learning.surgery,available,76,32,8,,,
-73694ff5-8d4d-4d22-8f47-44ea1ac3c974,learning.sydney,premium,76,32,8,,,
-89d2b132-72bc-4da5-a25d-5562859346dc,learning.tattoo,available,76,32,8,,,
-528cd9cc-e0c9-4162-9805-5ca2a65fd7ff,learning.team,resell,76,32,8,"DNSPod, Inc.",21/11/2018 16:18,21/11/2026 16:18
-15b01ea5-9648-41c5-a4a2-4574f02ab96a,learning.tech,premium,76,32,8,,,
-f938b98d-83fd-4a60-a802-ba3ad48a3af0,learning.tennis,premium,76,32,8,,,
-290e8d34-8295-4dbb-bb50-fc5f0272fdaf,learning.theater,available,76,32,8,,,
-30249623-818f-46c4-880e-40ed0f20e99b,learning.theatre,available,76,32,8,,,
-bcf53fd9-1198-4984-99f2-963c3a3ac5c3,learning.tickets,available,76,32,8,,,
-3a84b3d5-78c4-429d-83b3-ad793173b2dd,learning.tienda,available,76,32,8,,,
-9315a242-839b-4b78-a18b-bd77facf11a3,learning.tires,available,76,32,8,,,
-23bda5ec-d767-4fd0-8827-53aaf4e0ca5e,learning.today,resell,76,32,8,"GoDaddy.com, LLC",09/07/2015 05:24,09/07/2026 05:24
-9be0b163-fe3d-4c09-8f9c-a638ad2e6e18,learning.top,resell,76,32,8,成都西维数码科技有限公司,02/02/2016 04:26,02/02/2026 04:26
-9442274c-c42b-456d-b48e-42907dbc2ea5,learning.training,expired,76,32,8,"NameCheap, Inc.",01/10/2024 12:56,01/10/2025 12:56
-9b946fdc-defa-46d6-9a58-fc31991e251c,learning.travel,available,76,32,8,,,
-d2f0296a-549a-4e5b-bf51-043bb64e5b57,learning.tube,premium,76,32,8,,,
-a3f0e928-050b-4ae0-adc6-55fc85f13d05,learning.tv,resell,76,32,8,InternetX GmbH,18/03/2010 17:14,18/03/2026 17:14
-c0a17d24-76b0-428a-b478-3d0d4e3c149c,learning.uk,resell,76,32,8,Fasthosts Internet Ltd,20/04/2015 14:47,20/04/2026 14:47
-0129e4a2-36b2-4362-adae-377b52d0bc37,learning.uno,premium,76,32,8,,,
-685c311c-1424-431e-8830-ac85232d8e88,learning.vacations,premium,76,32,8,,,
-4b53a86b-2596-422e-b59b-39444d0b50ef,learning.vana,available,76,32,8,,,
-3f69055f-fdba-4f99-a238-aabe5f602194,learning.vc,resell,76,32,8,Dynadot Inc,29/03/2017 21:01,29/03/2027 21:01
-3038f839-cf02-46c4-97f3-6f85ea59d3c5,learning.vegas,available,76,32,8,,,
-ad175e94-80f8-4a5b-a983-6a14c7f33fef,learning.ventures,expiring,76,32,8,Squarespace Domains II LLC,26/12/2017 01:15,26/12/2025 01:15
-b07d0690-3af1-41de-80a8-d9c0a131e599,learning.vet,expiring,76,32,8,"Key-Systems, LLC",11/12/2014 08:07,11/12/2025 08:07
-c7a22347-7e3c-4263-8963-92726896e82d,learning.viajes,available,76,32,8,,,
-54328375-50b1-4285-b9d3-ff0fa095ec29,learning.video,premium,76,32,8,,,
-b832915e-5af4-4d95-9534-0833044d4128,learning.villas,available,76,32,8,,,
-0da0e2e5-09b7-4ec4-b09a-67f9fe240831,learning.vision,resell,76,32,8,"Sav.com, LLC",15/01/2025 22:27,15/01/2026 22:27
-bad062e5-49a2-4a84-991e-06f60ea3b5aa,learning.vodka,premium,76,32,8,,,
-0dc1b90d-7a4c-42a1-bccd-517cbfda061f,learning.vote,available,76,32,8,,,
-96d34329-13a3-4262-a18b-a47ea1a67927,learning.voting,available,76,32,8,,,
-3aaf7baf-087f-4ea8-abdf-b64fea3675a1,learning.voto,available,76,32,8,,,
-e5e69931-14fa-48d6-a92e-491db9f9fe67,learning.webcam,premium,76,32,8,,,
-a68c704e-c384-4a3c-8297-3803d4f1f7af,learning.website,premium,76,32,8,,,
-b5567419-72b4-4f52-99ce-fefd832e4092,learning.wedding,available,76,32,8,,,
-17c02381-86b4-4503-a909-d46b56089223,learning.wiki,resell,76,32,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/07/2024 00:00,15/07/2026 00:00
-1fedd184-33d6-45f2-906d-8f5bc3c2b58e,learning.win,premium,76,32,8,,,
-327a9fb8-1e6d-4ac9-a4ee-4f45fe913a3b,learning.wine,available,76,32,8,,,
-3f2f1e03-0e8e-40fd-aa52-4159e0cff2cb,learning.work,resell,76,32,8,"Chengdu West Dimension Digital Technology Co., Ltd.",02/11/2023 00:00,02/11/2026 00:00
-2ddd0099-2f15-47e6-b816-fdc4266a45c1,learning.wtf,resell,76,32,8,Dynadot Inc,17/06/2025 17:00,17/06/2026 17:00
-4053eade-c6ce-484d-a16a-7ccf1b991f0c,learning.xyz,premium,76,32,8,,,
-91ba9fe1-fb77-4957-8191-f9fbfac774d3,learning.yachts,available,76,32,8,,,
-719354e1-a0b6-420a-b5d6-a2a8a6bbe2e6,learning.zip,premium,76,32,8,,,
-2a4e50be-b59d-4aea-af1f-7860bcdfb388,learning.zone,resell,76,32,8,"DNSPod, Inc.",21/11/2018 16:17,21/11/2026 16:17
-c35d9a6b-d6bd-4d4e-be76-928a64eb5199,learn.ing,premium,82,32,8,,,
-2c1dd1c1-e1ac-489f-ad80-15a09217372d,learning.academy,resell,76,32,8,Dynadot Inc,30/07/2015 01:11,30/07/2026 01:11
-3506e223-9ee5-431d-a0be-040ffbf7dc75,learning.accountant,premium,76,32,8,,,
-29cb8788-2da9-43cc-8178-2944935cd64d,learning.accountants,available,76,32,8,,,
-e9ade42b-5cd9-456b-8d1a-a3100dc178f5,learning.actor,available,76,32,8,,,
-24135542-3286-4351-b1a0-fc7377c92b2b,learning.adult,available,76,32,8,,,
-e428dbea-41f1-4f87-b5cd-e1151434e96b,learning.ai,sold,76,32,8,Porkbun LLC,16/12/2017 00:46,19/01/2027 00:46
-33fd69a9-2e04-4627-a857-c552498b1752,learning.airforce,available,76,32,8,,,
-c17410f5-e4e1-4dd9-8d19-f63ac8397eb5,learning.apartments,available,76,32,8,,,
-61f8f8cd-12e3-4834-842d-f1f1a56efce3,learning.archi,available,76,32,8,,,
-b5f4727c-290c-4888-8eaa-c98e761c2a4a,learning.army,available,76,32,8,,,
-27c51195-4934-419b-a020-09e88cd5c9eb,learning.asia,resell,76,32,8,"GoDaddy.com, LLC",01/08/2008 05:02,01/08/2026 05:02
-a34543c6-c92c-4041-b22b-ee93ee28316b,learning.associates,resell,76,32,8,"NameSilo, LLC",29/10/2022 21:29,29/10/2026 21:29
-92980c71-2ab8-45cc-a099-fdca1b6d9348,learning.at,sold,76,32,8,DAY Investments GmbH ( https://nic.at/registrar/485 ),,
-2606cfa6-afe7-41f4-9d89-127919c9f555,learning.attorney,premium,76,32,8,,,
-99137713-2726-40b6-a54d-712a66f63ca6,learning.auction,available,76,32,8,,,
-afafd7c2-4613-4689-9654-28e42f51748c,learning.audio,available,76,32,8,,,
-e368a3f4-37a6-4951-8913-bd3e1b3dfdff,learning.auto,available,76,32,8,,,
-a040415e-3932-4bce-981c-ebac19e7c87b,learning.autos,resell,76,32,8,"Spaceship, Inc.",29/10/2022 21:22,29/10/2026 23:59
-156fdbff-9ff5-49e6-893e-3ec179340fc7,learning.baby,expiring,76,32,8,"GMO Internet Group, Inc. d/b/a Onamae.com	",26/12/2022 08:31,26/12/2025 23:59
-bb79e975-1315-4fd9-8457-10a4225ae3b9,learning.band,available,76,32,8,,,
-b6dcccb8-f1c8-4594-a87c-7b7853620986,learning.bar,premium,76,32,8,,,
-d8ba9e18-716d-434a-8ca3-ac8f0d621771,learning.bargains,available,76,32,8,,,
-faf7d9fe-4927-4153-ba6b-4412cf322635,learning.bayern,available,76,32,8,,,
-d5a3940d-3ce2-408f-902b-fc7e5e424737,learning.beauty,resell,76,32,8,"Spaceship, Inc.",05/12/2024 13:15,05/12/2026 23:59
-4ac43a37-9f21-42f3-8d8a-38c784b93aa6,learning.beer,available,76,32,8,,,
-43520eda-36d9-4563-b358-408a08a707c1,learning.bet,expiring,76,32,8,"GoDaddy.com, LLC",07/01/2022 17:59,07/01/2026 17:59
-19c8f596-09d6-4d60-b875-6aaf0fe52a55,learning.bid,available,76,32,8,,,
-12498bfa-7ac6-4f09-b6cc-dd2e160857c2,learning.bike,available,76,32,8,,,
-8e85c4b3-0421-425a-9396-cb60ad8149c8,learning.bingo,available,76,32,8,,,
-6b79c238-7728-4104-bc53-756915f24b83,learning.black,available,76,32,8,,,
-3fff252d-939d-4363-8511-216675e40149,learning.blackfriday,available,76,32,8,,,
-305b4f56-2d70-458c-9142-39d2f3f5ea70,learning.blog,premium,76,32,8,,,
-6267fd7c-c791-4bc4-b86d-2c6f1c75c7a5,learning.blue,resell,76,32,8,"Sav.com, LLC - 21",10/02/2025 15:16,10/02/2026 15:16
-6bec06dc-3f07-467e-97ee-1c1f512b2adf,learning.boats,available,76,32,8,,,
-e784ab2c-4e6d-4e32-83e4-0b5eb8e53c28,learning.bond,premium,76,32,8,,,
-06b0eaf3-2e42-49d3-92c4-9665cc3b93cb,learning.boo,premium,76,32,8,,,
-47006119-2d01-4d21-b8d3-2f4f3ad81625,learning.boston,premium,76,32,8,,,
-05dee33f-b783-4903-b3eb-eed3a616e44d,learning.build,premium,76,32,8,,,
-4d2b5194-aaa7-4261-92d1-6361b5526d38,learning.builders,available,76,32,8,,,
-55de830b-5dc1-4075-ab1f-c600acf0921c,learning.buzz,premium,76,32,8,,,
-0bc64ba7-0079-4517-8c50-a1996bb3b388,learning.bz,available,76,32,8,,,
-b792e712-bec9-4567-ba3e-f2de28833702,learning.cab,available,76,32,8,,,
-7f17fdf9-f4cc-4e66-8644-a031d15faa3b,learning.camera,resell,76,32,8,"GoDaddy.com, LLC",20/08/2015 23:38,20/08/2027 23:38
-c5b2ad46-2e89-4d17-8d08-d00d65d945d3,learning.camp,premium,76,32,8,,,
-85e03f78-1ba2-4366-a0ef-9dc11e97bdca,learning.car,available,76,32,8,,,
-2a556062-08fd-49eb-8e79-8463470daf1e,learning.careers,available,76,32,8,,,
-6bab45f6-7ad4-4582-ba0b-3d8b59f873ed,learning.cars,available,76,32,8,,,
-43016aa5-2420-4d2c-9686-eaa9e5914f87,learning.cash,resell,76,32,8,"DNSPod, Inc.",22/10/2021 13:15,22/10/2026 13:15
-1b441b15-9194-411d-a2bc-b04b4d195a5a,learning.casino,available,76,32,8,,,
-7916cb41-00e6-405f-bc3c-8e8a414b63ba,learning.catering,available,76,32,8,,,
-f0efa918-35bc-4e6f-81e4-3745def90564,learning.cc,resell,76,32,8,Dynadot15 LLC,18/06/2020 08:00,18/06/2026 08:00
-c6b34075-bb08-45e5-8582-c57ad162d44f,learning.cfd,premium,76,32,8,,,
-340d5798-b2bf-42b9-81e7-c775a51761b5,learning.chat,expiring,76,32,8,"DNSPod, Inc.",03/01/2020 02:22,03/01/2026 02:22
-9470436b-afaa-483f-b870-ed89183b5a0e,learning.city,expiring,76,32,8,"Xiamen ChinaSource Internet Service Co., Ltd",04/01/2021 08:21,04/01/2026 08:21
-124d35ba-8130-4c22-8678-a2cc9c400205,learning.claims,available,76,32,8,,,
-9e77e132-16f0-4394-a5e2-4135cb624b7a,learning.cleaning,available,76,32,8,,,
-7ecad1eb-963a-4a35-97d3-47d2c37e9e03,learning.clinic,premium,76,32,8,,,
-194be50e-5c4b-47e8-a8cc-0d8d4548ec1f,learning.clothing,available,76,32,8,,,
-79323d74-dfac-4206-ad5c-99fc7e1426f3,learning.cloud,premium,76,32,8,,,
-ee4156d5-e8fe-4dc1-84f0-2bc6b80568a6,learning.club,resell,76,32,8,Dynadot Inc,15/04/2017 22:23,15/04/2026 22:23
-46bfac23-ad05-4cb1-b432-bd2beebcd809,learning.codes,resell,76,32,8,"Sav.com, LLC - 46",07/03/2025 15:15,07/03/2026 15:15
-c40c4a35-3174-4789-b8dd-013064ab47a4,learning.coffee,available,76,32,8,,,
-f282a9fc-1043-405e-b0d1-50b61e42829d,learning.college,premium,76,32,8,,,
-316895ee-3f2b-47f9-99f4-f63d61070167,learning.company,resell,76,32,8,"GoDaddy.com, LLC",25/06/2015 20:56,25/06/2026 20:56
-57778fbf-04de-488c-9d8a-93efa562d8e3,learning.condos,available,76,32,8,,,
-b55fdbef-ac42-48bf-a1a2-cba2b72a7fd9,learning.construction,available,76,32,8,,,
-b61d12aa-22b2-4caa-af98-8b2ddb55d796,learning.contact,available,76,32,8,,,
-8ec10ead-85e1-4816-bf47-6b42fff9b0e3,learning.contractors,available,76,32,8,,,
-72a2edc1-7030-46e8-9baf-8635941ee859,learning.cooking,available,76,32,8,,,
-508c6635-8876-426c-8c23-009565bf0f76,learning.country,available,76,32,8,,,
-55b15fee-26d9-4d6f-b849-5a36650dbf37,learning.courses,premium,76,32,8,,,
-478a6b32-2ca6-43c9-9958-aa04660ac886,learning.credit,available,76,32,8,,,
-43775bad-80bd-457d-b9f9-acc9ef0ad1f8,learning.creditcard,available,76,32,8,,,
-7f397251-0fe9-41c8-a5e0-2e77f4fd869e,learning.cricket,premium,76,32,8,,,
-3d62b2d2-577c-42ad-ab39-73a3363405cf,learning.cruises,available,76,32,8,,,
-58d2a50a-63fb-49c5-b987-6af8d8fff971,learning.cv,premium,76,32,8,,,
-3599e839-08ab-4b6b-aff3-2868e782aa72,learning.cyou,expired,76,32,8,Namecheap,26/09/2024 19:42,26/09/2025 23:59
-8fc8369e-1d4b-4cd9-9377-9a71e305b7e6,learning.dad,premium,76,32,8,,,
-694fd755-28a0-479a-918a-0bd0d23ba5a7,learning.dance,premium,76,32,8,,,
-982a87f5-1fdc-413c-b96e-97c75bbe7b85,learning.date,premium,76,32,8,,,
-7feb0ebc-5975-40a7-9590-dffa854d1858,learning.dating,available,76,32,8,,,
-0da87e9e-351d-4e9e-970c-02d01d6b7d69,learning.dealer,premium,76,32,8,,,
-8face361-2cc6-42c1-bbdc-1d7ec7bd7a8f,learning.degree,available,76,32,8,,,
-2fab2957-fac3-4daf-adb8-1a9049e04a4c,learning.democrat,available,76,32,8,,,
-2f2367dc-d0f1-4285-9c43-3e70571b7599,learning.dentist,available,76,32,8,,,
-bebfd034-126f-41cd-81e9-f79e1ad96697,learning.diamonds,available,76,32,8,,,
-997a9c41-1723-4f92-bfc0-90a146f734d9,learning.diet,available,76,32,8,,,
-67b87bdf-f6c4-4961-84c0-55892b029e03,learning.digital,resell,76,32,8,Dynadot Inc,07/02/2023 18:11,07/02/2026 18:11
-75732030-5e0a-4ff6-9b22-39f03bf546ce,learning.discount,available,76,32,8,,,
-45b76d91-a23d-485c-88f3-f4cc3d6fa10b,learning.doctor,available,76,32,8,,,
-672dd10e-fc07-4a26-8661-ed12bc6698c6,learning.domains,resell,76,32,8,"GoDaddy.com, LLC",13/03/2014 01:40,13/03/2029 01:40
-0be803c5-63c0-45d7-89ea-a05a9a5c3ecd,learning.download,premium,76,32,8,,,
-e34bed35-9267-4b60-9d1b-b2b32eb6b2e0,learning.equipment,available,76,32,8,,,
-c76a5811-116e-4ee1-b694-154b31bc98cf,learning.esq,premium,76,32,8,,,
-654a5bdd-58fa-4320-a0fa-32a5b4190d77,learning.estate,available,76,32,8,,,
-e6aa8114-e99e-4150-b85a-1c7d12415915,learning.express,resell,76,32,8,"GoDaddy.com, LLC",26/02/2017 11:06,26/02/2026 11:06
-8bf06ccb-67da-4aa4-bef1-f8d9b4b2de31,learning.faith,available,76,32,8,,,
-d9e0fdfc-1cee-49fb-8b8e-4b867e4aaf5c,learning.fans,premium,76,32,8,,,
-0d6fd80c-74bf-4b42-9787-11706b5f26ff,learning.farm,resell,76,32,8,"Sav.com, LLC",07/07/2025 17:07,07/07/2026 17:07
-a0acb867-09f9-4bdd-955f-574ea0b4c79a,learning.fashion,expired,76,32,8,"NameCheap, Inc.",05/10/2024 18:45,05/10/2025 18:45
-6c4e717a-c9fa-446f-84d0-aa4b29a8b907,learning.film,premium,76,32,8,,,
-118c84ff-4fbc-446d-adf8-12f6ffff281c,learning.finance,expired,76,32,8,Dynadot Inc,26/09/2024 17:00,26/09/2025 17:00
-c2ff06e3-a7ed-4300-ae5a-3620e665e369,learning.fish,available,76,32,8,,,
-ec51e435-d9a9-4948-b927-ea6916d1d7ad,learning.fishing,available,76,32,8,,,
-b016b33f-0560-42e9-ba5d-0193ced957d9,learning.fit,resell,76,32,8,"Chengdu West Dimension Digital Technology Co., Ltd.",06/09/2022 01:28,06/09/2026 01:28
-bc7f88bd-733d-47de-90b6-2f32fa1e8691,learning.fitness,resell,76,32,8,"Sav.com, LLC - 46",10/09/2025 15:15,10/09/2026 15:15
-c2d5782a-f32d-4aa9-8c05-c92eab981fbe,learning.flights,available,76,32,8,,,
-fbb16fb4-0735-4aa8-a0a0-22cf7da0a75c,learning.florist,available,76,32,8,,,
-a4f4a51e-9f2a-4371-830c-5db86a9ab460,learning.flowers,available,76,32,8,,,
-45afe904-63f9-4fb6-91d0-98b902b70fcc,learning.fm,premium,76,32,8,,,
-0e2e7d47-4448-4616-8b2b-8684d98e0bbd,learning.foo,premium,76,32,8,,,
-ce2aac55-c6a5-418b-9580-a93896cdec4c,learning.food,resell,76,32,8,"Dynadot, LLC",24/06/2025 00:07,24/06/2026 00:07
-67e3d534-309e-4d1e-94c5-605216143991,learning.forsale,available,76,32,8,,,
-4504ffa1-d6cc-4fa7-a45c-0a418ef4970e,learning.free,premium,76,32,8,,,
-9308afdd-5263-44dc-81a6-b46cb499998f,learning.fun,premium,76,32,8,,,
-e8885f7c-7460-4be0-abf1-32373071e5f0,learning.fund,resell,76,32,8,"DNSPod, Inc.",10/02/2019 17:00,10/02/2026 17:00
-8f4e73c8-158e-471e-bcd5-57674c92ade7,learning.furniture,available,76,32,8,,,
-5fd9128a-dd74-4393-b49a-d57e161e8a1c,learning.futbol,available,76,32,8,,,
-2983716e-92fe-4980-983e-36841b379b6c,learning.gallery,available,76,32,8,,,
-b49e6f8b-f244-4395-8bcf-f3c7f5195e82,learning.game,available,76,32,8,,,
-2959dffd-f021-464e-8233-2da9cce43eef,learning.games,resell,76,32,8,"GoDaddy.com, LLC",12/09/2016 18:21,12/09/2026 18:21
-c6afdc4f-e1d3-493a-ab95-3849ba5c4b71,learning.gay,available,76,32,8,,,
-4cb119fb-c8e5-46d7-9ab5-80b89e4eff6b,learning.gg,resell,76,32,8,West263 International Limited (http://www.west263.hk),,
-4bcdf952-7a14-4ba9-93e3-e7c8fe65e013,learning.gift,available,76,32,8,,,
-75567679-cbca-45d9-826b-1fcb18a87b12,learning.gifts,premium,76,32,8,,,
-defa562e-df42-46ee-8276-c90770009c3b,learning.giving,available,76,32,8,,,
-b76f4134-6355-405f-b37a-d87c3883dc32,learning.gmbh,available,76,32,8,,,
-c6eaf9b4-9c44-452e-ae4b-2ed16a46ac2c,learning.gold,resell,76,32,8,"DNSPod, Inc.",24/04/2019 19:22,24/04/2026 19:22
-d1a9339a-a883-49c6-ac6e-30a15858daf1,learning.golf,available,76,32,8,,,
-cf0360fe-ef31-44e9-b63f-86877623a8e7,learning.gratis,expired,76,32,8,"NameCheap, Inc.",05/10/2024 18:13,05/10/2025 18:13
-40c22ffb-e853-4f53-ad01-f2ae6c97e753,learning.green,premium,76,32,8,,,
-cbd2b979-ee28-46f6-a1c6-7c1b28aac65d,learning.gripe,available,76,32,8,,,
-9d0756d0-279a-4327-bc7d-0e5cb78cd145,learning.group,resell,76,32,8,"Go Canada Domains, LLC",08/06/2016 16:00,08/06/2026 16:00
-a6f30b2a-fcec-4174-bff9-b5b264265d7e,learning.guitars,available,76,32,8,,,
-7a2dd22f-969e-4683-92ea-2ecb6526bf29,learning.health,premium,76,32,8,,,
-3e6d99bf-9307-4e0c-ad89-a1f1fe852fbf,learning.healthcare,available,76,32,8,,,
-6163f979-13ab-4892-941c-c94e16abe91a,learning.hiphop,premium,76,32,8,,,
-0541e7cf-d9cd-461e-b7fb-72f8902ca4e0,learning.hiv,available,76,32,8,,,
-c73b9668-4efe-4a4e-9f26-f2b2bf6160bc,learning.hockey,available,76,32,8,,,
-d3905f5b-2365-4aff-a428-ba3d09f6198d,learning.holdings,available,76,32,8,,,
-24d7d824-6628-4e60-9bd8-a40dd9ed8f34,learning.holiday,available,76,32,8,,,
-f0e639dc-8f4c-4469-a73e-3043a7a0b9dc,learning.homes,expired,76,32,8,"Spaceship, Inc.",18/10/2024 01:46,18/10/2025 23:59
-c9d27d7a-9a91-443e-ae8b-5b21339c24e2,learning.hospital,available,76,32,8,,,
-e796b84e-22d6-4c66-a9c0-6235513ccc6e,learning.host,premium,76,32,8,,,
-61afc2ae-13f1-4a78-90d0-642e9536d1bc,learning.hosting,available,76,32,8,,,
-81c7628f-5d49-4ded-9114-b91377d0a0d7,learning.hot,premium,76,32,8,,,
-b6470a7e-659e-4584-991d-d87af0e69b1a,learning.icu,expiring,76,32,8,Key-Systems LLC,04/01/2021 20:47,04/01/2026 23:59
-c7dfc73e-d580-43ba-9afb-8b940194386b,learning.im,premium,76,32,8,,,
-9f5466d3-b7a4-44ae-a6a9-07260c9c9710,learning.immo,available,76,32,8,,,
-ecedf45b-fbb1-4167-a7f7-c2db89e1f7cb,learning.immobilien,available,76,32,8,,,
-db9c2280-d5a3-43b2-a05e-29adb2d3b53a,learning.in,resell,76,32,8,Endurance Digital Domain Technology Private Limited,16/02/2005 06:43,16/02/2028 06:43
-02b1078c-6c9c-476a-9e80-083ed93a87f4,learning.info,resell,76,32,8,"NameCheap, Inc.",13/07/2002 19:39,13/07/2030 19:39
-573872cf-1970-4cfb-b7f1-5c42f3a82b09,learning.ing,premium,76,32,8,,,
-5f99b8c9-0c13-4c28-ac16-e07250105bf1,learning.ink,resell,76,32,8,"Xiamen ChinaSource Internet Service Co., Ltd",15/11/2025 00:00,15/11/2026 00:00
-1572f6ea-8934-4da8-ab3e-8c616013f9c9,learning.institute,resell,76,32,8,"Spaceship, Inc.",15/07/2015 16:00,15/07/2026 16:00
-5b4b86be-39a4-4e52-975e-00ca6d27ad3e,learning.insure,available,76,32,8,,,
-3c317334-e86a-4377-a2ac-5fe8d45dcdd5,learning.investments,premium,76,32,8,,,
-e59f67f6-e306-4804-8cf8-2b00e82c12a6,learning.io,expiring,76,32,8,Porkbun LLC,11/12/2017 01:11,11/12/2025 01:11
-dfcc7cff-4636-480d-9e0d-663134d7e866,learning.jetzt,available,76,32,8,,,
-eaa7c4f3-2b5e-411f-9219-c5707ca9792a,learning.jewelry,available,76,32,8,,,
-ecaac9b2-58a4-426f-8d52-391d3aa5a8b8,learning.juegos,available,76,32,8,,,
-b446b434-e8f4-43ed-9c6c-3257e9c6efad,learning.kaufen,available,76,32,8,,,
-b76e7813-1bb3-4198-8e13-57605211304f,learning.kim,resell,76,32,8,Dynadot Inc,22/06/2025 17:00,22/06/2026 17:00
-fa6576c5-0a7f-4dca-a75a-592ef0ae7ae9,learning.kitchen,available,76,32,8,,,
-575188d6-50b4-4e1b-a9db-2dfa35c82fcd,learning.lat,resell,76,32,8,Dynadot LLC,06/10/2025 06:45,06/10/2026 23:59
-cd3a90ab-e12d-4b4b-a96d-f16f6dff4284,learning.law,available,76,32,8,,,
-33114c4a-cfd9-4d66-95fb-87c2a74d6d74,learning.lawyer,premium,76,32,8,,,
-659c0ff9-a82f-45b3-a300-a23bfb8bf20a,learning.lease,available,76,32,8,,,
-a8727281-0377-40d3-972b-87d42d2582f8,learning.legal,expiring,76,32,8,"GoDaddy.com, LLC",22/12/2023 20:23,22/12/2025 20:23
-62ed4a53-82d0-408d-8a8c-2cfc3c8a482f,learning.lifestyle,available,76,32,8,,,
-6db0dea8-a34b-43bf-a9fe-1ef16978952a,learning.lighting,available,76,32,8,,,
-abe2a740-213b-4cda-9ba1-7e77d85065d6,learning.limited,available,76,32,8,,,
-7d1059fa-c25e-4d76-8185-3ec2e5722867,learning.limo,available,76,32,8,,,
-e61807c3-beb4-49eb-b74e-7639b6842644,learning.live,premium,76,32,8,,,
-75bbf503-adb5-451f-9842-36fb7feeaa62,learning.living,available,76,32,8,,,
-a10a8a8a-10dc-4061-9d04-a118d07dbd69,learning.llc,premium,76,32,8,,,
-eac2263f-ceac-4425-9eae-4be07ec137c3,learning.loan,premium,76,32,8,,,
-6e3902dc-89a1-4e63-a9d1-7e5b7e63f7df,learning.loans,available,76,32,8,,,
-af3ab018-b685-4368-b9b8-545f7d44f479,learning.locker,premium,76,32,8,,,
-eb98590a-1686-4e1b-ab91-c26d6680bd29,learning.lol,expired,76,32,8,"Spaceship, Inc.",24/10/2024 00:14,24/10/2025 23:59
-d522cbcf-12e1-442e-8866-9ecb6de63bf5,learning.london,premium,76,32,8,,,
-ae66e93c-695d-417b-a607-41611b8b0bb4,learning.love,premium,76,32,8,,,
-57ee490e-23c3-4808-ad85-cefbe024678b,learning.ltd,resell,76,32,8,"DNSPod, Inc.",09/11/2021 13:15,09/11/2026 13:15
-c3beb882-0e0f-4ae3-8560-09228a1f3ea3,learning.ltda,premium,76,32,8,,,
-955d0b51-03c6-4b8f-bdb1-64698e27da64,learning.luxe,available,76,32,8,,,
-a06c3329-990e-47e5-8c8b-63e96df4cc16,learning.luxury,available,76,32,8,,,
-499d5a19-e3a3-4eec-931b-459c5ece8425,learning.maison,available,76,32,8,,,
-978bc3a6-91d0-41bc-978f-3531624a6ff0,learning.makeup,resell,76,32,8,"Xiamen ChinaSource Internet Service Co., Ltd",06/03/2025 16:38,06/03/2026 23:59
-4a390756-6a21-4e5d-991a-4e206d49966c,learning.management,resell,76,32,8,"Spaceship, Inc.",30/03/2022 13:15,30/03/2026 13:15
-0ccbd5b3-4d9f-4392-9b2a-30d6576132f5,learning.market,premium,76,32,8,,,
-37c53a72-0847-442f-9590-6cf9aa040277,learning.me,premium,76,32,8,,,
-7e1ae333-5fa2-4aea-a271-1d5f464ea1f8,learning.media,resell,76,32,8,"Chengdu West Dimension Digital Technology Co., Ltd.",14/01/2020 18:57,14/01/2026 18:57
-443fbbae-f703-46e0-b505-9e5af08ca43a,learning.melbourne,premium,76,32,8,,,
-c0551a2a-1b8b-44b4-a389-348400b54529,learning.meme,premium,76,32,8,,,
-f1a938e0-b450-4f6e-872b-525d60a4b6f0,learning.memorial,available,76,32,8,,,
-b919b7d7-c654-4f2b-ae9a-75481ef3c47e,learning.men,premium,76,32,8,,,
-2a3b1d99-d436-4d17-b0fd-41bba7270930,learning.menu,expiring,76,32,8,"eNom, LLC",30/12/2014 07:55,30/12/2025 07:55
-4f221600-7ca0-416a-809c-7ddc04789be3,learning.miami,premium,76,32,8,,,
-037af21f-f087-47d6-ab82-0828ca71a1c9,learning.mobi,premium,76,32,8,,,
-206b9db3-2d67-4a12-94ab-d91e33f82193,learning.moda,premium,76,32,8,,,
-cec48964-489c-4041-8870-00e862cb6086,learning.mortgage,premium,76,32,8,,,
-8be652f8-a3d3-4dbc-8b4e-19b4076597fb,learning.motorcycles,available,76,32,8,,,
-1f71970e-996c-4205-ba75-55677bb6ee47,learning.mov,premium,76,32,8,,,
-ac83de3c-2e8e-4c33-84a5-449d4e4cb1c0,learning.movie,available,76,32,8,,,
-cc9bf815-703b-483e-a830-549962b11a80,learning.music,premium,76,32,8,,,
-8adbb45d-c207-4dcd-bbf5-930c9f84d8bd,learning.name,available,76,32,8,,,
-d197df04-8971-40e9-afb4-a32d17377a39,learning.navy,available,76,32,8,,,
+443fbbae-f703-46e0-b505-9e5af08ca43a,learning.melbourne,premium,76,31,8,,,
+c0551a2a-1b8b-44b4-a389-348400b54529,learning.meme,premium,76,31,8,,,
+f1a938e0-b450-4f6e-872b-525d60a4b6f0,learning.memorial,available,76,31,8,,,
+b919b7d7-c654-4f2b-ae9a-75481ef3c47e,learning.men,premium,76,31,8,,,
+2a3b1d99-d436-4d17-b0fd-41bba7270930,learning.menu,expiring,76,31,8,"eNom, LLC",30/12/2014 07:55,30/12/2025 07:55
+4f221600-7ca0-416a-809c-7ddc04789be3,learning.miami,premium,76,31,8,,,
+037af21f-f087-47d6-ab82-0828ca71a1c9,learning.mobi,premium,76,31,8,,,
+206b9db3-2d67-4a12-94ab-d91e33f82193,learning.moda,premium,76,31,8,,,
+cec48964-489c-4041-8870-00e862cb6086,learning.mortgage,premium,76,31,8,,,
+8be652f8-a3d3-4dbc-8b4e-19b4076597fb,learning.motorcycles,available,76,31,8,,,
+1f71970e-996c-4205-ba75-55677bb6ee47,learning.mov,premium,76,31,8,,,
+ac83de3c-2e8e-4c33-84a5-449d4e4cb1c0,learning.movie,available,76,31,8,,,
+cc9bf815-703b-483e-a830-549962b11a80,learning.music,premium,76,31,8,,,
+8ced1eac-d8d8-4f18-b1a3-c9e0e711cc1b,learning.mx,available,76,31,8,,,
+8adbb45d-c207-4dcd-bbf5-930c9f84d8bd,learning.name,available,76,31,8,,,
+d197df04-8971-40e9-afb4-a32d17377a39,learning.navy,available,76,31,8,,,
+4fe27164-0aae-4941-8a68-f090176002c3,learning.news,expired,76,31,8,"Sav.com, LLC - 7",10/10/2024 17:00,10/10/2025 17:00
+ae60daeb-2175-4304-9d5d-4e8e7415609a,learning.nexus,premium,76,31,8,,,
+b7e1eea7-11a5-49a2-80dc-87253bcaeaf7,learning.ngo,premium,76,31,8,,,
+b5f6bd3d-ad95-4732-99a5-a80a3220e425,learning.nyc,premium,76,31,8,,,
+8e22560b-4ecf-482f-8b29-93d0690155ab,learning.observer,premium,76,31,8,,,
+28908992-d401-4dde-93bc-4f546167aa22,learning.one,premium,76,31,8,,,
+4c48b688-0165-401a-94f8-de6f16a3eaa6,learning.ong,premium,76,31,8,,,
+8e9c86b5-3ff0-4f01-ae05-8d69ce01017e,learning.online,premium,76,31,8,,,
+8e34914b-8763-4886-a624-24ba2a096599,learning.ooo,available,76,31,8,,,
+527d81b7-615c-444e-8339-810a50f5e8da,learning.organic,available,76,31,8,,,
+1592abb0-bcc2-4a49-adcd-f48186bdd9f5,learning.osaka,available,76,31,8,,,
+f785ba64-7870-4438-abbd-3b1cc43d9031,learning.page,premium,76,31,8,,,
+7b9dff4c-9a0c-4315-803f-450470755b68,learning.partners,resell,76,31,8,"Sav.com, LLC",11/09/2025 10:37,11/09/2026 10:37
+d2b42b08-a579-43d5-a58d-dbd13a01900f,learning.parts,available,76,31,8,,,
+689ceecd-369d-45e2-bfea-387209407a1d,learning.pet,premium,76,31,8,,,
+b514b638-0d9d-4a07-a760-4a5ead9823dc,learning.phd,premium,76,31,8,,,
+4460536b-ebe9-46f1-a1ee-01ae56c429bb,learning.photo,premium,76,31,8,,,
+7f7a3926-7191-4946-b436-f454aa884584,learning.pics,expiring,76,31,8,"Spaceship, Inc.",24/12/2024 16:19,24/12/2025 23:59
+5ad76a7d-2538-49ee-9f6b-d1d435a8e61e,learning.pictures,available,76,31,8,,,
+272a5f3d-1e54-4cbb-a1be-d1735877b725,learning.pink,premium,76,31,8,,,
+64547f4e-0c62-45bd-a26b-08c648efff38,learning.pizza,available,76,31,8,,,
+eec1a331-51a0-49cc-ae64-650e65370ca4,learning.place,expired,76,31,8,"GoDaddy.com, LLC",30/10/2017 00:52,30/10/2025 00:52
+de3b2aa0-e4cd-46ed-9147-763ea041a39a,learning.plumbing,available,76,31,8,,,
+aac96fac-41cd-4cf5-9b2b-fbc9d0dfce7d,learning.plus,expiring,76,31,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/01/2020 07:29,08/01/2026 07:29
+522462ed-f34c-4216-9f31-61c8cd9de3aa,learning.poker,resell,76,31,8,1API GmbH,21/04/2015 19:31,21/04/2026 19:31
+e91696ad-5d4e-4f92-8f84-3f99607f0c78,learning.porn,available,76,31,8,,,
+0076dc4f-ff90-4c0f-8604-d13533d1a550,learning.press,premium,76,31,8,,,
+b9dfd59e-2f50-4580-a634-b31bda110b12,learning.pro,expiring,76,31,8,"NameSilo, LLC",09/07/2013 01:39,09/07/2025 01:39
+c885be2e-ea46-47ad-813d-6c45f3ef656d,learning.prof,premium,76,31,8,,,
+6a05e99e-03a8-41bf-9a5f-d0245813714f,learning.promo,available,76,31,8,,,
+d55411c1-24c3-427a-bf7c-d9f2e047f42b,learning.properties,available,76,31,8,,,
+200a7e9f-51b9-406c-9b10-c66040565c4a,learning.property,premium,76,31,8,,,
+5b72c814-c8bb-4e30-be92-e4306fe0f77c,learning.protection,available,76,31,8,,,
+e201189d-eed7-48d1-b8d7-fca4f179789d,learning.pw,resell,76,31,8,"Xiamen ChinaSource Internet Service Co., Ltd",16/11/2023 00:48,16/11/2026 23:59
+a538e83d-cb21-412b-85a7-767053745533,learning.qpon,available,76,31,8,,,
+3ec00d97-35ae-4d65-a006-5394193dbe24,learning.quest,resell,76,31,8,"Spaceship, Inc.",02/03/2021 14:15,02/03/2026 23:59
+9fb7e702-894b-4f0e-8593-68b41498ef77,learning.racing,premium,76,31,8,,,
+2b0bbe1b-f19d-43a1-8d73-de11ab8543b0,learning.realty,available,76,31,8,,,
+b923e6e2-3fcd-46f5-ab74-3ab7d006239e,learning.recipes,resell,76,31,8,Dynadot Inc,24/06/2025 00:07,24/06/2026 00:07
+cbcdc06a-40df-445b-b445-6fefeec6b6e1,learning.red,resell,76,31,8,"Spaceship, Inc.",20/11/2023 17:00,20/11/2026 17:00
+51f54f6e-3bf9-44d7-83e9-b8118be1b66e,learning.rehab,available,76,31,8,,,
+1a6c287c-f4ab-468b-88db-288f38f23d64,learning.reise,available,76,31,8,,,
+ac23ba99-ce94-4f7e-ab30-3b541d11d49a,learning.reisen,available,76,31,8,,,
+d6581954-b26c-4376-bec7-33f9e3ba5b8e,learning.rent,available,76,31,8,,,
+45d6300b-f564-488a-8171-bcc047683d32,learning.rentals,available,76,31,8,,,
+615ad345-6fa5-481c-9d01-3ac5965eb55e,learning.repair,available,76,31,8,,,
+4aadde66-4d2d-49d7-b98a-8a012f81d3fe,learning.republican,available,76,31,8,,,
+54b4692c-d717-4c95-aef9-635fc2f3b7dc,learning.restaurant,available,76,31,8,,,
+ce9ff3d3-68a9-4451-9124-7ffbc2f43135,learning.review,premium,76,31,8,,,
+251503ab-105f-4fd7-8a3b-272f7382956b,learning.rich,available,76,31,8,,,
+232af965-1316-42d7-86fe-028297b73fd8,learning.rip,available,76,31,8,,,
+ed1327d1-85cb-4317-b6b4-4d3b4b72bb1a,learning.rodeo,available,76,31,8,,,
+cdf2c0ae-ab20-40ec-813a-c95b723ededc,learning.rsvp,premium,76,31,8,,,
+4480fc65-7423-4750-8c8a-c4c4832c75ea,learning.run,resell,76,31,8,Xin Net Technology Corporation,04/03/2024 15:15,04/03/2026 15:15
+c69cf44b-ece8-42c8-8f0c-7cfc6ce91d2d,learning.sale,resell,76,31,8,"Sav.com, LLC - 10",17/03/2025 15:15,17/03/2026 15:15
+ba93903d-16fc-4b7c-8890-3be3b314ca2d,learning.sarl,available,76,31,8,,,
+9123f0c6-9164-403b-85e9-3e701a4d7763,learning.schule,available,76,31,8,,,
+af5370ae-4f21-4961-8ce6-250350de52d4,learning.security,available,76,31,8,,,
+a1a41485-489f-4008-b412-7b7643db07e6,learning.sexy,available,76,31,8,,,
+84df3a90-a8cb-4b11-9498-9bbd410da9e9,learning.shiksha,premium,76,31,8,,,
+8e0a17a4-0110-4885-b712-1336ab2da35b,learning.shoes,available,76,31,8,,,
+99e7aaf8-c62f-4afc-a48e-585019e1cce1,learning.shop,premium,76,31,8,,,
+7477ded3-e636-4816-b6b3-8da76bc88dd5,learning.shopping,available,76,31,8,,,
+9dc960f6-8c4c-4e99-96ff-41f0c8c1a077,learning.show,resell,76,31,8,"DNSPod, Inc.",13/05/2018 02:07,13/05/2026 02:07
+543cabfd-418b-4688-8090-5ae27a9e5a55,learning.singles,available,76,31,8,,,
+330fcb2b-eb98-4c27-9a10-a59e7afda0e3,learning.site,premium,76,31,8,,,
+f355b221-eaee-4c25-8cec-ba04848c0f1b,learning.ski,premium,76,31,8,,,
+777e3309-99be-475d-8844-8bce6b7c9210,learning.skin,resell,76,31,8,"Sav.com, LLC - 19",05/05/2025 08:43,05/05/2026 23:59
+2cf31850-f3d5-4183-a667-e30a4d54a1ab,learning.so,resell,76,31,8,NameCheap,19/08/2020 05:01,19/08/2025 05:01
+7b736964-1608-4813-86e0-6b07b93fd34f,learning.soccer,available,76,31,8,,,
+f2ef61ba-a50e-44d4-ac42-d17c12d008d7,learning.social,resell,76,31,8,"Sav.com, LLC - 23",17/02/2025 15:15,17/02/2026 15:15
+bb751206-a5b6-42a8-84af-3bec1c1db1d6,learning.software,premium,76,31,8,,,
+5b0262bb-ee48-4135-8742-7fb73ccc30e3,learning.solar,resell,76,31,8,"GoDaddy.com, LLC",26/02/2023 17:33,26/02/2026 17:33
+b4fc1deb-aa83-4538-a6f9-3a3305743c60,learning.soy,premium,76,31,8,,,
+9704c586-9388-4b5a-8b0d-65c34de898aa,learning.space,resell,76,31,8,Epik LLC,18/11/2016 08:14,18/11/2026 23:59
+0053cbd0-fcc5-472a-8750-7f830be6494f,learning.srl,available,76,31,8,,,
+8381fe7d-2066-4c5a-84fd-6503d74b370a,learning.storage,available,76,31,8,,,
+e29fcd6d-806c-4739-aafa-37822a286ab7,learning.store,premium,76,31,8,,,
+352715be-2d0b-49fa-8d23-c683f5f63dd0,learning.stream,premium,76,31,8,,,
+440ba207-a5ea-4c45-8736-d3e38f74bf00,learning.study,premium,76,31,8,,,
+efc68749-652d-4234-99e9-cc3217f2c26e,learning.sucks,premium,76,31,8,,,
+b9dd7f6e-9037-447a-b037-5d57e365c8a1,learning.supplies,available,76,31,8,,,
+ff6703cd-1358-44a8-b18e-73ab202582bb,learning.surgery,available,76,31,8,,,
+73694ff5-8d4d-4d22-8f47-44ea1ac3c974,learning.sydney,premium,76,31,8,,,
+89d2b132-72bc-4da5-a25d-5562859346dc,learning.tattoo,available,76,31,8,,,
+528cd9cc-e0c9-4162-9805-5ca2a65fd7ff,learning.team,resell,76,31,8,"DNSPod, Inc.",21/11/2018 16:18,21/11/2026 16:18
+15b01ea5-9648-41c5-a4a2-4574f02ab96a,learning.tech,premium,76,31,8,,,
+f938b98d-83fd-4a60-a802-ba3ad48a3af0,learning.tennis,premium,76,31,8,,,
+290e8d34-8295-4dbb-bb50-fc5f0272fdaf,learning.theater,available,76,31,8,,,
+30249623-818f-46c4-880e-40ed0f20e99b,learning.theatre,available,76,31,8,,,
+bcf53fd9-1198-4984-99f2-963c3a3ac5c3,learning.tickets,available,76,31,8,,,
+3a84b3d5-78c4-429d-83b3-ad793173b2dd,learning.tienda,available,76,31,8,,,
+9315a242-839b-4b78-a18b-bd77facf11a3,learning.tires,available,76,31,8,,,
+23bda5ec-d767-4fd0-8827-53aaf4e0ca5e,learning.today,resell,76,31,8,"GoDaddy.com, LLC",09/07/2015 05:24,09/07/2026 05:24
+a0074240-7836-4d2a-b3ec-b7d8fcd4c3e5,learning.tools,expiring,76,31,8,Porkbun LLC,13/01/2025 04:49,13/01/2026 04:49
+9be0b163-fe3d-4c09-8f9c-a638ad2e6e18,learning.top,resell,76,31,8,成都西维数码科技有限公司,02/02/2016 04:26,02/02/2026 04:26
+9442274c-c42b-456d-b48e-42907dbc2ea5,learning.training,expired,76,31,8,"NameCheap, Inc.",01/10/2024 12:56,01/10/2025 12:56
+9b946fdc-defa-46d6-9a58-fc31991e251c,learning.travel,available,76,31,8,,,
+d2f0296a-549a-4e5b-bf51-043bb64e5b57,learning.tube,premium,76,31,8,,,
+a3f0e928-050b-4ae0-adc6-55fc85f13d05,learning.tv,resell,76,31,8,InternetX GmbH,18/03/2010 17:14,18/03/2026 17:14
+c0a17d24-76b0-428a-b478-3d0d4e3c149c,learning.uk,resell,76,31,8,Fasthosts Internet Ltd,20/04/2015 14:47,20/04/2026 14:47
+0129e4a2-36b2-4362-adae-377b52d0bc37,learning.uno,premium,76,31,8,,,
+685c311c-1424-431e-8830-ac85232d8e88,learning.vacations,premium,76,31,8,,,
+4b53a86b-2596-422e-b59b-39444d0b50ef,learning.vana,available,76,31,8,,,
+3f69055f-fdba-4f99-a238-aabe5f602194,learning.vc,resell,76,31,8,Dynadot Inc,29/03/2017 21:01,29/03/2027 21:01
+3038f839-cf02-46c4-97f3-6f85ea59d3c5,learning.vegas,available,76,31,8,,,
+ad175e94-80f8-4a5b-a983-6a14c7f33fef,learning.ventures,expiring,76,31,8,Squarespace Domains II LLC,26/12/2017 01:15,26/12/2025 01:15
+b07d0690-3af1-41de-80a8-d9c0a131e599,learning.vet,sold,76,31,8,"Key-Systems, LLC",11/12/2014 08:07,11/12/2026 08:07
+c7a22347-7e3c-4263-8963-92726896e82d,learning.viajes,available,76,31,8,,,
+54328375-50b1-4285-b9d3-ff0fa095ec29,learning.video,premium,76,31,8,,,
+b832915e-5af4-4d95-9534-0833044d4128,learning.villas,available,76,31,8,,,
+0da0e2e5-09b7-4ec4-b09a-67f9fe240831,learning.vision,resell,76,31,8,"Sav.com, LLC",15/01/2025 22:27,15/01/2026 22:27
+bad062e5-49a2-4a84-991e-06f60ea3b5aa,learning.vodka,premium,76,31,8,,,
+0dc1b90d-7a4c-42a1-bccd-517cbfda061f,learning.vote,available,76,31,8,,,
+96d34329-13a3-4262-a18b-a47ea1a67927,learning.voting,available,76,31,8,,,
+3aaf7baf-087f-4ea8-abdf-b64fea3675a1,learning.voto,available,76,31,8,,,
+e5e69931-14fa-48d6-a92e-491db9f9fe67,learning.webcam,premium,76,31,8,,,
+a68c704e-c384-4a3c-8297-3803d4f1f7af,learning.website,premium,76,31,8,,,
+b5567419-72b4-4f52-99ce-fefd832e4092,learning.wedding,available,76,31,8,,,
+17c02381-86b4-4503-a909-d46b56089223,learning.wiki,resell,76,31,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/07/2024 00:00,15/07/2026 00:00
+1fedd184-33d6-45f2-906d-8f5bc3c2b58e,learning.win,premium,76,31,8,,,
+327a9fb8-1e6d-4ac9-a4ee-4f45fe913a3b,learning.wine,available,76,31,8,,,
+3f2f1e03-0e8e-40fd-aa52-4159e0cff2cb,learning.work,resell,76,31,8,"Chengdu West Dimension Digital Technology Co., Ltd.",02/11/2023 00:00,02/11/2026 00:00
+31d41b7f-bb2a-4b2f-89f5-1d463fce3d85,learning.world,expiring,76,31,8,"eNom, LLC",11/01/2015 16:07,11/01/2026 16:07
+2ddd0099-2f15-47e6-b816-fdc4266a45c1,learning.wtf,resell,76,31,8,Dynadot Inc,17/06/2025 17:00,17/06/2026 17:00
+4053eade-c6ce-484d-a16a-7ccf1b991f0c,learning.xyz,premium,76,31,8,,,
+91ba9fe1-fb77-4957-8191-f9fbfac774d3,learning.yachts,available,76,31,8,,,
+719354e1-a0b6-420a-b5d6-a2a8a6bbe2e6,learning.zip,premium,76,31,8,,,
+2a4e50be-b59d-4aea-af1f-7860bcdfb388,learning.zone,resell,76,31,8,"DNSPod, Inc.",21/11/2018 16:17,21/11/2026 16:17
+c35d9a6b-d6bd-4d4e-be76-928a64eb5199,learn.ing,premium,76,31,8,,,
+2c1dd1c1-e1ac-489f-ad80-15a09217372d,learning.academy,resell,76,31,8,Dynadot Inc,30/07/2015 01:11,30/07/2026 01:11
+3506e223-9ee5-431d-a0be-040ffbf7dc75,learning.accountant,premium,76,31,8,,,
+29cb8788-2da9-43cc-8178-2944935cd64d,learning.accountants,available,76,31,8,,,
+e9ade42b-5cd9-456b-8d1a-a3100dc178f5,learning.actor,available,76,31,8,,,
+24135542-3286-4351-b1a0-fc7377c92b2b,learning.adult,available,76,31,8,,,
+e428dbea-41f1-4f87-b5cd-e1151434e96b,learning.ai,sold,76,31,8,Porkbun LLC,16/12/2017 00:46,19/01/2027 00:46
+33fd69a9-2e04-4627-a857-c552498b1752,learning.airforce,available,76,31,8,,,
+c17410f5-e4e1-4dd9-8d19-f63ac8397eb5,learning.apartments,available,76,31,8,,,
+61f8f8cd-12e3-4834-842d-f1f1a56efce3,learning.archi,available,76,31,8,,,
+b5f4727c-290c-4888-8eaa-c98e761c2a4a,learning.army,available,76,31,8,,,
+27c51195-4934-419b-a020-09e88cd5c9eb,learning.asia,resell,76,31,8,"GoDaddy.com, LLC",01/08/2008 05:02,01/08/2026 05:02
+a34543c6-c92c-4041-b22b-ee93ee28316b,learning.associates,resell,76,31,8,"NameSilo, LLC",29/10/2022 21:29,29/10/2026 21:29
+92980c71-2ab8-45cc-a099-fdca1b6d9348,learning.at,sold,76,31,8,DAY Investments GmbH ( https://nic.at/registrar/485 ),,
+2606cfa6-afe7-41f4-9d89-127919c9f555,learning.attorney,premium,76,31,8,,,
+99137713-2726-40b6-a54d-712a66f63ca6,learning.auction,available,76,31,8,,,
+afafd7c2-4613-4689-9654-28e42f51748c,learning.audio,available,76,31,8,,,
+e368a3f4-37a6-4951-8913-bd3e1b3dfdff,learning.auto,available,76,31,8,,,
+a040415e-3932-4bce-981c-ebac19e7c87b,learning.autos,resell,76,31,8,"Spaceship, Inc.",29/10/2022 21:22,29/10/2026 23:59
+156fdbff-9ff5-49e6-893e-3ec179340fc7,learning.baby,sold,76,31,8,"GMO Internet Group, Inc. d/b/a Onamae.com	",26/12/2022 08:31,26/12/2026 23:59
+bb79e975-1315-4fd9-8457-10a4225ae3b9,learning.band,available,76,31,8,,,
+b6dcccb8-f1c8-4594-a87c-7b7853620986,learning.bar,premium,76,31,8,,,
+d8ba9e18-716d-434a-8ca3-ac8f0d621771,learning.bargains,available,76,31,8,,,
+faf7d9fe-4927-4153-ba6b-4412cf322635,learning.bayern,available,76,31,8,,,
+d5a3940d-3ce2-408f-902b-fc7e5e424737,learning.beauty,resell,76,31,8,"Spaceship, Inc.",05/12/2024 13:15,05/12/2026 23:59
+4ac43a37-9f21-42f3-8d8a-38c784b93aa6,learning.beer,available,76,31,8,,,
+43520eda-36d9-4563-b358-408a08a707c1,learning.bet,expiring,76,31,8,"GoDaddy.com, LLC",07/01/2022 17:59,07/01/2026 17:59
+19c8f596-09d6-4d60-b875-6aaf0fe52a55,learning.bid,available,76,31,8,,,
+12498bfa-7ac6-4f09-b6cc-dd2e160857c2,learning.bike,available,76,31,8,,,
+8e85c4b3-0421-425a-9396-cb60ad8149c8,learning.bingo,available,76,31,8,,,
+6b79c238-7728-4104-bc53-756915f24b83,learning.black,available,76,31,8,,,
+3fff252d-939d-4363-8511-216675e40149,learning.blackfriday,available,76,31,8,,,
+305b4f56-2d70-458c-9142-39d2f3f5ea70,learning.blog,premium,76,31,8,,,
+6267fd7c-c791-4bc4-b86d-2c6f1c75c7a5,learning.blue,resell,76,31,8,"Sav.com, LLC - 21",10/02/2025 15:16,10/02/2026 15:16
+6bec06dc-3f07-467e-97ee-1c1f512b2adf,learning.boats,available,76,31,8,,,
+e784ab2c-4e6d-4e32-83e4-0b5eb8e53c28,learning.bond,premium,76,31,8,,,
+06b0eaf3-2e42-49d3-92c4-9665cc3b93cb,learning.boo,premium,76,31,8,,,
+47006119-2d01-4d21-b8d3-2f4f3ad81625,learning.boston,premium,76,31,8,,,
+05dee33f-b783-4903-b3eb-eed3a616e44d,learning.build,premium,76,31,8,,,
+4d2b5194-aaa7-4261-92d1-6361b5526d38,learning.builders,available,76,31,8,,,
+55de830b-5dc1-4075-ab1f-c600acf0921c,learning.buzz,premium,76,31,8,,,
+0bc64ba7-0079-4517-8c50-a1996bb3b388,learning.bz,available,76,31,8,,,
+b792e712-bec9-4567-ba3e-f2de28833702,learning.cab,available,76,31,8,,,
+7f17fdf9-f4cc-4e66-8644-a031d15faa3b,learning.camera,resell,76,31,8,"GoDaddy.com, LLC",20/08/2015 23:38,20/08/2027 23:38
+c5b2ad46-2e89-4d17-8d08-d00d65d945d3,learning.camp,premium,76,31,8,,,
+85e03f78-1ba2-4366-a0ef-9dc11e97bdca,learning.car,available,76,31,8,,,
+2cd648bc-cc02-4b3e-88f5-c5b78d83af92,learning.care,expired,76,31,8,"Sav.com, LLC",31/10/2023 06:14,31/10/2025 06:14
+2a556062-08fd-49eb-8e79-8463470daf1e,learning.careers,available,76,31,8,,,
+6bab45f6-7ad4-4582-ba0b-3d8b59f873ed,learning.cars,available,76,31,8,,,
+43016aa5-2420-4d2c-9686-eaa9e5914f87,learning.cash,resell,76,31,8,"DNSPod, Inc.",22/10/2021 13:15,22/10/2026 13:15
+1b441b15-9194-411d-a2bc-b04b4d195a5a,learning.casino,available,76,31,8,,,
+7916cb41-00e6-405f-bc3c-8e8a414b63ba,learning.catering,available,76,31,8,,,
+f0efa918-35bc-4e6f-81e4-3745def90564,learning.cc,resell,76,31,8,Dynadot15 LLC,18/06/2020 08:00,18/06/2026 08:00
+c6b34075-bb08-45e5-8582-c57ad162d44f,learning.cfd,premium,76,31,8,,,
+340d5798-b2bf-42b9-81e7-c775a51761b5,learning.chat,expiring,76,31,8,"DNSPod, Inc.",03/01/2020 02:22,03/01/2026 02:22
+9470436b-afaa-483f-b870-ed89183b5a0e,learning.city,expiring,76,31,8,"Xiamen ChinaSource Internet Service Co., Ltd",04/01/2021 08:21,04/01/2026 08:21
+124d35ba-8130-4c22-8678-a2cc9c400205,learning.claims,available,76,31,8,,,
+9e77e132-16f0-4394-a5e2-4135cb624b7a,learning.cleaning,available,76,31,8,,,
+7ecad1eb-963a-4a35-97d3-47d2c37e9e03,learning.clinic,premium,76,31,8,,,
+194be50e-5c4b-47e8-a8cc-0d8d4548ec1f,learning.clothing,available,76,31,8,,,
+79323d74-dfac-4206-ad5c-99fc7e1426f3,learning.cloud,premium,76,31,8,,,
+ee4156d5-e8fe-4dc1-84f0-2bc6b80568a6,learning.club,resell,76,31,8,Dynadot Inc,15/04/2017 22:23,15/04/2026 22:23
+46bfac23-ad05-4cb1-b432-bd2beebcd809,learning.codes,resell,76,31,8,"Sav.com, LLC - 46",07/03/2025 15:15,07/03/2026 15:15
+c40c4a35-3174-4789-b8dd-013064ab47a4,learning.coffee,available,76,31,8,,,
+f282a9fc-1043-405e-b0d1-50b61e42829d,learning.college,premium,76,31,8,,,
+316895ee-3f2b-47f9-99f4-f63d61070167,learning.company,resell,76,31,8,"GoDaddy.com, LLC",25/06/2015 20:56,25/06/2026 20:56
+57778fbf-04de-488c-9d8a-93efa562d8e3,learning.condos,available,76,31,8,,,
+b55fdbef-ac42-48bf-a1a2-cba2b72a7fd9,learning.construction,available,76,31,8,,,
+b61d12aa-22b2-4caa-af98-8b2ddb55d796,learning.contact,available,76,31,8,,,
+8ec10ead-85e1-4816-bf47-6b42fff9b0e3,learning.contractors,available,76,31,8,,,
+72a2edc1-7030-46e8-9baf-8635941ee859,learning.cooking,available,76,31,8,,,
+508c6635-8876-426c-8c23-009565bf0f76,learning.country,available,76,31,8,,,
+55b15fee-26d9-4d6f-b849-5a36650dbf37,learning.courses,premium,76,31,8,,,
+478a6b32-2ca6-43c9-9958-aa04660ac886,learning.credit,available,76,31,8,,,
+43775bad-80bd-457d-b9f9-acc9ef0ad1f8,learning.creditcard,available,76,31,8,,,
+7f397251-0fe9-41c8-a5e0-2e77f4fd869e,learning.cricket,premium,76,31,8,,,
+3d62b2d2-577c-42ad-ab39-73a3363405cf,learning.cruises,available,76,31,8,,,
+58d2a50a-63fb-49c5-b987-6af8d8fff971,learning.cv,premium,76,31,8,,,
+3599e839-08ab-4b6b-aff3-2868e782aa72,learning.cyou,premium,76,31,8,,,
+8fc8369e-1d4b-4cd9-9377-9a71e305b7e6,learning.dad,premium,76,31,8,,,
+694fd755-28a0-479a-918a-0bd0d23ba5a7,learning.dance,premium,76,31,8,,,
+982a87f5-1fdc-413c-b96e-97c75bbe7b85,learning.date,premium,76,31,8,,,
+7feb0ebc-5975-40a7-9590-dffa854d1858,learning.dating,available,76,31,8,,,
+0da87e9e-351d-4e9e-970c-02d01d6b7d69,learning.dealer,premium,76,31,8,,,
+8face361-2cc6-42c1-bbdc-1d7ec7bd7a8f,learning.degree,available,76,31,8,,,
+2fab2957-fac3-4daf-adb8-1a9049e04a4c,learning.democrat,available,76,31,8,,,
+2f2367dc-d0f1-4285-9c43-3e70571b7599,learning.dentist,available,76,31,8,,,
+bebfd034-126f-41cd-81e9-f79e1ad96697,learning.diamonds,available,76,31,8,,,
+997a9c41-1723-4f92-bfc0-90a146f734d9,learning.diet,available,76,31,8,,,
+67b87bdf-f6c4-4961-84c0-55892b029e03,learning.digital,resell,76,31,8,Dynadot Inc,07/02/2023 18:11,07/02/2026 18:11
+75732030-5e0a-4ff6-9b22-39f03bf546ce,learning.discount,available,76,31,8,,,
+04a2deee-f87a-460b-b9ad-0ad7c50f282a,learning.diy,expiring,76,31,8,Porkbun LLC,13/01/2025 16:35,13/01/2026 16:35
+45b76d91-a23d-485c-88f3-f4cc3d6fa10b,learning.doctor,available,76,31,8,,,
+672dd10e-fc07-4a26-8661-ed12bc6698c6,learning.domains,resell,76,31,8,"GoDaddy.com, LLC",13/03/2014 01:40,13/03/2029 01:40
+0be803c5-63c0-45d7-89ea-a05a9a5c3ecd,learning.download,premium,76,31,8,,,
+e34bed35-9267-4b60-9d1b-b2b32eb6b2e0,learning.equipment,available,76,31,8,,,
+c76a5811-116e-4ee1-b694-154b31bc98cf,learning.esq,premium,76,31,8,,,
+654a5bdd-58fa-4320-a0fa-32a5b4190d77,learning.estate,available,76,31,8,,,
+e6aa8114-e99e-4150-b85a-1c7d12415915,learning.express,resell,76,31,8,"GoDaddy.com, LLC",26/02/2017 11:06,26/02/2026 11:06
+8bf06ccb-67da-4aa4-bef1-f8d9b4b2de31,learning.faith,available,76,31,8,,,
+d9e0fdfc-1cee-49fb-8b8e-4b867e4aaf5c,learning.fans,premium,76,31,8,,,
+0d6fd80c-74bf-4b42-9787-11706b5f26ff,learning.farm,resell,76,31,8,"Sav.com, LLC",07/07/2025 17:07,07/07/2026 17:07
+a0acb867-09f9-4bdd-955f-574ea0b4c79a,learning.fashion,expired,76,31,8,"NameCheap, Inc.",05/10/2024 18:45,05/10/2025 18:45
+6c4e717a-c9fa-446f-84d0-aa4b29a8b907,learning.film,premium,76,31,8,,,
+118c84ff-4fbc-446d-adf8-12f6ffff281c,learning.finance,premium,76,31,8,,,
+c2ff06e3-a7ed-4300-ae5a-3620e665e369,learning.fish,available,76,31,8,,,
+ec51e435-d9a9-4948-b927-ea6916d1d7ad,learning.fishing,available,76,31,8,,,
+b016b33f-0560-42e9-ba5d-0193ced957d9,learning.fit,resell,76,31,8,"Chengdu West Dimension Digital Technology Co., Ltd.",06/09/2022 01:28,06/09/2026 01:28
+bc7f88bd-733d-47de-90b6-2f32fa1e8691,learning.fitness,resell,76,31,8,"Sav.com, LLC - 46",10/09/2025 15:15,10/09/2026 15:15
+c2d5782a-f32d-4aa9-8c05-c92eab981fbe,learning.flights,available,76,31,8,,,
+fbb16fb4-0735-4aa8-a0a0-22cf7da0a75c,learning.florist,available,76,31,8,,,
+a4f4a51e-9f2a-4371-830c-5db86a9ab460,learning.flowers,available,76,31,8,,,
+45afe904-63f9-4fb6-91d0-98b902b70fcc,learning.fm,premium,76,31,8,,,
+0e2e7d47-4448-4616-8b2b-8684d98e0bbd,learning.foo,premium,76,31,8,,,
+ce2aac55-c6a5-418b-9580-a93896cdec4c,learning.food,resell,76,31,8,"Dynadot, LLC",24/06/2025 00:07,24/06/2026 00:07
+67e3d534-309e-4d1e-94c5-605216143991,learning.forsale,available,76,31,8,,,
+4504ffa1-d6cc-4fa7-a45c-0a418ef4970e,learning.free,premium,76,31,8,,,
+9308afdd-5263-44dc-81a6-b46cb499998f,learning.fun,premium,76,31,8,,,
+e8885f7c-7460-4be0-abf1-32373071e5f0,learning.fund,resell,76,31,8,"DNSPod, Inc.",10/02/2019 17:00,10/02/2026 17:00
+8f4e73c8-158e-471e-bcd5-57674c92ade7,learning.furniture,available,76,31,8,,,
+5fd9128a-dd74-4393-b49a-d57e161e8a1c,learning.futbol,available,76,31,8,,,
+2983716e-92fe-4980-983e-36841b379b6c,learning.gallery,available,76,31,8,,,
+b49e6f8b-f244-4395-8bcf-f3c7f5195e82,learning.game,available,76,31,8,,,
+2959dffd-f021-464e-8233-2da9cce43eef,learning.games,resell,76,31,8,"GoDaddy.com, LLC",12/09/2016 18:21,12/09/2026 18:21
+c6afdc4f-e1d3-493a-ab95-3849ba5c4b71,learning.gay,available,76,31,8,,,
+4cb119fb-c8e5-46d7-9ab5-80b89e4eff6b,learning.gg,resell,76,31,8,West263 International Limited (http://www.west263.hk),,
+4bcdf952-7a14-4ba9-93e3-e7c8fe65e013,learning.gift,available,76,31,8,,,
+75567679-cbca-45d9-826b-1fcb18a87b12,learning.gifts,premium,76,31,8,,,
+defa562e-df42-46ee-8276-c90770009c3b,learning.giving,available,76,31,8,,,
+b76f4134-6355-405f-b37a-d87c3883dc32,learning.gmbh,available,76,31,8,,,
+c6eaf9b4-9c44-452e-ae4b-2ed16a46ac2c,learning.gold,resell,76,31,8,"DNSPod, Inc.",24/04/2019 19:22,24/04/2026 19:22
+d1a9339a-a883-49c6-ac6e-30a15858daf1,learning.golf,available,76,31,8,,,
+cf0360fe-ef31-44e9-b63f-86877623a8e7,learning.gratis,expired,76,31,8,"NameCheap, Inc.",05/10/2024 18:13,05/10/2025 18:13
+40c22ffb-e853-4f53-ad01-f2ae6c97e753,learning.green,premium,76,31,8,,,
+cbd2b979-ee28-46f6-a1c6-7c1b28aac65d,learning.gripe,available,76,31,8,,,
+9d0756d0-279a-4327-bc7d-0e5cb78cd145,learning.group,resell,76,31,8,"Go Canada Domains, LLC",08/06/2016 16:00,08/06/2026 16:00
+a6f30b2a-fcec-4174-bff9-b5b264265d7e,learning.guitars,available,76,31,8,,,
+7a2dd22f-969e-4683-92ea-2ecb6526bf29,learning.health,premium,76,31,8,,,
+3e6d99bf-9307-4e0c-ad89-a1f1fe852fbf,learning.healthcare,available,76,31,8,,,
+6163f979-13ab-4892-941c-c94e16abe91a,learning.hiphop,premium,76,31,8,,,
+0541e7cf-d9cd-461e-b7fb-72f8902ca4e0,learning.hiv,available,76,31,8,,,
+c73b9668-4efe-4a4e-9f26-f2b2bf6160bc,learning.hockey,available,76,31,8,,,
+d3905f5b-2365-4aff-a428-ba3d09f6198d,learning.holdings,available,76,31,8,,,
+24d7d824-6628-4e60-9bd8-a40dd9ed8f34,learning.holiday,available,76,31,8,,,
+f0e639dc-8f4c-4469-a73e-3043a7a0b9dc,learning.homes,expired,76,31,8,"Spaceship, Inc.",18/10/2024 01:46,18/10/2025 23:59
+c9d27d7a-9a91-443e-ae8b-5b21339c24e2,learning.hospital,available,76,31,8,,,
+e796b84e-22d6-4c66-a9c0-6235513ccc6e,learning.host,premium,76,31,8,,,
+61afc2ae-13f1-4a78-90d0-642e9536d1bc,learning.hosting,available,76,31,8,,,
+81c7628f-5d49-4ded-9114-b91377d0a0d7,learning.hot,premium,76,31,8,,,
+b6470a7e-659e-4584-991d-d87af0e69b1a,learning.icu,expiring,76,31,8,Key-Systems LLC,04/01/2021 20:47,04/01/2026 23:59
+c7dfc73e-d580-43ba-9afb-8b940194386b,learning.im,premium,76,31,8,,,
+9f5466d3-b7a4-44ae-a6a9-07260c9c9710,learning.immo,available,76,31,8,,,
+ecedf45b-fbb1-4167-a7f7-c2db89e1f7cb,learning.immobilien,available,76,31,8,,,
+db9c2280-d5a3-43b2-a05e-29adb2d3b53a,learning.in,resell,76,31,8,Endurance Digital Domain Technology Private Limited,16/02/2005 06:43,16/02/2028 06:43
+02b1078c-6c9c-476a-9e80-083ed93a87f4,learning.info,resell,76,31,8,"NameCheap, Inc.",13/07/2002 19:39,13/07/2030 19:39
+573872cf-1970-4cfb-b7f1-5c42f3a82b09,learning.ing,premium,76,31,8,,,
+5f99b8c9-0c13-4c28-ac16-e07250105bf1,learning.ink,resell,76,31,8,"Xiamen ChinaSource Internet Service Co., Ltd",15/11/2025 00:00,15/11/2026 00:00
+1572f6ea-8934-4da8-ab3e-8c616013f9c9,learning.institute,resell,76,31,8,"Spaceship, Inc.",15/07/2015 16:00,15/07/2026 16:00
+5b4b86be-39a4-4e52-975e-00ca6d27ad3e,learning.insure,available,76,31,8,,,
+3c317334-e86a-4377-a2ac-5fe8d45dcdd5,learning.investments,premium,76,31,8,,,
+e59f67f6-e306-4804-8cf8-2b00e82c12a6,learning.io,sold,76,31,8,Porkbun LLC,11/12/2017 01:11,11/12/2026 01:11
+dfcc7cff-4636-480d-9e0d-663134d7e866,learning.jetzt,available,76,31,8,,,
+eaa7c4f3-2b5e-411f-9219-c5707ca9792a,learning.jewelry,available,76,31,8,,,
+ecaac9b2-58a4-426f-8d52-391d3aa5a8b8,learning.juegos,available,76,31,8,,,
+b446b434-e8f4-43ed-9c6c-3257e9c6efad,learning.kaufen,available,76,31,8,,,
+b76e7813-1bb3-4198-8e13-57605211304f,learning.kim,resell,76,31,8,Dynadot Inc,22/06/2025 17:00,22/06/2026 17:00
+fa6576c5-0a7f-4dca-a75a-592ef0ae7ae9,learning.kitchen,available,76,31,8,,,
+575188d6-50b4-4e1b-a9db-2dfa35c82fcd,learning.lat,resell,76,31,8,Dynadot LLC,06/10/2025 06:45,06/10/2026 23:59
+cd3a90ab-e12d-4b4b-a96d-f16f6dff4284,learning.law,available,76,31,8,,,
+33114c4a-cfd9-4d66-95fb-87c2a74d6d74,learning.lawyer,premium,76,31,8,,,
+659c0ff9-a82f-45b3-a300-a23bfb8bf20a,learning.lease,available,76,31,8,,,
+a8727281-0377-40d3-972b-87d42d2582f8,learning.legal,sold,76,31,8,"GoDaddy.com, LLC",22/12/2023 20:23,22/12/2026 20:23
+62ed4a53-82d0-408d-8a8c-2cfc3c8a482f,learning.lifestyle,available,76,31,8,,,
+6db0dea8-a34b-43bf-a9fe-1ef16978952a,learning.lighting,available,76,31,8,,,
+abe2a740-213b-4cda-9ba1-7e77d85065d6,learning.limited,available,76,31,8,,,
+7d1059fa-c25e-4d76-8185-3ec2e5722867,learning.limo,available,76,31,8,,,
+e61807c3-beb4-49eb-b74e-7639b6842644,learning.live,premium,76,31,8,,,
+75bbf503-adb5-451f-9842-36fb7feeaa62,learning.living,available,76,31,8,,,
+a10a8a8a-10dc-4061-9d04-a118d07dbd69,learning.llc,premium,76,31,8,,,
+eac2263f-ceac-4425-9eae-4be07ec137c3,learning.loan,premium,76,31,8,,,
+6e3902dc-89a1-4e63-a9d1-7e5b7e63f7df,learning.loans,available,76,31,8,,,
+af3ab018-b685-4368-b9b8-545f7d44f479,learning.locker,premium,76,31,8,,,
+eb98590a-1686-4e1b-ab91-c26d6680bd29,learning.lol,expired,76,31,8,"Spaceship, Inc.",24/10/2024 00:14,24/10/2025 23:59
+d522cbcf-12e1-442e-8866-9ecb6de63bf5,learning.london,premium,76,31,8,,,
+ae66e93c-695d-417b-a607-41611b8b0bb4,learning.love,premium,76,31,8,,,
+57ee490e-23c3-4808-ad85-cefbe024678b,learning.ltd,resell,76,31,8,"DNSPod, Inc.",09/11/2021 13:15,09/11/2026 13:15
+c3beb882-0e0f-4ae3-8560-09228a1f3ea3,learning.ltda,premium,76,31,8,,,
+955d0b51-03c6-4b8f-bdb1-64698e27da64,learning.luxe,available,76,31,8,,,
+a06c3329-990e-47e5-8c8b-63e96df4cc16,learning.luxury,available,76,31,8,,,
+499d5a19-e3a3-4eec-931b-459c5ece8425,learning.maison,available,76,31,8,,,
+978bc3a6-91d0-41bc-978f-3531624a6ff0,learning.makeup,resell,76,31,8,"Xiamen ChinaSource Internet Service Co., Ltd",06/03/2025 16:38,06/03/2026 23:59
+4a390756-6a21-4e5d-991a-4e206d49966c,learning.management,resell,76,31,8,"Spaceship, Inc.",30/03/2022 13:15,30/03/2026 13:15
+0ccbd5b3-4d9f-4392-9b2a-30d6576132f5,learning.market,premium,76,31,8,,,
+37c53a72-0847-442f-9590-6cf9aa040277,learning.me,premium,76,31,8,,,
+7e1ae333-5fa2-4aea-a271-1d5f464ea1f8,learning.media,expiring,76,31,8,"Chengdu West Dimension Digital Technology Co., Ltd.",14/01/2020 18:57,14/01/2026 18:57
 54fcf5cb-771e-41c7-840a-806dc222dff8,instruction.ai,resell,56,80,11,Ewire,16/12/2017 01:01,07/12/2025 01:01
 bc2479c8-2e1b-4da2-8972-24376d8dd5aa,instruction.app,premium,56,80,11,,,
 1679493d-4344-4921-966c-d652a4e423d6,instruction.at,premium,56,80,11,,,
@@ -860,7 +867,7 @@ f11ee309-f914-4aca-b0df-7377140f305c,study.capital,premium,102,30,5,,,
 7fe986c5-d6b7-44a3-aa35-95aea752d8ad,study.careers,available,102,30,5,,,
 e38b76e0-2757-4af2-95bd-767f5f3144b1,study.cars,available,102,30,5,,,
 8541fee4-0620-4d4d-8423-d1aea6da7121,study.casa,premium,102,30,5,,,
-6b68d723-b626-46e6-a1ac-fc1b8d02cc8e,study.casino,resell,102,30,5,"Sav.com, LLC",30/06/2025 19:41,30/06/2026 19:41
+6b68d723-b626-46e6-a1ac-fc1b8d02cc8e,study.casino,sold,102,30,5,"Sav.com, LLC",30/06/2025 19:41,30/06/2026 19:41
 ef6bbcbb-9b5c-4a0d-aa07-3bf72db5e077,study.catering,premium,102,30,5,,,
 fad814fe-4fd7-42a9-8329-8fdde178d514,study.ceo,available,102,30,5,,,
 e92b2cb3-c960-423d-8aea-680ba0f31f2d,study.cfd,premium,102,30,5,,,
@@ -879,9 +886,10 @@ eace27c1-7a29-4e63-9cda-a1246c5646cd,study.community,premium,102,30,5,,,
 41adf578-e6b4-496e-a726-5f1581fac962,study.construction,available,102,30,5,,,
 aeccc8be-3484-4856-8958-aa61a7ef5228,study.contractors,available,102,30,5,,,
 d2d820e8-e027-4e3d-8f71-ba016c0f616a,study.cooking,available,102,30,5,,,
+f10ed025-1889-4299-a89c-c15ae4760936,study.country,resell,102,30,5,Porkbun LLC,04/08/2022 16:00,04/08/2026 16:00
 d66621a2-8024-44b5-bbd1-d29c0f5214d2,study.coupons,available,102,30,5,,,
 79427c5e-67ea-4cfe-a79f-dc6b0af4d201,study.courses,expired,102,30,5,OPEN UNIVERSITIES AUSTRALIA PTY LTD - COURSES,07/12/2015 01:19,07/12/2025 01:19
-601b5e8d-c48a-4517-9250-3a0ccd7b54ad,study.credit,resell,102,30,5,"Sav.com, LLC - 11",29/07/2025 15:15,29/07/2026 15:15
+601b5e8d-c48a-4517-9250-3a0ccd7b54ad,study.credit,sold,102,30,5,"Sav.com, LLC - 11",29/07/2025 15:15,29/07/2026 15:15
 f9c8211b-76b4-4d96-9d63-dbae27147b50,study.creditcard,available,102,30,5,,,
 45ff21dd-edea-4d38-a028-538cd8df8e27,study.cricket,available,102,30,5,,,
 c9abc836-b485-419b-a09c-6a605a639bb8,study.cruises,available,102,30,5,,,
@@ -896,7 +904,7 @@ fb10a899-280d-46e3-b998-d68a561ab500,study.deal,premium,102,30,5,,,
 326eff53-b222-4de5-ba29-e0743ebf117c,study.degree,premium,102,30,5,,,
 e5910f05-25b9-4a94-99de-371888d541fe,study.delivery,premium,102,30,5,,,
 532b16b0-312c-42df-9783-ea32af9827ac,study.democrat,available,102,30,5,,,
-ed2b0f8f-910d-472d-96b4-c1822612a0a6,study.dental,expiring,102,30,5,united-domains GmbH,13/12/2016 07:08,13/12/2025 07:08
+ed2b0f8f-910d-472d-96b4-c1822612a0a6,study.dental,sold,102,30,5,united-domains GmbH,13/12/2016 07:08,13/12/2026 07:08
 65d47e11-496c-4925-92e4-820cf32215c6,study.dentist,premium,102,30,5,,,
 fed997e9-95d6-46c3-b1df-c52668296013,study.design,premium,102,30,5,,,
 ea491b76-01e9-4e93-9b02-1135edae3431,study.dev,resell,102,30,5,Squarespace Domains II LLC.,19/08/2022 18:04,19/08/2026 18:04
@@ -991,11 +999,3 @@ d8e4f60b-656e-4fc6-a2a8-1a1fd7c2d2cf,study.jewelry,available,102,30,5,,,
 17b2416b-ec67-46dd-b30d-788119bcc926,study.lawyer,premium,102,30,5,,,
 82d6831d-3784-4284-9a14-cb280728362f,study.lease,premium,102,30,5,,,
 bc728334-1969-4b8c-8388-0ea9b0c7070e,study.legal,premium,102,30,5,,,
-80aa7752-431b-465b-aa81-0490e0c0c23c,study.lgbt,premium,102,30,5,,,
-6e252de4-f6cb-4a28-999e-80f30fed1110,study.lifestyle,premium,102,30,5,,,
-d585c0fe-1a61-4870-9314-1d8624ae210e,study.limited,available,102,30,5,,,
-5260da98-83ab-4502-97ca-aa57ce200ece,study.limo,available,102,30,5,,,
-04a37821-6c11-4200-ab08-88d14211987e,study.link,premium,102,30,5,,,
-3aa4abf6-66d0-4284-acce-6b49e9675ae4,study.live,premium,102,30,5,,,
-401ad28a-0819-4a67-9008-e4918db01cec,study.living,premium,102,30,5,,,
-dd591619-41b9-4ce8-b281-7a9ccd96256f,study.llc,premium,102,30,5,,,
