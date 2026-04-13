@@ -67,12 +67,12 @@ print(df.head())
 | nice.education      | available | $39.99    | $45.99        | 86             | 44     | 4      | name.com                                                  |
 | crimson.education   | resell    | —         | —             | 110            | 97     | 7      | Spaceship, Inc.                                           |
 | office.education    | premium   | $41.49    | —             | 82             | 58     | 6      | name.com                                                  |
-| order.education     | available | $39.99    | $45.99        | 78             | 41     | 5      | name.com                                                  |
+| order.education     | available | $39.99    | $45.99        | 78             | 40     | 5      | name.com                                                  |
 | prime.education     | resell    | —         | —             | 76             | 82     | 5      | Spaceship, Inc.                                           |
 | athletics.education | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                                 |
 | links.education     | available | $39.99    | —             | 70             | 39     | 5      | name.com                                                  |
 | domain.education    | resell    | —         | —             | 80             | 64     | 6      | Dynadot Inc                                               |
-| green.education     | premium   | $520      | $520          | 108            | 45     | 5      | namecheap                                                 |
+| green.education     | premium   | $520      | $520          | 108            | 44     | 5      | namecheap                                                 |
 | direct.education    | available | $39.99    | $45.99        | 104            | 38     | 6      | name.com                                                  |
 | open.education      | resell    | —         | —             | 106            | 60     | 4      | Spaceship, Inc.                                           |
 | pop.education       | premium   | $82.50    | $82.50        | 82             | 43     | 3      | name.com                                                  |
@@ -82,7 +82,7 @@ print(df.head())
 | rust.education      | available | $39.99    | —             | 54             | 38     | 4      | name.com                                                  |
 | smart.education     | resell    | —         | —             | 74             | 56     | 5      | Porkbun LLC                                               |
 | quick.education     | premium   | $123.75   | $123.75       | 72             | 41     | 5      | name.com                                                  |
-| view.education      | available | $39.99    | —             | 76             | 37     | 4      | name.com                                                  |
+| terminal.education  | available | $39.99    | $45.99        | 104            | 37     | 8      | name.com                                                  |
 | future.education    | resell    | —         | —             | 94             | 55     | 6      | eNom, LLC                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
