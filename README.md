@@ -1,22 +1,22 @@
-# Available .EDUCATION One-Word Domains (8,318)
+# Available .EDUCATION One-Word Domains (10,585)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C319%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C318%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C585%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .education one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .education one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,585 domains** on the canonical page below.
 
-**Public extract:** 8,319 rows · **Live catalog:** 8,318 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,585 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/education`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .EDUCATION one-word do
 
 ### Files
 
-- `education.csv` — public CSV extract (8,319 rows)
-- `education.json` — public JSON extract (8,319 rows)
+- `education.csv` — public CSV extract (1,000 rows)
+- `education.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| nice.education      | available | $39.99    | $45.99        | 86             | 44     | 4      | name.com                                                  |
-| crimson.education   | resell    | —         | —             | 110            | 97     | 7      | Spaceship, Inc.                                           |
-| office.education    | premium   | $41.49    | —             | 82             | 58     | 6      | name.com                                                  |
-| direct.education    | available | $39.99    | $45.99        | 104            | 40     | 6      | name.com                                                  |
-| prime.education     | resell    | —         | —             | 76             | 82     | 5      | Spaceship, Inc.                                           |
-| athletics.education | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                                 |
-| order.education     | available | $39.99    | $45.99        | 78             | 40     | 5      | name.com                                                  |
-| domain.education    | resell    | —         | —             | 80             | 64     | 6      | Dynadot Inc                                               |
-| green.education     | premium   | $520      | $520          | 108            | 44     | 5      | namecheap                                                 |
-| links.education     | available | $39.99    | —             | 70             | 39     | 5      | name.com                                                  |
-| open.education      | resell    | —         | —             | 106            | 60     | 4      | Spaceship, Inc.                                           |
-| pop.education       | premium   | $82.50    | $82.50        | 82             | 43     | 3      | name.com                                                  |
-| conscious.education | available | $39.99    | $45.99        | 89             | 38     | 9      | name.com                                                  |
-| ace.education       | resell    | —         | —             | 88             | 57     | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| map.education       | premium   | $85.80    | $85.80        | 78             | 42     | 3      | namecheap                                                 |
-| rust.education      | available | $39.99    | —             | 54             | 38     | 4      | name.com                                                  |
-| smart.education     | resell    | —         | —             | 74             | 56     | 5      | Porkbun LLC                                               |
-| quick.education     | premium   | $123.75   | $123.75       | 72             | 41     | 5      | name.com                                                  |
-| terminal.education  | available | $39.99    | $45.99        | 104            | 37     | 8      | name.com                                                  |
-| future.education    | resell    | —         | —             | 94             | 55     | 6      | eNom, LLC                                                 |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Phil.education        | available | $46.98    | —             | 78             | 41     | 4      | namecheap   |
+| smart.education       | resell    | —         | —             | 74             | 56     | 5      | Porkbun LLC |
+| solutions.education   | premium   | $123.75   | —             | 56             | 31     | 9      | name.com    |
+| events.education      | available | $39.99    | —             | 68             | 37     | 6      | name.com    |
+| coins.education       | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc |
+| choices.education     | premium   | $123.75   | —             | 60             | 12     | 7      | name.com    |
+| spectra.education     | available | $39.99    | —             | 62             | 34     | 7      | name.com    |
+| career.education      | resell    | —         | —             | 84             | 29     | 6      | Porkbun LLC |
+| gives.education       | premium   | $82.50    | —             | 52             | 12     | 5      | name.com    |
+| teams.education       | available | $39.99    | —             | 62             | 32     | 5      | name.com    |
+| reallife.education    | resell    | —         | —             | 68             | 17     | 9      | Porkbun LLC |
+| maps.education        | available | $39.99    | —             | 56             | 31     | 4      | name.com    |
+| inspiration.education | available | $39.99    | —             | 88             | 30     | 11     | name.com    |
+| spaces.education      | available | $39.99    | —             | 54             | 30     | 6      | name.com    |
+| heroes.education      | available | $39.99    | —             | 68             | 29     | 6      | name.com    |
+| Jim.education         | available | $46.98    | —             | 78             | 28     | 3      | namecheap   |
+| dogs.education        | available | $39.99    | —             | 76             | 28     | 4      | name.com    |
+| photos.education      | available | $39.99    | —             | 54             | 28     | 6      | name.com    |
+| traders.education     | available | $39.99    | —             | 60             | 26     | 7      | name.com    |
+| destination.education | available | $39.99    | —             | 90             | 25     | 11     | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,319-row public sample | 8,318 live domains                               |
+| 1,000-row public sample | 10,585 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
