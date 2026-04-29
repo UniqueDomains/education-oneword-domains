@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .education one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,167 domains
 
-**Last updated:** 2026-04-28  
+**Last updated:** 2026-04-29  
 **Canonical page:** `https://unique.domains/domains/tld/education`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | Phil.education        | available | $46.98    | —             | 78             | 41     | 4      | namecheap   |
-| smart.education       | resell    | —         | —             | 74             | 56     | 5      | Porkbun LLC |
+| smart.education       | resell    | —         | —             | 74             | 57     | 5      | Porkbun LLC |
 | choices.education     | premium   | $123.75   | —             | 60             | 12     | 7      | name.com    |
 | events.education      | available | $39.99    | —             | 68             | 37     | 6      | name.com    |
 | coins.education       | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-04-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-04-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
