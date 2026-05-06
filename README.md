@@ -1,10 +1,10 @@
-# Available .EDUCATION One-Word Domains (11,169)
+# Available .EDUCATION One-Word Domains (11,174)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C169%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C174%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .education one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,169 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,174 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,169 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,174 domains · **Median ask:** $40.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/education`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Trex.education        | available | $46.98    | —             | 80             | 24     | 5      | namecheap   |
+| jewels.education      | available | $39.99    | —             | 80             | 15     | 6      | name.com    |
+| ladies.education      | available | $39.99    | —             | 80             | 17     | 6      | name.com    |
+| barup.education       | available | $39.99    | —             | 82             | 2      | 6      | name.com    |
+| getup.education       | available | $39.99    | —             | 82             | 14     | 6      | name.com    |
+| Apples.education      | available | $46.98    | —             | 90             | 16     | 6      | namecheap   |
+| useit.education       | available | $39.99    | —             | 94             | 7      | 6      | name.com    |
+| playin.education      | available | $39.99    | —             | 80             | 10     | 7      | name.com    |
+| messages.education    | available | $34.99    | $34.99        | 80             | 16     | 8      | namesilo    |
 | Phil.education        | available | $46.98    | —             | 78             | 41     | 4      | namecheap   |
 | smart.education       | resell    | —         | —             | 74             | 57     | 5      | Porkbun LLC |
 | choices.education     | premium   | $123.75   | —             | 60             | 12     | 7      | name.com    |
 | events.education      | available | $39.99    | —             | 68             | 37     | 6      | name.com    |
 | coins.education       | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc |
 | spectra.education     | available | $39.99    | —             | 62             | 34     | 7      | name.com    |
-| career.education      | resell    | —         | —             | 84             | 29     | 6      | Porkbun LLC |
+| career.education      | resell    | —         | —             | 84             | 30     | 6      | Porkbun LLC |
 | teams.education       | available | $39.99    | —             | 62             | 32     | 5      | name.com    |
 | reallife.education    | resell    | —         | —             | 68             | 17     | 9      | Porkbun LLC |
 | maps.education        | available | $39.99    | —             | 56             | 31     | 4      | name.com    |
 | inspiration.education | available | $39.99    | —             | 88             | 30     | 11     | name.com    |
-| spaces.education      | available | $39.99    | —             | 54             | 30     | 6      | name.com    |
-| heroes.education      | available | $39.99    | —             | 68             | 29     | 6      | name.com    |
-| Jim.education         | available | $46.98    | —             | 78             | 28     | 3      | namecheap   |
-| dogs.education        | available | $39.99    | —             | 76             | 28     | 4      | name.com    |
-| photos.education      | available | $39.99    | —             | 54             | 28     | 6      | name.com    |
-| traders.education     | available | $39.99    | —             | 60             | 26     | 7      | name.com    |
-| destination.education | available | $39.99    | —             | 90             | 25     | 11     | name.com    |
-| Keith.education       | available | $46.98    | —             | 66             | 25     | 5      | namecheap   |
-| Trex.education        | available | $46.98    | —             | 80             | 24     | 5      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,169 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,174 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up of one-word domains on the .education extension. The words range from broad and category-like, such as girls.education, homes.education, and forces.education, to shorter or less intuitive strings like Acup.education and barup.education. For founders, the strongest choices are usually the names that are easy to say, easy to spell, and immediately credible in an education context. For investors, the key question is whether the word has commercial breadth and enough relevance to support resale interest within a niche extension. The median ask is 40.31, so the main evaluation work is less about headline price and more about fit, clarity, and possible trademark friction.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor clear words that fit education use cases fast
+- Check if the word is easy to say and spell correctly
+- Compare broad terms vs narrower or ambiguous words
+- Screen branded terms for possible trademark risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
