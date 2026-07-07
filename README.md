@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .education one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,180 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,180 domains · **Median ask:** $38.18 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,180 domains · **Median ask:** $38.14 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-07-07
 **Canonical page:** `https://unique.domains/domains/tld/education`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EDUCATION one-word do
 
 ### Files
 
-- `education.csv` — public CSV extract (1,000 rows)
-- `education.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `education.csv`, public CSV extract (1,000 rows)
+- `education.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| msg.education         | available | $39.99    | —             | 92             | 35     | 3      | name.com  |
-| saw.education         | available | $34.99    | $34.99        | 84             | 20     | 3      | namesilo  |
-| criterion.education   | available | $34.99    | $34.99        | 84             | 11     | 9      | namesilo  |
-| Fanta.education       | available | $39.99    | —             | 98             | 17     | 5      | name.com  |
-| official.education    | available | $34.99    | $34.99        | 82             | 36     | 8      | namesilo  |
-| environment.education | premium   | $78.54    | $78.54        | 84             | 20     | 11     | namesilo  |
-| subsidiary.education  | available | $34.99    | $34.99        | 90             | 3      | 10     | namesilo  |
-| overwhelm.education   | available | $34.99    | $34.99        | 80             | 3      | 9      | namesilo  |
-| affect.education      | available | $34.99    | $34.99        | 97             | 12     | 6      | namesilo  |
-| participant.education | available | $34.99    | $34.99        | 84             | 8      | 11     | namesilo  |
-| dislike.education     | available | $34.99    | $34.99        | 88             | 6      | 7      | namesilo  |
-| roast.education       | available | $39.99    | —             | 107            | 20     | 5      | name.com  |
-| lasting.education     | available | $39.99    | $45.99        | 84             | 10     | 7      | name.com  |
-| fruity.education      | premium   | —         | —             | 84             | 10     | 6      | —         |
-| chimney.education     | available | $34.99    | $34.99        | 90             | 13     | 7      | namesilo  |
-| appeal.education      | available | $39.99    | —             | 96             | 15     | 6      | name.com  |
-| smiling.education     | available | $34.99    | $34.99        | 98             | 15     | 7      | namesilo  |
-| campaign.education    | available | $34.99    | $34.99        | 99             | 26     | 8      | namesilo  |
-| yard.education        | available | $39.99    | $45.99        | 80             | 34     | 4      | name.com  |
-| group.education       | premium   | $128.70   | $128.70       | 94             | 34     | 5      | namecheap |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| quiet.education  | available | $34.99    | $34.99        | high           | low    | 5      | namesilo                   |
+| period.education | available | $34.99    | $34.99        | high           | low    | 6      | namesilo                   |
+| BJP.education    | available | $39.99    | —             | medium         | low    | 3      | name.com                   |
+| bot.education    | resell    | —         | —             | high           | medium | 3      | Edomains LLC               |
+| ash.education    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                   |
+| coy.education    | available | $39.99    | $45.99        | medium         | low    | 3      | name.com                   |
+| lit.education    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC           |
+| run.education    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| err.education    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                   |
+| edge.education   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC               |
+| cheap.education  | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo                   |
+| hum.education    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                   |
+| fast.education   | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC |
+| group.education  | premium   | $128.70   | $128.70       | high           | low    | 5      | namecheap                  |
+| let.education    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                   |
+| full.education   | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                |
+| texas.education  | premium   | $78.54    | $78.54        | medium         | medium | 5      | namesilo                   |
+| LLP.education    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                   |
+| hero.education   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC           |
+| credit.education | premium   | $78.54    | $78.54        | medium         | low    | 6      | namesilo                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word domains on the .education extension. The words range from broad and category-like, such as girls.education, homes.education, and forces.education, to shorter or less intuitive strings like Acup.education and barup.education. For founders, the strongest choices are usually the names that are easy to say, easy to spell, and immediately credible in an education context. For investors, the key question is whether the word has commercial breadth and enough relevance to support resale interest within a niche extension. The median ask is 40.31, so the main evaluation work is less about headline price and more about fit, clarity, and possible trademark friction.
+This list covers one-word .education domain names only, spanning everyday words like half, out, just, and great. With 11,180 domains and a median ask near $38, it's built for quick comparison — whether you're evaluating pricing for a buying opportunity or searching for a clean, brandable name for an education venture.
 
-- Favor clear words that fit education use cases fast
-- Check if the word is easy to say and spell correctly
-- Compare broad terms vs narrower or ambiguous words
-- Screen branded terms for possible trademark risk
+- 11,180 one-word .education domain names in this selection
+- Median asking price near $38 across the set
+- Everyday words like half, out, just, great, and christmas
+- Updated daily for current pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
