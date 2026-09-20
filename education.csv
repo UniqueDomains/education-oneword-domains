@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 dc2588a3-8848-4e18-a6be-e9ff27e9c9d8,crabby.education,available,34.99,34.99,low,low,6,namesilo,,,08/08/2026 07:43
 aef42aae-4d53-40dd-a77a-776d9f98e92f,msg.education,available,39.99,,high,low,3,name.com,,,
-9f6e8320-3474-4f51-b91f-40017c15a14d,Panasonic.education,available,,,high,low,9,,,,
+9f6e8320-3474-4f51-b91f-40017c15a14d,panasonic.education,available,,,high,low,9,,,,
 3eadac25-75a9-4f58-9cfb-bef22ff5d6a3,principles.education,available,34.99,34.99,low,low,10,namesilo,,,
 bcc97a47-8d0e-490f-8ca8-f9e2dee9035f,exercisebicycle.education,available,34.99,34.99,high,low,16,namesilo,,,
 890853af-8dc8-4786-8547-1eab608eacbf,defined.education,available,39.99,45.99,medium,low,7,name.com,,,
@@ -15,16 +15,17 @@ d6c67dd6-4629-4d27-a588-7f56bd59f4ff,arborical.education,available,34.99,34.99,l
 c0913f51-18a5-4445-9f31-752aa35bff86,younger.education,available,34.99,34.99,high,low,7,namesilo,,,
 ea561e3b-a9d7-4403-9686-ded7dfa7770b,abovenamed.education,available,34.99,34.99,medium,low,11,namesilo,,,
 4374b0a7-4771-400d-a136-bb094eea305a,amerindic.education,available,34.99,34.99,low,low,9,namesilo,,,
-14cef6d7-4008-4fdc-bfae-ec91744f40df,Fanta.education,available,39.99,,high,low,5,name.com,,,
+14cef6d7-4008-4fdc-bfae-ec91744f40df,fanta.education,available,39.99,,high,low,5,name.com,,,
 a1af4a76-06f6-42ee-a317-a745b171ed4d,official.education,available,34.99,34.99,high,low,8,namesilo,,,
-d8833d78-989e-41d5-8fd4-33c05f9d5a5c,environment.education,premium,78.54,78.54,medium,low,11,namesilo,,,14/09/2026 05:49
+d8833d78-989e-41d5-8fd4-33c05f9d5a5c,environment.education,premium,78.54,78.54,medium,low,11,namesilo,,,19/09/2026 04:45
 b461c16c-2723-4d5b-9227-9a9634279a08,sulfurous.education,available,34.99,34.99,low,low,9,namesilo,,,
 b005a899-3657-4d59-8e63-f93ed18bb5d3,addicted.education,available,39.99,45.99,high,low,8,name.com,,,
 6961a987-c0ef-41bd-b255-f0a4013f8a78,abstruse.education,available,34.99,34.99,low,low,8,namesilo,,,
 57b56c1d-bb2a-44e3-8f7d-5235f8a99852,bull.education,available,34.99,34.99,medium,low,4,namesilo,,,
 a777fc9e-9e82-48cd-a12c-e78402855630,subsidiary.education,available,34.99,34.99,high,low,10,namesilo,,,
 94e027cd-8c56-4189-9b46-b8cc44396dbf,ashy.education,available,34.99,34.99,low,low,4,namesilo,,,07/08/2026 02:04
-f2c1a731-29a1-4f9f-b830-a22c7fddf0db,Christalive.education,available,34.99,34.99,high,low,12,namesilo,,,
+0d6a96a7-78a3-4cbf-b1e8-fe52aba1a733,video.education,resell,,,medium,low,5,Dynadot Inc,30/06/2026 17:00,30/06/2027 17:00,19/09/2026 06:19
+f2c1a731-29a1-4f9f-b830-a22c7fddf0db,christalive.education,available,34.99,34.99,high,low,12,namesilo,,,
 1f8194cf-d663-417e-8c62-35ad2718157f,overwhelm.education,available,34.99,34.99,high,low,9,namesilo,,,
 22d5bd2e-c4b4-4417-82e4-d6f73924e6a5,acuminate.education,available,34.99,34.99,low,low,9,namesilo,,,
 37f4d38f-655f-44ff-aae0-4073c3602785,aberdonian.education,available,34.99,34.99,low,low,10,namesilo,,,
@@ -138,11 +139,10 @@ cb08f28d-2050-4248-885d-3cec4fd6b71d,drown.education,available,34.99,34.99,mediu
 9684a87b-4949-47bc-ad1c-e3d29ccfe601,weakened.education,available,34.99,34.99,medium,low,8,namesilo,,,
 ac0e8627-a70b-413f-9b2b-77e67d6d0373,adscripted.education,available,34.99,34.99,low,low,10,namesilo,,,
 e34acd12-2c6b-428f-87d0-099cdb2e8c4b,arse.education,available,34.99,34.99,low,low,4,namesilo,,,09/08/2026 10:35
-360570fa-52d7-4713-94d8-e84ed73667c6,midJanuary.education,available,39.99,,high,low,11,name.com,,,
+360570fa-52d7-4713-94d8-e84ed73667c6,midjanuary.education,available,39.99,,high,low,11,name.com,,,
 f7cf10ef-73af-428e-946e-58d1da7a4cc1,saddletree.education,available,39.99,,low,low,11,name.com,,,
 0670dbe8-0631-4edb-abd1-e48a3ea93d65,wearoff.education,available,34.99,34.99,low,low,8,namesilo,,,
 681992e1-5bfe-4ead-ae87-008cb1883418,makelemonade.education,available,34.99,34.99,high,low,13,namesilo,,,
-e5ca7204-b0a3-4b82-9c60-45e2e983f613,universal.education,available,,,high,low,9,,,,
 ebaf1a6f-fcf1-49a0-9e9b-5911216d4dff,fasttravel.education,available,34.99,34.99,high,low,11,namesilo,,,
 398c87d2-86fe-447b-b6f2-b5b484136799,touching.education,available,34.99,34.99,medium,low,8,namesilo,,,
 73427731-9a93-494c-ad19-d9dc6b39caf6,friendship.education,available,34.99,34.99,high,low,10,namesilo,,,
@@ -155,7 +155,7 @@ aca5e94d-9e33-47a8-bab6-560173f67dc5,youwhat.education,available,34.99,34.99,low
 809a4f90-717c-4449-a752-8752520eba93,breathefreely.education,available,34.99,34.99,high,low,14,namesilo,,,
 f8b79dad-3505-4630-a386-4f61f54c1834,freshaspaint.education,available,34.99,34.99,medium,low,14,namesilo,,,
 c03e007f-a188-4528-8640-436be826d4f7,shoe.education,available,39.99,,high,low,4,name.com,,,
-c43428f8-77be-4405-956a-e0cf90506249,UPC.education,available,34.99,34.99,high,low,3,namesilo,,,
+c43428f8-77be-4405-956a-e0cf90506249,upc.education,available,34.99,34.99,high,low,3,namesilo,,,
 a7a47b93-1ea7-4b4f-a614-2a7f6d1d9515,fuckster.education,available,34.99,34.99,medium,low,8,namesilo,,,
 8c6224e0-e76a-408c-bc09-67811d706ee4,justmyluck.education,available,34.99,34.99,medium,low,12,namesilo,,,
 4c565b80-2df9-4e42-9776-f70fa5bc2019,since.education,available,34.99,34.99,high,low,5,namesilo,,,
@@ -195,7 +195,7 @@ ca3b6d26-cf6f-4859-b44a-2d3ee90bbada,bland.education,available,34.99,34.99,mediu
 f2cd1ea9-2e5f-4c45-b40a-8857502b7bcc,bruise.education,available,34.99,34.99,high,low,6,namesilo,,,
 fd9c7c6d-2d02-4626-babf-bcaa3597b978,commix.education,available,34.99,34.99,low,low,6,namesilo,,,
 6920000a-1a72-4600-aa8d-13dd4699ca78,algometric.education,available,34.99,34.99,low,low,10,namesilo,,,
-8e0ffc87-3554-44f4-8878-ea0a7802d421,Germanchamomile.education,available,34.99,34.99,high,low,16,namesilo,,,
+8e0ffc87-3554-44f4-8878-ea0a7802d421,germanchamomile.education,available,34.99,34.99,high,low,16,namesilo,,,
 74f13aae-b3f3-4fd9-8092-08c92f53e319,thereagain.education,available,39.99,,low,low,11,name.com,,,
 c298a997-9fcd-434a-ae74-1e80961889f1,nitrous.education,available,34.99,34.99,low,low,7,namesilo,,,08/08/2026 03:03
 3f84550c-d59e-4e47-b8d7-c47ea3089d34,plug.education,available,34.99,34.99,high,low,4,namesilo,,,
@@ -217,7 +217,7 @@ c61b3b06-cadc-4c31-9e24-da0d2df852fc,datefrom.education,available,34.99,34.99,me
 56348bfa-b21f-449d-bb24-8e10904a5338,beatable.education,available,34.99,34.99,low,low,8,namesilo,,,09/08/2026 05:37
 7c34d38e-1f5f-42df-ad97-86118bb96e82,skewwhiff.education,available,34.99,34.99,low,low,10,namesilo,,,07/08/2026 03:51
 53d1f972-878f-4383-8d82-86c1d56f8a9a,havethetime.education,available,39.99,,high,low,13,name.com,,,
-301ed7ad-ec8d-438d-a180-ed2b41645a5e,midOctober.education,available,39.99,,high,low,11,name.com,,,
+301ed7ad-ec8d-438d-a180-ed2b41645a5e,midoctober.education,available,39.99,,high,low,11,name.com,,,
 04e54076-f66f-4c41-af7c-c30c4a722c07,loss.education,available,34.99,34.99,medium,low,4,namesilo,,,
 6e6ba16b-dd1f-44ab-aaa6-1e1c55bc3fba,foul.education,available,34.99,34.99,low,low,4,namesilo,,,
 98827a20-092c-4544-a008-1a8c2051eab3,canted.education,available,34.99,34.99,low,low,6,namesilo,,,07/08/2026 13:18
@@ -227,7 +227,7 @@ dfb53656-e131-44dd-9070-6a93819951df,telloff.education,available,34.99,34.99,med
 382c5f66-50d5-4f02-9ef1-bc231fd8d600,getofftheground.education,available,34.99,34.99,high,low,18,namesilo,,,
 c20fa688-676b-4716-b44d-47f6575734a7,wholesome.education,available,34.99,34.99,high,low,9,namesilo,,,
 b15551e3-6f19-42fa-bd2d-5d052b96af92,worked.education,available,34.99,34.99,low,low,6,namesilo,,,
-308ba902-863c-40f3-b416-c4c1985a304b,HIVvirus.education,available,34.99,34.99,medium,low,9,namesilo,,,
+308ba902-863c-40f3-b416-c4c1985a304b,hivvirus.education,available,34.99,34.99,medium,low,9,namesilo,,,
 ee69ca99-0864-4819-87a0-b6c95715e10d,eyeofthestorm.education,available,34.99,34.99,medium,low,16,namesilo,,,
 956c0e40-f8f3-4af2-81b6-1ed1fa8c9045,powerstrip.education,available,34.99,34.99,high,low,11,namesilo,,,
 3e3e7f24-320f-4b62-9d2f-aad9b5eba4d5,pitching.education,available,34.99,34.99,high,low,8,namesilo,,,
@@ -238,24 +238,24 @@ ee69ca99-0864-4819-87a0-b6c95715e10d,eyeofthestorm.education,available,34.99,34.
 c0c19f0a-6b64-41b8-9056-01989f585c0f,tradeunion.education,available,34.99,34.99,low,low,11,namesilo,,,
 47bbeeb3-ad1a-4845-a628-1e5c5e6f1035,sperm.education,available,34.99,34.99,high,low,5,namesilo,,,
 340ee15c-ea4b-4bcc-afaa-a1ff7c69799e,generaleducation.education,available,34.99,34.99,high,low,17,namesilo,,,
-bd055b71-adec-42da-8bbd-10e517971962,run.education,premium,78.54,78.54,medium,medium,3,namesilo,,,15/09/2026 11:30
+bd055b71-adec-42da-8bbd-10e517971962,run.education,premium,78.54,78.54,medium,low,3,namesilo,,,19/09/2026 07:07
 129ede5a-17a7-4d71-a0c8-687442506063,revised.education,available,39.99,,medium,low,7,name.com,,,
 76aebb25-4f15-4a1a-996b-4ff1878ff258,lookingat.education,available,34.99,34.99,medium,low,10,namesilo,,,
 a60e12e1-ef0f-45c2-b69d-3b32236d6f62,relation.education,available,34.99,34.99,high,low,8,namesilo,,,
-b68edfa9-045a-4be1-ac9f-d968843ba2e8,noone.education,available,34.99,34.99,high,low,6,namesilo,,,
+b68edfa9-045a-4be1-ac9f-d968843ba2e8,noone.education,available,36.98,46.98,low,low,6,namecheap,,,20/09/2026 00:54
 ec78d2c8-70e9-45f5-b3f5-ecfcffa564cd,glove.education,available,34.99,34.99,high,low,5,namesilo,,,
 01dab348-615f-41b3-bedb-deabb1b6b279,goodby.education,available,34.99,34.99,medium,low,7,namesilo,,,
-b872456d-83ae-4d20-b046-dbe5629fa7e5,Panes.education,available,34.99,34.99,medium,low,5,namesilo,,,
+b872456d-83ae-4d20-b046-dbe5629fa7e5,panes.education,available,34.99,34.99,medium,low,5,namesilo,,,
 b26f0800-690c-4a46-bbb8-9c5845b01e7f,earlyadopter.education,available,34.99,34.99,high,low,13,namesilo,,,
 4bbc124a-79d4-4a47-ad75-e535ccfbdcb5,aphyllous.education,available,34.99,34.99,low,low,9,namesilo,,,05/08/2026 23:42
 8cc62333-0c52-4325-9258-9c1ece6ab90f,beery.education,available,34.99,34.99,low,low,5,namesilo,,,09/08/2026 08:12
-d5cdf6ae-2f29-4071-828f-9e38adb77ab8,SouthAfrica.education,available,,,low,low,12,,,,
+d5cdf6ae-2f29-4071-828f-9e38adb77ab8,southafrica.education,available,,,low,low,12,,,,
 52fcae26-c572-437c-b8c3-0200abf571e1,manyisthetime.education,available,39.99,,medium,low,16,name.com,,,
 1a071be7-7a38-416d-837a-6b49066f8d6a,turtlenecksweater.education,available,34.99,34.99,high,low,18,namesilo,,,
 8a2bfe3d-b69c-4489-8843-dfc559228e9a,obscure.education,available,34.99,34.99,low,low,7,namesilo,,,05/08/2026 21:59
 8e81b703-47aa-4d5f-962f-ce1751dcf71b,restructure.education,available,34.99,34.99,high,low,11,namesilo,,,
 aa898e93-017a-4353-a723-db0415da83d3,comic.education,available,34.99,34.99,high,low,5,namesilo,,,
-894d05e6-9766-4b48-add1-a7546346b932,RomanCatholic.education,available,34.99,34.99,high,low,14,namesilo,,,
+894d05e6-9766-4b48-add1-a7546346b932,romancatholic.education,available,34.99,34.99,high,low,14,namesilo,,,
 e860e79d-0c4a-4506-95ed-032aa76bc328,rubelbows.education,available,39.99,,low,low,10,name.com,,,
 6f259e71-9b22-43d1-991a-92a7622e3a92,authorial.education,available,34.99,34.99,low,low,9,namesilo,,,07/08/2026 16:19
 29804138-b109-403f-9936-cc62bb7e30ab,aleut.education,available,34.99,34.99,low,low,5,namesilo,,,
@@ -283,7 +283,7 @@ b0597ff3-86c4-4268-b34b-3da004d6b17e,pulled.education,available,34.99,34.99,low,
 e49b1361-812b-40e9-b5f3-688cf6a33071,doable.education,available,39.99,45.99,high,low,6,name.com,,,
 e3579255-e231-4b1b-aa1a-8b7ad0642bfe,artofwar.education,available,34.99,34.99,medium,low,10,namesilo,,,
 032a2215-86b0-4a48-bb79-e09aa8c0861c,beefy.education,available,34.99,34.99,low,low,5,namesilo,,,09/08/2026 07:49
-77ff9324-1097-4d99-ad70-8fa56aa833e4,Frenchmustard.education,available,39.99,,high,low,14,name.com,,,
+77ff9324-1097-4d99-ad70-8fa56aa833e4,frenchmustard.education,available,39.99,,high,low,14,name.com,,,
 3303a0c0-8c28-4c53-be8d-72b71e21382c,mouthwash.education,available,39.99,,low,low,10,name.com,,,
 591848c3-0e50-430d-934d-d2b824a3c60a,defense.education,available,39.99,,high,low,7,name.com,,,
 bdc5334b-12e1-4a57-9aad-92dde5217d7f,composed.education,available,39.99,45.99,high,low,8,name.com,,,
@@ -293,16 +293,16 @@ d9df2984-7e4b-44c9-9656-ff710e0397bb,favorite.education,available,39.99,45.99,me
 13a37a42-22ad-4fb0-ab06-5df0f504a0b0,tuesday.education,available,34.99,34.99,high,low,7,namesilo,,,
 f2ebac51-28c7-4393-82db-b02b224e71d6,autophytic.education,available,34.99,34.99,low,low,10,namesilo,,,07/08/2026 20:57
 4cb08a2c-24ff-4b31-8d29-cf675995264c,militant.education,available,36.98,46.98,low,low,8,namecheap,,,
-88be9065-4b5c-4cfc-bd72-88f5366f5cec,Jewnose.education,available,39.99,,medium,low,8,name.com,,,
+88be9065-4b5c-4cfc-bd72-88f5366f5cec,jewnose.education,available,39.99,,medium,low,8,name.com,,,
 a9ac81a4-9aae-486e-9b0e-0e9e7a5117c2,balky.education,available,34.99,34.99,low,low,5,namesilo,,,08/08/2026 09:55
 a310a8ce-d5aa-454c-bbb5-2e22e24bfd1c,callcenter.education,available,34.99,34.99,medium,low,11,namesilo,,,
 3066d7b1-8c00-4679-9958-c3a2eb801b68,backtosquareone.education,available,34.99,34.99,high,low,18,namesilo,,,
 c05e30c8-602f-4399-ba0f-16a460681d38,kooky.education,available,36.98,46.98,low,low,5,namecheap,,,06/08/2026 21:04
 14e6750e-e4fc-4ae8-ba0d-e0714bbe41ad,jealous.education,available,39.99,45.99,high,low,7,name.com,,,
 129526b1-c8bc-47b7-ad32-e9a70693cec9,mentallyill.education,available,34.99,34.99,medium,low,12,namesilo,,,
-1e7cf3ab-7030-4002-98bc-a5f32a938a3b,pharmaceutical.education,available,34.99,34.99,low,low,14,namesilo,,,13/09/2026 03:31
+1e7cf3ab-7030-4002-98bc-a5f32a938a3b,pharmaceutical.education,available,34.99,34.99,low,low,14,namesilo,,,19/09/2026 04:12
 feff7b5f-62dd-4be9-9813-96a3d8a79082,cliche.education,available,34.99,34.99,high,low,6,namesilo,,,
-f03398db-f3be-4643-8e0c-b5f05544b3e0,LLP.education,available,34.99,34.99,high,low,3,namesilo,,,
+f03398db-f3be-4643-8e0c-b5f05544b3e0,llp.education,available,34.99,34.99,high,low,3,namesilo,,,
 905b140e-e9ce-4b47-b8ba-f0fa5607b054,truffle.education,available,34.99,34.99,high,low,7,namesilo,,,
 95aa7a04-7da6-466e-a4e2-2ee90bb60b90,multiple.education,available,34.99,34.99,high,low,8,namesilo,,,
 f01f2a99-3c88-497b-81f3-632dcec3117a,pies.education,available,34.99,34.99,medium,low,4,namesilo,,,
@@ -338,7 +338,7 @@ ad95c882-f391-4595-b775-70ed526c3eda,suggest.education,available,34.99,34.99,hig
 fa7c2f00-4102-4227-bd16-4b0f514070cd,herbalmedicine.education,available,34.99,34.99,high,low,15,namesilo,,,
 1f2006ea-43cb-4d22-a617-a530072418d9,tune.education,available,39.99,,medium,low,4,name.com,,,
 8395b43b-bd38-4004-b692-2bafd35dc780,playonwords.education,available,34.99,34.99,low,low,13,namesilo,,,
-9d27b883-1bb7-467f-9019-00a9df21dc05,tooth.education,available,34.99,34.99,low,low,5,namesilo,,,15/09/2026 03:57
+9d27b883-1bb7-467f-9019-00a9df21dc05,tooth.education,available,36.98,46.98,low,low,5,namecheap,,,19/09/2026 18:20
 a0b04904-5c58-4b84-9e29-d65406200611,popquiz.education,available,34.99,34.99,low,low,8,namesilo,,,
 c7f5f433-f8d7-4fa9-b038-ee66607a0f42,called.education,available,34.99,34.99,medium,low,6,namesilo,,,
 68037481-f3d6-4a23-abc6-85611a23e3bf,division.education,available,34.99,34.99,medium,low,8,namesilo,,,
@@ -346,7 +346,6 @@ c7f5f433-f8d7-4fa9-b038-ee66607a0f42,called.education,available,34.99,34.99,medi
 f148b2b5-60a9-41cd-a975-1873d6c2d95a,lightweight.education,available,34.99,34.99,high,low,11,namesilo,,,
 f4a92d88-8c0d-4b5c-9902-bd0178ace924,establishment.education,available,39.99,,medium,low,13,name.com,,,
 86dee28b-b943-4406-8cde-47ef5c7d3909,mordacious.education,available,34.99,34.99,low,low,10,namesilo,,,08/08/2026 16:52
-e1176600-2bbc-4335-b57b-846a00096960,working.education,available,39.99,,high,low,7,name.com,,,
 5304d4b1-ee92-4734-879e-7c4c3aa31ccb,antinomian.education,available,34.99,34.99,low,low,10,namesilo,,,
 2ee4ef35-9af8-440c-b4b1-c9062b21cde6,incommon.education,available,39.99,,medium,low,9,name.com,,,
 17e3cd36-808a-4b0f-b9c6-d4d2dcb4b488,intend.education,available,34.99,34.99,high,low,6,namesilo,,,
@@ -362,19 +361,19 @@ fcec743a-5144-4bc4-bd4b-6a057f40f309,inthehell.education,available,34.99,34.99,m
 22ae7b0f-9574-47a0-ad9f-d56250ab05eb,roughshod.education,available,34.99,34.99,low,low,9,namesilo,,,08/08/2026 15:55
 6b6e6171-1910-42c8-9a58-203ab67e6414,fanletter.education,available,34.99,34.99,medium,low,10,namesilo,,,
 13242de9-5de2-4aea-9b53-5a058a5e0651,irregular.education,available,34.99,34.99,high,low,9,namesilo,,,
-d6d216b3-39a8-4e93-9f41-522893194e6f,BlackDeath.education,available,34.99,34.99,low,low,11,namesilo,,,
+d6d216b3-39a8-4e93-9f41-522893194e6f,blackdeath.education,available,34.99,34.99,low,low,11,namesilo,,,
 71df4111-caf6-4c18-8161-5738a272cda2,confident.education,available,39.99,45.99,high,low,9,name.com,,,
 22e8a317-9f01-4e74-a33f-1674d0060b04,letoneloose.education,available,39.99,,high,low,13,name.com,,,
 7cc511ed-4f4b-4d6f-aa6c-83f8a83cac70,amative.education,available,34.99,34.99,low,low,7,namesilo,,,
 44c7d89f-eed8-4c95-97b1-0daac3f85acd,mouse.education,available,34.99,34.99,medium,low,5,namesilo,,,
 694f6836-4808-4f5c-a92f-4adc111ff1d3,breakroom.education,available,34.99,34.99,medium,low,10,namesilo,,,
 1aeff753-9c5e-45e9-913c-cc31ccf8e8fa,mention.education,available,34.99,34.99,high,low,7,namesilo,,,
-3463d150-1e4f-4f23-bfdb-233a54da12c1,large.education,available,34.99,34.99,medium,low,5,namesilo,,,15/09/2026 03:10
+3463d150-1e4f-4f23-bfdb-233a54da12c1,large.education,available,36.98,46.98,medium,low,5,namecheap,,,19/09/2026 10:18
 09838730-7ef0-4428-9583-78522d6d62c7,ordinarily.education,available,34.99,34.99,medium,low,10,namesilo,,,
 7c564f72-3cd9-422c-965b-528dc8f98acc,eighteenth.education,available,34.99,34.99,low,low,10,namesilo,,,
 afed8fa8-fd9c-4c5f-a224-e687c31f17d7,commission.education,available,34.99,34.99,high,low,10,namesilo,,,
 50014d98-20c0-44f4-b0cd-d76213581b72,yeahnah.education,available,39.99,,low,low,8,name.com,,,
-7cd6fefa-bded-4640-a02d-f64e00de041d,StClair.education,available,34.99,34.99,medium,low,9,namesilo,,,
+7cd6fefa-bded-4640-a02d-f64e00de041d,stclair.education,available,34.99,34.99,medium,low,9,namesilo,,,
 3cde88ff-569d-4fdd-9a09-b3f2be8a6a7e,acappella.education,available,39.99,45.99,medium,low,10,name.com,,,
 c70f8d3a-b0c0-4517-86c3-bf51781f3f49,songlike.education,available,34.99,34.99,low,low,8,namesilo,,,06/08/2026 19:24
 7ca44559-81e6-451d-807f-f70496c8c3ba,vein.education,available,34.99,34.99,high,low,4,namesilo,,,
@@ -424,7 +423,7 @@ bb5d0e1f-54ac-4f13-a628-2538f359d660,erupt.education,available,34.99,34.99,high,
 d84b6549-248f-4bba-a82b-6d885e6b61d0,dominating.education,available,34.99,34.99,low,low,10,namesilo,,,07/08/2026 19:40
 9b45d829-3d3e-4b00-8348-8e718131962b,lit.education,resell,,,high,medium,3,"GoDaddy.com, LLC",28/10/2018 10:08,28/10/2027 10:08,
 0b75ddab-0cba-4708-8f10-df2477d79f2e,whatkindof.education,available,34.99,34.99,low,low,12,namesilo,,,
-04fed854-b0e3-48ed-9fd5-c6948e46d27a,Gregorio.education,available,34.99,34.99,medium,low,8,namesilo,,,
+04fed854-b0e3-48ed-9fd5-c6948e46d27a,gregorio.education,available,34.99,34.99,medium,low,8,namesilo,,,
 028dfce8-101a-48f1-9d84-bec5bdc361e4,oldhat.education,available,34.99,34.99,low,low,7,namesilo,,,08/08/2026 11:01
 be42e18e-6819-48c3-8f42-b590a6c1d674,basically.education,available,34.99,34.99,medium,low,9,namesilo,,,
 5992e83c-000a-4bbe-81fb-b7b3573b33cd,cipher.education,available,34.99,34.99,medium,low,6,namesilo,,,08/09/2026 15:11
@@ -458,11 +457,11 @@ ba4523e2-c0df-441c-ba2d-de5e48235698,amatory.education,available,34.99,34.99,low
 86e631e6-f19e-4a04-9a88-6173dbbe4825,rely.education,available,34.99,34.99,high,low,4,namesilo,,,
 5fbd6230-c163-4501-9f82-b8a26cec1d8b,funds.education,available,34.99,34.99,high,low,5,namesilo,,,
 acf05cc3-a6d9-462d-8e44-e2e681c3f341,fellowcitizen.education,available,34.99,34.99,medium,low,14,namesilo,,,
-64259ba8-e44e-45f5-b294-af05d25751ca,procedure.education,available,34.99,34.99,medium,low,9,namesilo,,,12/09/2026 04:06
+64259ba8-e44e-45f5-b294-af05d25751ca,procedure.education,available,34.99,34.99,medium,low,9,namesilo,,,19/09/2026 02:44
 b6f86ff2-207a-4a74-8a3a-cd1f01cc3a5f,masses.education,available,34.99,34.99,medium,low,6,namesilo,,,
 c4c27716-2736-4e1c-8a74-57f9c35f6704,associate.education,premium,118.8,118.8,low,low,9,namesilo,,,07/08/2026 06:50
 37473e4d-140e-420f-8c8f-e4c4c5c5e00c,shush.education,available,34.99,34.99,medium,low,5,namesilo,,,
-169f16ce-939d-4a43-906e-42f701285829,WorldWideWeb.education,available,34.99,34.99,low,low,14,namesilo,,,
+169f16ce-939d-4a43-906e-42f701285829,worldwideweb.education,available,34.99,34.99,low,low,14,namesilo,,,
 c832e696-b94a-4d58-b594-446a6c92d030,asunder.education,available,34.99,34.99,low,low,7,namesilo,,,07/08/2026 10:20
 df5d0b73-8a0d-474f-8eec-2d53ba3d8655,cricket.education,premium,123.75,,high,low,7,name.com,,,
 8329d08e-411a-4a32-a211-e66ed2695e7f,term.education,available,34.99,34.99,high,low,4,namesilo,,,
@@ -484,7 +483,7 @@ ee247da5-5139-4ec1-9197-9f51635ad236,prairie.education,available,34.99,34.99,med
 5c8f182c-97cc-4c17-a9a7-e15b992219c7,accident.education,available,34.99,34.99,medium,low,8,namesilo,,,
 1a240e3c-9192-4bd5-b6c5-5756a7bf4d75,miffed.education,available,,,medium,low,6,,,,
 69f6da53-bd25-4e20-b654-27ec93fae358,celiacdisease.education,available,39.99,,medium,low,14,name.com,,,
-4a89525d-15a3-4322-8903-37cd30d9582e,Iwantmymoneyback.education,available,34.99,34.99,medium,low,20,namesilo,,,
+4a89525d-15a3-4322-8903-37cd30d9582e,iwantmymoneyback.education,available,34.99,34.99,medium,low,20,namesilo,,,
 250064ca-5123-4745-a2f9-ef0513331fd9,lxxxvi.education,available,36.98,46.98,low,low,6,namecheap,,,
 41f30146-530d-418b-a648-bcde46e33943,musical.education,available,34.99,34.99,high,low,7,namesilo,,,
 ad34d5dc-4383-4d68-98a0-e64647b112f8,addressed.education,available,34.99,34.99,low,low,9,namesilo,,,
@@ -494,16 +493,16 @@ f9923357-83cd-425a-afe4-a04f8e2e2fac,diminished.education,available,34.99,34.99,
 cf29dadc-b913-45e4-89d8-615d3e105d35,fourteen.education,available,39.99,45.99,high,low,8,name.com,,,
 fb182014-b197-432a-8a7f-caaeb08cebb1,upstairs.education,available,34.99,34.99,high,low,8,namesilo,,,
 d384c755-bb27-439a-a128-048e98b35c5c,reply.education,available,39.99,,high,low,5,name.com,,,
-12293b7c-aed8-4581-b92d-af241ebb5ff2,NewEngland.education,available,39.99,,medium,low,11,name.com,,,
+12293b7c-aed8-4581-b92d-af241ebb5ff2,newengland.education,available,39.99,,medium,low,11,name.com,,,
 1985a22f-e48e-4ffd-9bf7-75be10de40a1,wisdom.education,resell,,,high,low,6,"Spaceship, Inc.",05/02/2023 15:15,05/02/2027 15:15,
 1a2cd0c1-b437-4315-8476-1a359671cd07,slighting.education,available,34.99,34.99,low,low,9,namesilo,,,09/08/2026 13:15
 b75301f0-be88-4234-8d23-2fa35518b7f8,hardatit.education,available,34.99,34.99,high,low,10,namesilo,,,
-b65b0629-37b2-44df-a285-365206fbda21,WestHill.education,available,34.99,34.99,low,low,9,namesilo,,,
-50fabd3b-7c3f-4844-8b3f-2f25d5b2962e,CostaRica.education,available,,,high,low,10,,,,
+b65b0629-37b2-44df-a285-365206fbda21,westhill.education,available,34.99,34.99,low,low,9,namesilo,,,
+50fabd3b-7c3f-4844-8b3f-2f25d5b2962e,costarica.education,available,,,high,low,10,,,,
 6297df6f-bbaf-4d44-8d0a-3b8a8dd8a978,painted.education,available,34.99,34.99,medium,low,7,namesilo,,,
 4a0baf13-7101-4e96-97b5-38098dc30703,gooutside.education,available,34.99,34.99,high,low,10,namesilo,,,
 16ed1a83-7cbb-4d36-8429-9e9bb55d8e06,freezingrain.education,available,34.99,34.99,medium,low,13,namesilo,,,
-44b599c1-3550-42b3-a4b8-02975c4c906b,Barbiepink.education,available,34.99,34.99,high,low,11,namesilo,,,
+44b599c1-3550-42b3-a4b8-02975c4c906b,barbiepink.education,available,34.99,34.99,high,low,11,namesilo,,,
 ba161eb0-ae55-47f9-b849-739c167cec9d,atthispoint.education,available,34.99,34.99,medium,low,13,namesilo,,,
 344288ac-2065-40dd-80d5-1bcdf1082d97,coy.education,available,39.99,45.99,medium,low,3,name.com,,,
 738cbadc-2670-4dac-b13d-69eb588cce04,hospital.education,available,34.99,34.99,medium,low,8,namesilo,,,
@@ -527,7 +526,7 @@ bb419def-e568-4b67-ac51-f47f97e15b0f,embayment.education,available,34.99,34.99,l
 f2b2f3ab-03b4-4388-b533-f242a5b4f03f,satanic.education,available,39.99,45.99,medium,low,7,name.com,,,
 a53370ac-41f3-4662-a27a-25e2dd16a576,monitory.education,available,34.99,34.99,low,low,8,namesilo,,,
 3014f3fa-3276-4707-aad8-5e1386ae0563,didnt.education,available,34.99,34.99,medium,low,5,namesilo,,,
-56244e7a-a793-4ca7-b146-ff71f9d29463,PeaceCorps.education,available,34.99,34.99,medium,low,11,namesilo,,,
+56244e7a-a793-4ca7-b146-ff71f9d29463,peacecorps.education,available,34.99,34.99,medium,low,11,namesilo,,,
 6ab4dc9c-fb83-4552-ac0a-b9ed47fc0902,literal.education,available,34.99,34.99,high,low,7,namesilo,,,
 f4b72140-88e5-45b1-9d63-476d3e5ed074,backless.education,available,34.99,34.99,low,low,8,namesilo,,,08/08/2026 05:48
 681a2852-83f9-4506-b0b3-9dbfc21e06d1,bacchanal.education,available,34.99,34.99,low,low,9,namesilo,,,08/08/2026 04:14
@@ -592,7 +591,7 @@ cbc58a46-99e7-40b9-8242-21b032a5bd26,mist.education,available,34.99,34.99,medium
 52fad3aa-b617-4336-8890-6bdab0baf3ea,cometoaclose.education,available,34.99,34.99,high,low,15,namesilo,,,
 081375fa-26b5-41ce-9beb-fc6589229521,recognized.education,available,39.99,45.99,high,low,10,name.com,,,
 0398422e-b931-4b3b-b264-19f01ea19697,wooden.education,available,34.99,34.99,medium,low,6,namesilo,,,
-be31db6b-1ecf-4948-9ed1-2d8963d37aad,Googler.education,available,39.99,,high,low,7,name.com,,,
+be31db6b-1ecf-4948-9ed1-2d8963d37aad,googler.education,available,39.99,,high,low,7,name.com,,,
 9e70a5ca-3b56-4da1-8724-217336e882f1,detection.education,available,34.99,34.99,medium,low,9,namesilo,,,
 585dcc7e-ffb5-417e-b679-2dd2cc6d786e,jetfuel.education,available,34.99,34.99,high,low,8,namesilo,,,
 4841a47a-4c05-4c7c-9ee0-47967bb8b78c,challenging.education,available,34.99,34.99,high,low,11,namesilo,,,
@@ -608,9 +607,9 @@ c23c9783-6b80-47cc-8797-174f9543b151,glancing.education,available,34.99,34.99,hi
 1aa91c3f-8002-4cba-9a23-2b5acf2bf84b,rein.education,available,34.99,34.99,high,low,4,namesilo,,,
 a4eb4d7b-c64f-400e-b5c6-8f3040d3bc5c,enginedriver.education,available,39.99,,medium,low,13,name.com,,,
 3161e11f-b9b0-4102-bc4b-02abdcc1352b,save.education,available,,,high,low,4,,,,
-f69799b3-faa4-44d4-b678-91f4aaf009a1,OurFather.education,available,34.99,34.99,low,low,10,namesilo,,,
+f69799b3-faa4-44d4-b678-91f4aaf009a1,ourfather.education,available,34.99,34.99,low,low,10,namesilo,,,
 7f2573ef-bc72-4201-a74c-42e05bdb8014,adnexal.education,available,34.99,34.99,low,low,7,namesilo,,,
-dd798e9c-b307-49ac-8c36-4c4a87e88212,IamwhatIam.education,available,34.99,34.99,medium,low,14,namesilo,,,
+dd798e9c-b307-49ac-8c36-4c4a87e88212,iamwhatiam.education,available,34.99,34.99,medium,low,14,namesilo,,,
 f143ddfc-3ad3-4e06-879b-9a658585c606,closequarters.education,available,34.99,34.99,medium,low,14,namesilo,,,
 b1c5496a-0b9b-4957-8cbe-a742c5d0f530,tribute.education,available,34.99,34.99,high,low,7,namesilo,,,
 a6524cd0-c6df-44e6-94b1-6934babc12b9,nettlesome.education,available,34.99,34.99,low,low,10,namesilo,,,
@@ -628,7 +627,7 @@ e3e51d70-4298-4b88-b3f7-701b8d44e520,prick.education,available,34.99,34.99,low,l
 1c1aad2d-4912-4d62-b00e-19f72c42952a,seem.education,available,34.99,34.99,high,low,4,namesilo,,,
 21f932ef-81dd-4440-8350-c6f5e6b2f236,tightenup.education,available,34.99,34.99,medium,low,10,namesilo,,,
 ddb44ceb-64ff-4779-8cea-8e6e4a48958e,businessventure.education,available,34.99,34.99,high,low,16,namesilo,,,
-c1cb63d3-d80d-4620-b10a-27c1c4c69563,firm.education,available,34.99,34.99,high,low,4,namesilo,,,
+c1cb63d3-d80d-4620-b10a-27c1c4c69563,firm.education,available,36.98,46.98,medium,low,4,namecheap,,,20/09/2026 02:35
 e3c8f48f-373e-42f6-9a1c-e1c9514a1758,allopathic.education,available,34.99,34.99,low,low,10,namesilo,,,
 3ecf6244-6e2a-4e90-be74-c9e89e08e782,peremptory.education,available,34.99,34.99,low,low,10,namesilo,,,07/08/2026 19:45
 4790d302-5dfc-4dd2-862f-2486b17425b6,avaricious.education,available,34.99,34.99,low,low,10,namesilo,,,07/08/2026 21:48
@@ -640,7 +639,6 @@ ad835253-32e5-4bb3-861a-5fa7f6a6d4e7,insure.education,available,34.99,34.99,high
 54330245-1d2d-4ad8-adb1-5cedf2568157,passengerseat.education,available,39.99,,high,low,14,name.com,,,
 7c0fa939-33ac-46e2-afae-7068a256f4d3,ambulant.education,available,34.99,34.99,low,low,8,namesilo,,,
 677aa965-9e39-49a5-a82f-7e090d3eb86f,tierce.education,available,34.99,34.99,low,low,6,namesilo,,,
-6e788d36-0d71-4526-8fcc-64e13db1e327,seventeen.education,available,,,high,medium,9,,,,
 2654dc95-ead7-474e-8aa1-747bcd9ed25c,owing.education,available,34.99,34.99,low,low,5,namesilo,,,
 2886e8fc-452e-4d91-b0a2-10312aa16e6f,hanger.education,available,39.99,,medium,low,6,name.com,,,
 3bf36f15-3d62-43fd-b00f-7bf5a78f5602,artmusic.education,available,34.99,34.99,high,low,9,namesilo,,,
@@ -668,11 +666,11 @@ acbcb764-404c-4806-a0e6-f1d50729568e,promising.education,available,34.99,34.99,h
 91636dd2-12cf-459b-9e74-0f19d6ee17fe,maketime.education,available,39.99,,high,low,9,name.com,,,
 2643a783-b879-4cc6-a039-7f5a7fbd5d22,generalsurgery.education,available,34.99,34.99,high,low,15,namesilo,,,
 b1b29f8d-ba71-451f-b9e3-1302332ce57c,aboral.education,available,34.99,34.99,low,low,6,namesilo,,,
-e90595db-e4b3-4621-8a1e-e79ced7cf02a,Dives.education,available,34.99,34.99,medium,low,5,namesilo,,,
+e90595db-e4b3-4621-8a1e-e79ced7cf02a,dives.education,available,34.99,34.99,medium,low,5,namesilo,,,
 66ad7948-7754-472f-ae09-be281a165051,alveolate.education,available,34.99,34.99,low,low,9,namesilo,,,
 b892f921-0c27-4e2b-bec3-7f4a225ab82a,uproar.education,available,39.99,,high,low,6,name.com,,,
 223559ba-e9dc-4288-861d-9054640cea35,solution.education,available,34.99,34.99,high,low,8,namesilo,,,
-834e59d0-5fa6-4d6f-b13d-f65239ab99ee,snack.education,available,34.99,34.99,medium,low,5,namesilo,,,08/09/2026 13:13
+834e59d0-5fa6-4d6f-b13d-f65239ab99ee,snack.education,available,34.99,34.99,medium,low,5,namesilo,,,19/09/2026 10:58
 a9435d76-a9e6-4d4b-8e21-b2658525669f,falls.education,available,34.99,34.99,high,low,5,namesilo,,,
 effea692-3547-4753-90f1-5c722ea0d025,forced.education,available,39.99,45.99,medium,low,6,name.com,,,
 a4fd164c-f16f-4338-8a1f-e4f474cac7d2,preview.education,available,34.99,34.99,high,low,7,namesilo,,,
@@ -701,15 +699,15 @@ d97ec01e-ac04-47d7-9171-d1a6c0702395,equivocal.education,available,34.99,34.99,l
 edd9d08a-6c98-46b4-9a9f-c3458b353c36,sestet.education,available,34.99,34.99,low,low,6,namesilo,,,
 9b8fd22d-bcb4-4b48-91f0-fdfd82ce0460,shear.education,available,34.99,34.99,medium,low,5,namesilo,,,
 825e66ff-b9c3-4ae9-b41e-6557232e5988,algolagnic.education,available,34.99,34.99,low,low,10,namesilo,,,
-1e41b6c3-81cf-425f-89c0-679cc102385f,NewRochelle.education,available,39.99,,low,low,12,name.com,,,
-d3fd63dd-1edf-4e7b-b7c2-a0a90f334177,Bluetooth.education,available,39.99,,high,low,9,name.com,,,
+1e41b6c3-81cf-425f-89c0-679cc102385f,newrochelle.education,available,39.99,,low,low,12,name.com,,,
+d3fd63dd-1edf-4e7b-b7c2-a0a90f334177,bluetooth.education,available,39.99,,high,low,9,name.com,,,
 eba4a9f5-82d9-4448-bd9d-b30fe09ea58c,atstake.education,available,34.99,34.99,medium,low,8,namesilo,,,
 814eb382-2e85-4873-af0d-822accb21259,scream.education,available,34.99,34.99,high,low,6,namesilo,,,
 d74acbba-e40d-4d75-bb8a-c41ae30051f3,achromous.education,available,34.99,34.99,low,low,9,namesilo,,,
 a06856ec-6a50-4f6a-a1ef-ce0a506e3bff,femalealpha.education,available,34.99,34.99,medium,low,12,namesilo,,,
 fbd60c5c-6b14-49bd-b93f-e8146320bf65,spicy.education,available,34.99,34.99,high,low,5,namesilo,,,
 099aaad5-dc0d-4ca0-8d3f-49477b303c71,ankledeep.education,available,34.99,34.99,low,low,10,namesilo,,,
-f763cf3b-6d9d-43fa-aa6b-105383b8d4f4,WestEuropean.education,available,34.99,34.99,low,low,13,namesilo,,,
+f763cf3b-6d9d-43fa-aa6b-105383b8d4f4,westeuropean.education,available,34.99,34.99,low,low,13,namesilo,,,
 e954d300-4711-4ebd-93fc-99c469042b22,asyet.education,available,34.99,34.99,low,low,6,namesilo,,,13/09/2026 21:52
 5c548f03-6b47-4665-8b8a-ef65d9b9a849,rested.education,available,39.99,,high,low,6,name.com,,,
 c8cc5438-2956-429b-93d4-79315f7c4698,cattax.education,available,34.99,34.99,medium,low,7,namesilo,,,
@@ -720,12 +718,12 @@ c0ea33cb-1633-4a21-947a-69391ced2041,grocery.education,available,34.99,34.99,med
 0affb6d5-0bb5-4fb4-9580-66c71a30574e,gaydog.education,available,34.99,34.99,medium,low,7,namesilo,,,
 4cb8fb7f-daee-4f53-870f-d324414ef930,veggiedog.education,available,34.99,34.99,high,low,10,namesilo,,,
 b81d5a06-a2e1-4fb0-a4bd-8601da4ecc6c,spellingword.education,available,34.99,34.99,medium,low,13,namesilo,,,
-01e4fe4d-3f74-45ef-9efe-b432e38e9ea9,Instagrammable.education,available,34.99,34.99,high,low,14,namesilo,,,
+01e4fe4d-3f74-45ef-9efe-b432e38e9ea9,instagrammable.education,available,34.99,34.99,high,low,14,namesilo,,,
 784966a9-c18b-4b56-8211-01ed27b8d1d8,carryoff.education,available,39.99,,medium,low,9,name.com,,,
 a34ebbb8-2e30-4622-a4ee-48ef05210114,arthistory.education,available,34.99,34.99,high,low,11,namesilo,,,
 551c6f55-2bad-438f-a530-edff2c83fcaa,mentalillness.education,available,34.99,34.99,medium,low,14,namesilo,,,
 4df9232d-b398-4714-aa9e-ece956eb88d6,forth.education,available,34.99,34.99,high,low,5,namesilo,,,
-954fe53b-5a96-4944-8db0-016f55aa603f,uniform.education,available,34.99,34.99,medium,low,7,namesilo,,,12/09/2026 03:44
+954fe53b-5a96-4944-8db0-016f55aa603f,uniform.education,available,34.99,34.99,medium,low,7,namesilo,,,19/09/2026 05:41
 32dd29dd-d1aa-42cd-9c6a-559fafc2dd88,allthebest.education,available,34.99,34.99,high,low,12,namesilo,,,
 4a454290-ebb7-429f-a469-78469b88d4ae,fascinating.education,available,39.99,,high,low,11,name.com,,,
 c9611c6b-5496-4620-b6cd-cf38445e41f4,shock.education,available,39.99,,medium,low,5,name.com,,,
@@ -741,12 +739,12 @@ d7a134a2-2a54-45ae-bddf-3ac53f2b7848,affected.education,available,34.99,34.99,lo
 54ebf4e8-1b53-48ff-945a-77029d8c62e4,believeyoume.education,available,34.99,34.99,medium,low,14,namesilo,,,
 0d4b2f07-5030-4a71-95a8-3982337236d7,drivehome.education,available,34.99,34.99,high,low,10,namesilo,,,
 c9a04b5c-1eae-453c-9931-357fab458571,blob.education,available,34.99,34.99,medium,low,4,namesilo,,,
-2f154ebd-464c-4863-a3a5-a93fd9540014,Irestmycase.education,available,39.99,,medium,low,14,name.com,,,
+2f154ebd-464c-4863-a3a5-a93fd9540014,irestmycase.education,available,39.99,,medium,low,14,name.com,,,
 ad70150d-eb48-42b5-a8af-a48999b15cd0,modesty.education,available,39.99,,high,low,7,name.com,,,
 bf65b845-998d-4713-af7f-aa8cbf719cb3,deejay.education,available,34.99,34.99,high,low,6,namesilo,,,
 0fc030a6-81e4-4aeb-bbc4-7d4041d0503d,aftermost.education,available,34.99,34.99,low,low,9,namesilo,,,
 884640eb-d7eb-49f0-b885-93368e8845dd,thankyoucard.education,available,34.99,34.99,low,low,14,namesilo,,,
-dcdcb103-fb12-4918-bcd2-14335cd5390b,TexasCity.education,available,34.99,34.99,low,low,10,namesilo,,,
+dcdcb103-fb12-4918-bcd2-14335cd5390b,texascity.education,available,34.99,34.99,low,low,10,namesilo,,,
 728785e1-9b88-4c56-a611-3628c6190ced,anodyne.education,available,34.99,34.99,low,low,7,namesilo,,,
 ea084a68-4ebe-46e5-9871-f2833e6f707c,magiccarpet.education,available,34.99,34.99,high,low,12,namesilo,,,
 09e3f364-c555-4560-bb71-b70bbd19a861,ataxic.education,available,34.99,34.99,low,low,6,namesilo,,,07/08/2026 12:32
@@ -759,12 +757,12 @@ f466fe2f-4bc1-4303-8756-f713f6fe58b2,flash.education,available,,,medium,low,5,,,
 14101cd8-f9c7-4236-9882-02d67da0dbc5,abstract.education,available,39.99,45.99,high,low,8,name.com,,,
 a5fc798a-8e69-43e7-bd0f-5ac9a5d0e52a,mother.education,available,34.99,34.99,high,low,6,namesilo,,,
 8fc84f46-e9dc-4704-a706-364fe0f585fd,achievable.education,available,39.99,45.99,high,low,10,name.com,,,
-3de59710-4e39-4f30-8db9-55e0f9fb019e,MMR.education,available,34.99,34.99,high,low,3,namesilo,,,
+3de59710-4e39-4f30-8db9-55e0f9fb019e,mmr.education,available,34.99,34.99,high,low,3,namesilo,,,
 cf94e1eb-1ad8-48bf-85d3-955243670d51,sympathize.education,available,34.99,34.99,high,low,10,namesilo,,,
 da294bd9-373c-4858-8670-a7de41c5324e,protected.education,available,34.99,34.99,high,low,9,namesilo,,,
 6908c0f2-ec20-486d-b08e-1d995f3e3dff,finally.education,available,34.99,34.99,high,low,7,namesilo,,,
 81b2cd06-6ef1-4a66-8f32-75be841fb163,pokeabout.education,available,39.99,,low,low,10,name.com,,,
-2908c8d3-d0de-446b-8e47-84b07aa8249c,processed.education,available,34.99,34.99,medium,low,9,namesilo,,,
+2908c8d3-d0de-446b-8e47-84b07aa8249c,processed.education,available,34.99,34.99,low,low,9,namesilo,,,19/09/2026 13:08
 93f6c951-a60c-4a42-9ff8-357a567647dc,alike.education,available,39.99,45.99,high,low,5,name.com,,,
 6435c0cb-afef-421e-8909-b09a144b576d,truant.education,available,34.99,34.99,medium,low,6,namesilo,,,08/08/2026 01:41
 62f9423c-5de1-4307-88f7-d189b788a4ce,leaveout.education,available,34.99,34.99,medium,low,9,namesilo,,,
@@ -791,7 +789,7 @@ edde1fb1-b520-46c4-ac2e-94f93d195b8c,autogenous.education,available,36.98,46.98,
 1f50ad0c-b2de-44ec-abdb-6ac8bad56cbb,asthecrowflies.education,available,39.99,,medium,low,17,name.com,,,
 d743ac11-0756-452e-b3df-0035bc6ada56,freaking.education,available,34.99,34.99,high,low,8,namesilo,,,
 96a31561-1d21-4938-a71f-97b194f1dcdd,luxury.education,premium,78.54,78.54,high,low,6,namesilo,,,
-9d4b8bdf-bb42-4f86-b145-5e0e3cd2b416,Cindy.education,available,34.99,34.99,high,low,5,namesilo,,,
+9d4b8bdf-bb42-4f86-b145-5e0e3cd2b416,cindy.education,available,34.99,34.99,high,low,5,namesilo,,,
 b23cd474-764c-438e-a8bb-de66ede423c4,grayheaded.education,available,34.99,34.99,medium,low,11,namesilo,,,
 b92d95e6-d161-4d09-86e4-f572ef6f4b2d,coffeemoney.education,available,34.99,34.99,high,low,12,namesilo,,,
 70917413-65dc-4680-ac14-ee9dadb9930b,disparity.education,available,34.99,34.99,medium,low,9,namesilo,,,
@@ -854,7 +852,7 @@ f963bd09-f2bf-479b-8920-e6054b0232eb,seedy.education,available,34.99,34.99,low,l
 63b3cb19-1556-499b-bd17-5b0f87edd52a,bandy.education,available,34.99,34.99,low,low,5,namesilo,,,08/08/2026 11:45
 d8320810-addc-4823-afc8-7b223ddeac92,ataloss.education,available,34.99,34.99,low,low,9,namesilo,,,07/08/2026 10:58
 49434e40-db5f-46f8-a41e-5b806791ce00,altricial.education,available,34.99,34.99,low,low,9,namesilo,,,
-88549f3c-dc6c-4012-918a-bfd6d90ae608,WestCountry.education,available,34.99,34.99,low,low,12,namesilo,,,
+88549f3c-dc6c-4012-918a-bfd6d90ae608,westcountry.education,available,34.99,34.99,low,low,12,namesilo,,,
 89899290-5613-4317-a4f9-77022a1ca583,laudable.education,available,34.99,34.99,low,low,8,namesilo,,,06/08/2026 07:01
 67754ac6-4009-4f35-be8c-d826533981b9,hero.education,resell,,,high,medium,4,"GoDaddy.com, LLC",30/09/2025 22:00,30/09/2026 22:00,
 bc29d4a9-09bd-4a44-bcd0-407a291a9629,twodozen.education,available,34.99,34.99,low,low,9,namesilo,,,
@@ -931,7 +929,7 @@ c219f04f-8cf7-4b89-a187-eba60ac57107,contingent.education,available,39.99,45.99,
 4bb856cd-397b-4ed3-9e6c-8665f79be612,thoseones.education,available,34.99,34.99,low,low,10,namesilo,,,
 d2d7637a-822d-4665-b9dc-1bc03c56ebf0,estado.education,available,39.99,,high,low,6,name.com,,,
 e30f08bc-a117-464e-b4f2-eabaa5c11099,bowed.education,available,34.99,34.99,low,low,5,namesilo,,,06/08/2026 14:55
-972a56cb-9107-4efb-b720-a44dfe27b09d,BJP.education,available,39.99,,medium,low,3,name.com,,,
+972a56cb-9107-4efb-b720-a44dfe27b09d,bjp.education,available,39.99,,medium,low,3,name.com,,,
 d2a5afee-94ea-45d3-b1a3-b670b20d22db,greatly.education,available,39.99,,high,low,7,name.com,,,
 c630a576-d8d5-491c-a3ec-a89416f22d24,completely.education,available,39.99,45.99,medium,low,10,name.com,,,
 75023350-b3a9-4b9e-9c51-8ca6db913ab6,incidental.education,available,34.99,34.99,low,low,10,namesilo,,,
@@ -940,11 +938,10 @@ bcb81c7e-f52b-4f48-9817-bd21c54e97b5,named.education,available,34.99,34.99,mediu
 25b5f132-e3cb-4cee-b204-fe6aeffbe0d2,banded.education,available,34.99,34.99,low,low,6,namesilo,,,08/08/2026 11:40
 c9b691e2-05cf-4776-ae12-88069c1af469,funnylooking.education,available,39.99,,medium,low,13,name.com,,,
 ff001a3c-a542-4ca8-bafa-9cedf426397a,signup.education,resell,,,high,low,7,Gandi SAS,15/11/2014 14:31,15/11/2026 14:31,
-93157b68-2df6-43db-88b8-1acc442b0ddb,Flags.education,available,34.99,34.99,medium,low,5,namesilo,,,
+93157b68-2df6-43db-88b8-1acc442b0ddb,flags.education,available,34.99,34.99,medium,low,5,namesilo,,,
 5a33c130-c435-44bb-9a2c-59f5a6489b00,howdoyoulikethat.education,available,34.99,34.99,medium,low,20,namesilo,,,
 52374985-13c6-42da-9165-e16467ebfd56,indeed.education,available,,,high,low,6,,,,
 98e225bd-abcf-4c85-b5b7-0e1ef0667df1,rake.education,available,34.99,34.99,medium,low,4,namesilo,,,
-394601f7-a5d3-4b19-993b-9dc3c2437f8a,even.education,available,,,high,low,4,,,,
 125c0910-491b-4831-bcf1-23653a923b5b,kitchen.education,available,34.99,34.99,medium,low,7,namesilo,,,
 79e7b273-d617-40c5-9bf2-40cfece02c3d,nothanks.education,available,39.99,,medium,low,9,name.com,,,
 1ee52d75-fc11-4d76-a837-f83f3a752821,husband.education,available,34.99,34.99,high,low,7,namesilo,,,
@@ -952,14 +949,14 @@ dc09a675-a8f1-4730-b968-835d5adfa2ff,twoscore.education,available,34.99,34.99,lo
 350a0209-94f9-4663-97ba-f84d80f06bc8,nuts.education,available,34.99,34.99,medium,low,4,namesilo,,,
 f1b93a9b-fdb6-4e02-a9b6-39fa4806cd3d,quiet.education,available,34.99,34.99,high,low,5,namesilo,,,
 faf43692-ac04-4012-ac00-6ff56b76784a,anticipate.education,available,34.99,34.99,high,low,10,namesilo,,,
-6f162acf-20a6-43b1-b604-bce2f9dcf756,Duracell.education,available,39.99,,high,low,8,name.com,,,
+6f162acf-20a6-43b1-b604-bce2f9dcf756,duracell.education,available,39.99,,high,low,8,name.com,,,
 a77bf4c0-414d-4ec5-ab41-8bf9ae01a774,sniff.education,available,34.99,34.99,high,low,5,namesilo,,,
 c5204568-cef2-4bf4-a50b-ae5da5c7ac5f,amnionic.education,available,34.99,34.99,low,low,8,namesilo,,,
-a34a8fb3-afac-462c-9020-79c4af6f33a1,Ijustworkhere.education,available,34.99,34.99,medium,low,16,namesilo,,,
-83ccbb80-9282-4e38-920f-724337800e2a,McMuffin.education,available,39.99,,high,low,8,name.com,,,
+a34a8fb3-afac-462c-9020-79c4af6f33a1,ijustworkhere.education,available,34.99,34.99,medium,low,16,namesilo,,,
+83ccbb80-9282-4e38-920f-724337800e2a,mcmuffin.education,available,39.99,,high,low,8,name.com,,,
 8265d410-7e72-4c3e-8b16-f2ab9f6a2f21,xii.education,available,39.99,45.99,medium,low,3,name.com,,,
 f767a65f-006d-4c23-b0a4-92a3e8dac8e9,maintained.education,available,34.99,34.99,medium,low,10,namesilo,,,
-cbc0ef23-ad48-424f-bdbd-f567d5f48daa,HBO.education,available,,,high,low,3,,,,
+cbc0ef23-ad48-424f-bdbd-f567d5f48daa,hbo.education,available,,,high,low,3,,,,
 b6146745-29d8-49aa-83cd-7ae321f94d67,blonde.education,available,34.99,34.99,high,low,6,namesilo,,,
 b2be1b44-8cca-47ba-8495-f9f271178cd8,dogshot.education,available,34.99,34.99,high,low,8,namesilo,,,
 6ebc195f-52d8-40de-8175-7596b125546b,aural.education,available,34.99,34.99,medium,low,5,namesilo,,,
@@ -969,10 +966,10 @@ b2be1b44-8cca-47ba-8495-f9f271178cd8,dogshot.education,available,34.99,34.99,hig
 7cc41c0b-6343-4998-9c22-4f9a0f2aa486,affluence.education,available,34.99,34.99,high,low,9,namesilo,,,
 73630c8c-9164-4aec-87ba-148ae18bf746,illusion.education,available,34.99,34.99,medium,low,8,namesilo,,,
 a952f8ae-0f68-4f94-bd11-bf24fb98745b,myson.education,available,34.99,34.99,high,low,6,namesilo,,,
-87eacd63-697f-4f1e-9cc2-61ee85041647,Netherlands.education,available,,,medium,low,11,,,,
+87eacd63-697f-4f1e-9cc2-61ee85041647,netherlands.education,available,,,medium,low,11,,,,
 b5ef5cc8-cfc6-4a02-94f2-6a5569e5b3c0,scornful.education,available,39.99,45.99,medium,low,8,name.com,,,
 b80b5fef-be5f-4105-a3fd-5590fd1976ae,contraband.education,available,34.99,34.99,high,low,10,namesilo,,,
-966fb863-a095-4a51-8f98-94c8442cebcc,Ithinkso.education,available,34.99,34.99,medium,low,10,namesilo,,,
+966fb863-a095-4a51-8f98-94c8442cebcc,ithinkso.education,available,34.99,34.99,medium,low,10,namesilo,,,
 153aad45-6e44-4f61-8d5c-d73b3b302cca,display.education,available,34.99,34.99,medium,low,7,namesilo,,,08/09/2026 08:33
 9e7678eb-4807-4ddb-ba27-196efede80dc,closeoff.education,available,34.99,34.99,high,low,9,namesilo,,,
 59e6a1cf-2759-4bf5-92b3-b13f35cd6fbc,bacchic.education,available,34.99,34.99,low,low,7,namesilo,,,08/08/2026 04:19
@@ -984,7 +981,7 @@ ca16abe0-75e1-4608-b7c6-ec364a970080,keepgoing.education,available,34.99,34.99,h
 1cb8fb2b-24e8-40e6-8268-0fc575312f52,however.education,available,34.99,34.99,high,low,7,namesilo,,,
 9d75678b-9a22-41d5-856b-67494a46805f,anosmatic.education,available,34.99,34.99,low,low,9,namesilo,,,
 cb3c6f78-94eb-4e57-b41b-d761af102308,disorganized.education,available,34.99,34.99,medium,low,12,namesilo,,,
-79ec5f88-d54c-49f4-8feb-45bff9c73542,Shakira.education,available,34.99,34.99,high,low,7,namesilo,,,
+79ec5f88-d54c-49f4-8feb-45bff9c73542,shakira.education,available,34.99,34.99,high,low,7,namesilo,,,
 e98b82fc-3abd-4441-958b-9c06bebf5c14,bacillar.education,available,34.99,34.99,low,low,8,namesilo,,,08/08/2026 04:51
 b1402108-2b8c-4e86-b961-aaf733075618,manmade.education,available,34.99,34.99,medium,low,8,namesilo,,,
 25289d29-0c4f-44a1-9546-7295734bfea9,ensuant.education,available,34.99,34.99,low,low,7,namesilo,,,
@@ -995,7 +992,10 @@ a13b5129-feb6-4d12-998d-df9901c89111,scheme.education,available,34.99,34.99,medi
 ee29c9e8-1971-4e33-8930-03b28af61733,supplied.education,available,34.99,34.99,low,low,8,namesilo,,,
 3f84971f-1f0f-416f-a8cb-866fb43c2032,aberrant.education,available,34.99,34.99,low,low,8,namesilo,,,
 9c7426b6-b60d-43b6-8003-935ff3f7c9a1,butt.education,available,34.99,34.99,low,low,4,namesilo,,,09/08/2026 10:40
-6972d6fe-348d-4a5a-a66e-267e40220ba0,Irishhospitality.education,available,34.99,34.99,high,low,17,namesilo,,,
+6972d6fe-348d-4a5a-a66e-267e40220ba0,irishhospitality.education,available,34.99,34.99,high,low,17,namesilo,,,
 b83027f8-1979-4315-9f40-5469d535436d,analog.education,available,34.99,34.99,low,low,6,namesilo,,,
 477d3ae1-df0b-4273-9fb6-64c9d2d4da05,detox.education,available,34.99,34.99,high,low,5,namesilo,,,
 c54e05a0-c7e9-44e8-a070-52351d43c52a,dependon.education,available,34.99,34.99,high,low,9,namesilo,,,
+6ddba3f0-7bee-4f69-a5bb-24920e9ee4b4,attract.education,available,34.99,34.99,high,low,7,namesilo,,,
+3a099e23-dbf6-4ee1-ad7b-bbe9220922ff,wobbly.education,available,39.99,,medium,low,6,name.com,,,
+c6f7f696-dab3-4c2e-9ab4-abc2be466944,sevener.education,available,34.99,34.99,low,low,7,namesilo,,,
