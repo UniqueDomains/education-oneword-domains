@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .education one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,552 domains · **Median ask:** $36.28 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/education`
 **Best for:** founders, investors, studios
 
@@ -64,19 +64,18 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| quiet.education  | available | $34.99    | $34.99        | high           | low    | 5      | namesilo                   |
 | period.education | available | $34.99    | $34.99        | high           | low    | 6      | namesilo                   |
 | bjp.education    | available | $39.99    | —             | medium         | low    | 3      | name.com                   |
-| bot.education    | resell    | —         | —             | high           | medium | 3      | Edomains LLC               |
+| bot.education    | resell    | —         | —             | medium         | low    | 3      | Edomains LLC               |
 | ash.education    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                   |
-| coy.education    | available | $39.99    | $45.99        | medium         | low    | 3      | name.com                   |
+| coy.education    | available | $34.99    | $34.99        | low            | low    | 3      | namesilo                   |
 | lit.education    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC           |
 | run.education    | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                   |
 | err.education    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                   |
 | edge.education   | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.            |
-| cheap.education  | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo                   |
+| cheap.education  | premium   | $78.54    | $78.54        | low            | low    | 5      | namesilo                   |
 | hum.education    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                   |
-| fast.education   | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC |
+| fast.education   | resell    | —         | —             | medium         | low    | 4      | Squarespace Domains II LLC |
 | group.education  | premium   | $128.70   | $128.70       | high           | low    | 5      | namecheap                  |
 | ixc.education    | available | $36.98    | $46.98        | low            | low    | 3      | namecheap                  |
 | full.education   | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC                |
@@ -84,6 +83,7 @@ print(df.head())
 | let.education    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                   |
 | game.education   | resell    | —         | —             | medium         | low    | 4      | —                          |
 | credit.education | premium   | $78.54    | $78.54        | medium         | low    | 6      | namesilo                   |
+| llp.education    | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
