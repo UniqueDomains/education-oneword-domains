@@ -1,10 +1,10 @@
-# Available .EDUCATION One-Word Domains (23,822)
+# Available .EDUCATION One-Word Domains (25,763)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C822%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C763%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .education one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,822 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,763 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,822 domains · **Median ask:** $35.83 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 25,763 domains · **Median ask:** $35.31 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/education`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| family.education     | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.   |
-| educated.education   | available | $34.99    | $34.99        | high           | low    | 8      | namesilo          |
-| protective.education | available | $34.99    | $34.99        | high           | low    | 10     | namesilo          |
-| cipher.education     | available | $34.99    | $34.99        | high           | low    | 6      | namesilo          |
-| comic.education      | available | $34.99    | $34.99        | high           | low    | 5      | namesilo          |
-| yard.education       | available | $34.99    | $34.99        | high           | low    | 4      | namesilo          |
-| study.education      | premium   | $68.51    | $68.51        | high           | low    | 5      | spaceship         |
-| nutritious.education | available | $36.98    | $46.98        | high           | low    | 10     | namecheap         |
-| ana.education        | available | $21.62    | $29.11        | high           | low    | 3      | dynadot           |
-| hope.education       | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
-| moe.education        | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
-| awn.education        | available | $34.99    | $34.99        | high           | low    | 3      | namesilo          |
-| coins.education      | resell    | —         | —             | high           | medium | 5      | Dynadot Inc       |
-| sat.education        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| bel.education        | available | $34.99    | $34.99        | high           | low    | 3      | namesilo          |
-| agency.education     | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 13 |
-| show.education       | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo          |
-| bia.education        | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo          |
-| great.education      | premium   | $78.54    | $78.54        | high           | medium | 5      | namesilo          |
-| bin.education        | available | $34.99    | $34.99        | high           | low    | 3      | namesilo          |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| ana.education       | available | $21.62    | $29.11        | high           | low    | 3      | dynadot                                     |
+| hope.education      | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                |
+| moe.education       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                    |
+| awn.education       | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                    |
+| coins.education     | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                 |
+| sat.education       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| bel.education       | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                    |
+| agency.education    | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 13                           |
+| show.education      | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                    |
+| bia.education       | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo                                    |
+| family.education    | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.                             |
+| great.education     | premium   | $78.54    | $78.54        | high           | medium | 5      | namesilo                                    |
+| bin.education       | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                    |
+| guitar.education    | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                            |
+| group.education     | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                    |
+| cia.education       | available | $36.98    | $46.98        | high           | medium | 3      | namecheap                                   |
+| virtually.education | resell    | —         | —             | high           | low    | 9      | GoDaddy Online Services Cayman Islands Ltd. |
+| hindu.education     | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                    |
+| coy.education       | available | $34.99    | $34.99        | high           | low    | 3      | namesilo                                    |
+| study.education     | premium   | $68.51    | $68.51        | high           | low    | 5      | spaceship                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,822 live domains                        |
+| 1,000-row public sample | 25,763 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EDUCATION One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
